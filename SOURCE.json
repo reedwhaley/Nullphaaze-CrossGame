@@ -1,0 +1,305 @@
+{
+  "preservedNullphaazeSourceCommit": "a1aedba0ea22026f75672bc42f2535646a87d2fa",
+  "upstream": "Schwork-Corruption/corruptovania",
+  "upstreamRevision": "1a6af0d2489d67f40b0a1978903482668d4fc4a9",
+  "license": "GPL-3.0-or-later",
+  "gamePayloadsIncluded": false,
+  "adaptations": [
+    "Moved host-independent GC primitives to nullphaaze_crossgame.gc",
+    "Redirected internal primitive imports to the new package",
+    "Host catalog adapter reads packaged catalog metadata",
+    "Corrected old product spelling in selected original tests/tools",
+    "Host adapters remain explicit overlays; networking sources are external",
+    "Kept independent retail animation-bit decoder and extracted original compression oracle without host inspection code",
+    "Generated numeric GC catalog from original CATALOG constant; excluded GUI-only test"
+  ],
+  "files": [
+    {
+      "source": "preserved-nullphaaze/randovania/patching/prime/corruption_animation.py",
+      "path": "src/nullphaaze_crossgame/gc/corruption_animation.py",
+      "sourceSha256": "2345517ae5e1f9468a13ca9d64950e0d791682f42f476a037d1e8682d14058a9",
+      "sha256": "2345517ae5e1f9468a13ca9d64950e0d791682f42f476a037d1e8682d14058a9",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/randovania/patching/prime/corruption_character.py",
+      "path": "src/nullphaaze_crossgame/gc/corruption_character.py",
+      "sourceSha256": "b2aa0fd0d11988f83f52c72a5f82acf96ef7ad0749ce10949c0e4c5f09063a76",
+      "sha256": "c762afda3b9217b49b2f69652f7b74cd018a9eafff2211b231b276344eb6ccb7",
+      "adapted": true
+    },
+    {
+      "source": "preserved-nullphaaze/randovania/patching/prime/corruption_static_mesh.py",
+      "path": "src/nullphaaze_crossgame/gc/corruption_static_mesh.py",
+      "sourceSha256": "18f0efb023497d214a1fff3522f5df7950685de68d97902590eae3a8b7f9b909",
+      "sha256": "18f0efb023497d214a1fff3522f5df7950685de68d97902590eae3a8b7f9b909",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/randovania/patching/prime/corruption_texture.py",
+      "path": "src/nullphaaze_crossgame/gc/corruption_texture.py",
+      "sourceSha256": "ea302beeb6c39452e232130aa3605c32f590b293b4c067269afbac0a26d4bd33",
+      "sha256": "ea302beeb6c39452e232130aa3605c32f590b293b4c067269afbac0a26d4bd33",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/randovania/patching/prime/corruption_particles.py",
+      "path": "src/nullphaaze_crossgame/gc/corruption_particles.py",
+      "sourceSha256": "6199fae84ce2ce39e1b8bcdf5d0ea87135b0a122c096d0ff077d75d3c21720c9",
+      "sha256": "06cf0efb1e2cc5146c41a1386f22777305f5a6e985dfb8c9df240b3dcac9ed44",
+      "adapted": true
+    },
+    {
+      "source": "preserved-nullphaaze/randovania/patching/prime/corruption_particle_curves.py",
+      "path": "src/nullphaaze_crossgame/gc/corruption_particle_curves.py",
+      "sourceSha256": "0c8eb73c25f7d85dd7368595019c36629c9ceb6061e61d8eb850526bc439b5e2",
+      "sha256": "0c8eb73c25f7d85dd7368595019c36629c9ceb6061e61d8eb850526bc439b5e2",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/randovania/patching/prime/corruption_model_scale.py",
+      "path": "src/nullphaaze_crossgame/gc/corruption_model_scale.py",
+      "sourceSha256": "235cb680c7ba85bedd71d658d45f939ca8d2c8e3afafd88411d31df6e6fc761a",
+      "sha256": "8623c22e6559990d341965ba2e7fc1acdedbc56d8becc1189e26c3e58054fd46",
+      "adapted": true
+    },
+    {
+      "source": "preserved-nullphaaze/randovania/patching/prime/corruption_file_provider.py",
+      "path": "src/nullphaaze_crossgame/gc/corruption_file_provider.py",
+      "sourceSha256": "c4e8cd3c0c820fa2180a63758dbad3b9798018aef6c8041c5f4c503c6c8eaa2d",
+      "sha256": "c4e8cd3c0c820fa2180a63758dbad3b9798018aef6c8041c5f4c503c6c8eaa2d",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/randovania/patching/prime/prime_pickup_dimensions.py",
+      "path": "src/nullphaaze_crossgame/gc/prime_pickup_dimensions.py",
+      "sourceSha256": "9f8718aa04c2ec65de6f7c05f3a2ae4e496788963bb2dfe599cf4361438b4fb9",
+      "sha256": "9f8718aa04c2ec65de6f7c05f3a2ae4e496788963bb2dfe599cf4361438b4fb9",
+      "adapted": false
+    },
+    {
+      "source": "mp3-networking/tools/corruption_model_export/backport.py",
+      "path": "src/nullphaaze_crossgame/backport.py",
+      "sourceSha256": "03ae5319a4f4957032643cc37809ed59137f19027d7a36480043d46d2420834d",
+      "sha256": "03ae5319a4f4957032643cc37809ed59137f19027d7a36480043d46d2420834d",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/randovania/data/prime3/imported_model_catalog.json",
+      "path": "src/nullphaaze_crossgame/data/imported_model_catalog.json",
+      "sourceSha256": "d141c55af922f675c12626d714668516842f845093147797f01806ce62e38d86",
+      "sha256": "d141c55af922f675c12626d714668516842f845093147797f01806ce62e38d86",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/randovania/patching/prime/corruption_models.py",
+      "path": "adapters/randovania/patching/prime/corruption_models.py",
+      "sourceSha256": "87f04b1b37ea6a8c90fe3d5cd4c3c00aa2483ae12702e9ab403ff1c5ea2999c9",
+      "sha256": "51db677aaac18d1185efb6b095bd46ad1be96251753bff95f00a5b952c681640",
+      "adapted": true
+    },
+    {
+      "source": "preserved-nullphaaze/randovania/patching/prime/corruption_pickup_models.py",
+      "path": "adapters/randovania/patching/prime/corruption_pickup_models.py",
+      "sourceSha256": "c1937fa8cd59731472e21ccdaee8e357560b48f7af34cdbd176501f60e7de2e6",
+      "sha256": "c1937fa8cd59731472e21ccdaee8e357560b48f7af34cdbd176501f60e7de2e6",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/randovania/patching/prime/corruption_actor_pass.py",
+      "path": "adapters/randovania/patching/prime/corruption_actor_pass.py",
+      "sourceSha256": "00a17b61d2b9ad52a0257e1bd66db914422e375b1f15b992987337b1eba02085",
+      "sha256": "00a17b61d2b9ad52a0257e1bd66db914422e375b1f15b992987337b1eba02085",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/randovania/patching/prime/asset_conversion.py",
+      "path": "adapters/randovania/patching/prime/asset_conversion.py",
+      "sourceSha256": "6d4b010db0d93402505df1b499e56a68db6b8d8d0dccabc8f1372a3a88b17370",
+      "sha256": "6d4b010db0d93402505df1b499e56a68db6b8d8d0dccabc8f1372a3a88b17370",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/randovania/lib/rds_compat.py",
+      "path": "adapters/randovania/lib/rds_compat.py",
+      "sourceSha256": "b963c49c9f13894f464dd87add04d56926f579e26753e1db95105b34cdacebf4",
+      "sha256": "b963c49c9f13894f464dd87add04d56926f579e26753e1db95105b34cdacebf4",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/nullphaaze_network/prime3_lua_service/imported_gallery_assets.py",
+      "path": "adapters/nullphaaze_network/prime3_lua_service/imported_gallery_assets.py",
+      "sourceSha256": "bb1636ac6cdf966a72ead4afd59f87cd8d99c930e4cdb4c09ae9f9d963662f65",
+      "sha256": "bb1636ac6cdf966a72ead4afd59f87cd8d99c930e4cdb4c09ae9f9d963662f65",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/nullphaaze_network/prime3_lua_service/imported_gallery_build.py",
+      "path": "adapters/nullphaaze_network/prime3_lua_service/imported_gallery_build.py",
+      "sourceSha256": "b9a326f4f145b498c0b37ba7a2743f5f496debe2f7603b6a918aa0e9b25528aa",
+      "sha256": "b9a326f4f145b498c0b37ba7a2743f5f496debe2f7603b6a918aa0e9b25528aa",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/nullphaaze_network/prime3_lua_service/imported_gallery_catalog.py",
+      "path": "adapters/nullphaaze_network/prime3_lua_service/imported_gallery_catalog.py",
+      "sourceSha256": "e6c80fd3e4d355339d55c27a2a5bb95108d24c21309edf41036f1ce2b58dc34c",
+      "sha256": "e6c80fd3e4d355339d55c27a2a5bb95108d24c21309edf41036f1ce2b58dc34c",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/nullphaaze_network/prime3_lua_service/imported_gallery_material_controls.py",
+      "path": "adapters/nullphaaze_network/prime3_lua_service/imported_gallery_material_controls.py",
+      "sourceSha256": "2ff1758785d1a7c6722723a8710b4f964a7052ef08064b5c0673d6b34cc2534d",
+      "sha256": "2ff1758785d1a7c6722723a8710b4f964a7052ef08064b5c0673d6b34cc2534d",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/nullphaaze_network/prime3_lua_service/imported_gallery_opaque_emission.py",
+      "path": "adapters/nullphaaze_network/prime3_lua_service/imported_gallery_opaque_emission.py",
+      "sourceSha256": "e8c4a5b683c81670a504e4c948d27a922c477f18fd9e04afd8993944611e8cd8",
+      "sha256": "e8c4a5b683c81670a504e4c948d27a922c477f18fd9e04afd8993944611e8cd8",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/nullphaaze_network/prime3_lua_service/imported_gallery_presentation.py",
+      "path": "adapters/nullphaaze_network/prime3_lua_service/imported_gallery_presentation.py",
+      "sourceSha256": "c3df246147191347cab90a07394ecb86a6ab46a27d3bef17a54547c5a9f32051",
+      "sha256": "c3df246147191347cab90a07394ecb86a6ab46a27d3bef17a54547c5a9f32051",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/nullphaaze_network/prime3_lua_service/imported_gallery_sources.py",
+      "path": "adapters/nullphaaze_network/prime3_lua_service/imported_gallery_sources.py",
+      "sourceSha256": "19c77dd7a4a4228afc9b70824eb58700aef40b3ab6a4ff0aa933b2b585192eb2",
+      "sha256": "19c77dd7a4a4228afc9b70824eb58700aef40b3ab6a4ff0aa933b2b585192eb2",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/nullphaaze_network/prime3_lua_service/imported_model_animation.py",
+      "path": "adapters/nullphaaze_network/prime3_lua_service/imported_model_animation.py",
+      "sourceSha256": "ed10e690a89759c517ee8db2f4d7fd10eb9b8b615d5f05cc4c4b16f6e4106a66",
+      "sha256": "ed10e690a89759c517ee8db2f4d7fd10eb9b8b615d5f05cc4c4b16f6e4106a66",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/nullphaaze_network/prime3_lua_service/imported_model_effects.py",
+      "path": "adapters/nullphaaze_network/prime3_lua_service/imported_model_effects.py",
+      "sourceSha256": "646168b2cc03e8b7ec78b1e7edeb525d9778dee61c9776219e8cdd49c23749e8",
+      "sha256": "646168b2cc03e8b7ec78b1e7edeb525d9778dee61c9776219e8cdd49c23749e8",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/nullphaaze_network/prime3_lua_service/imported_model_probe.py",
+      "path": "adapters/nullphaaze_network/prime3_lua_service/imported_model_probe.py",
+      "sourceSha256": "0a2714b826cc2d9c126855f8360038d9103de23aa7d2b2d585dc814765bd90e7",
+      "sha256": "0a2714b826cc2d9c126855f8360038d9103de23aa7d2b2d585dc814765bd90e7",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/nullphaaze_network/prime3_lua_service/imported_model_rig.py",
+      "path": "adapters/nullphaaze_network/prime3_lua_service/imported_model_rig.py",
+      "sourceSha256": "5921eda7415d750391bfde4a8bedf1992e4b377dbe9a4f98e325981b244ed40d",
+      "sha256": "5921eda7415d750391bfde4a8bedf1992e4b377dbe9a4f98e325981b244ed40d",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/nullphaaze_network/prime3_lua_service/multiworld_models.py",
+      "path": "adapters/nullphaaze_network/prime3_lua_service/multiworld_models.py",
+      "sourceSha256": "421bbebfb10be863337a146a1b19f0909c5b24d59693b22f84984c0dd5a4bec5",
+      "sha256": "421bbebfb10be863337a146a1b19f0909c5b24d59693b22f84984c0dd5a4bec5",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/LICENSE",
+      "path": "LICENSE",
+      "sourceSha256": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
+      "sha256": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
+      "adapted": false
+    },
+    {
+      "source": "mp3-networking/tools/corruption_model_export/build_proof.py",
+      "path": "tools/rigid_backport/build_proof.py",
+      "sourceSha256": "991ca2ca4b2b862d3d45d521e6d12807135539331396350ec04df499f16f2a7c",
+      "sha256": "991ca2ca4b2b862d3d45d521e6d12807135539331396350ec04df499f16f2a7c",
+      "adapted": false
+    },
+    {
+      "source": "mp3-networking/tools/corruption_model_export/script_bytes.py",
+      "path": "tools/rigid_backport/script_bytes.py",
+      "sourceSha256": "c89e8443a8218c74a57f6643351ee3deac3e047f00627196966a59f9f617866b",
+      "sha256": "c89e8443a8218c74a57f6643351ee3deac3e047f00627196966a59f9f617866b",
+      "adapted": false
+    },
+    {
+      "source": "mp3-networking/tools/corruption_model_export/audit_collection.py",
+      "path": "tools/rigid_backport/audit_collection.py",
+      "sourceSha256": "5083e5c4403b4d211590358eb9f011c02411225102e154752cf72a176646e718",
+      "sha256": "5083e5c4403b4d211590358eb9f011c02411225102e154752cf72a176646e718",
+      "adapted": false
+    },
+    {
+      "source": "mp3-networking/tools/corruption_model_export/runtime_inventory.py",
+      "path": "tools/rigid_backport/runtime_inventory.py",
+      "sourceSha256": "527d39df7fa33578dbeb39f6d95da43adaee7c39df96cfd48118bc1018235d9c",
+      "sha256": "527d39df7fa33578dbeb39f6d95da43adaee7c39df96cfd48118bc1018235d9c",
+      "adapted": false
+    },
+    {
+      "source": "mp3-networking/test/games/prime1/exporter/test_corruption_animation.py",
+      "path": "tests/test_gc_animation.py",
+      "sourceSha256": "3f2ccb48449fde220ac88c53dedf04babf50ad745b1b1510004a004a1c2e9d2c",
+      "sha256": "6b89a34d746549259cd8da3a7ab6c8f03ba6720b96597ba2e0d87adce5ee6577",
+      "adapted": true
+    },
+    {
+      "source": "mp3-networking/test/games/prime1/exporter/test_corruption_character.py",
+      "path": "tests/test_gc_character.py",
+      "sourceSha256": "8e6acbd83604018af8aa0315b036960a1f32cc23f3fd3ad81c37395598b4632e",
+      "sha256": "30a6c155289c8707634d832a402fbfd64ad6062b0df7d84223ae6139aeb6987d",
+      "adapted": true
+    },
+    {
+      "source": "mp3-networking/test/games/prime1/exporter/test_corruption_particle_curves.py",
+      "path": "tests/test_gc_particle_curves.py",
+      "sourceSha256": "6307b5b26abfff968ba1e63f40c8d811da3e9c2a28273e17642be0e58760bab7",
+      "sha256": "cae4a15b246fb19e00a054469c4f168466ae304796656e36806adfa1e6751037",
+      "adapted": true
+    },
+    {
+      "source": "mp3-networking/test/games/prime1/exporter/test_corruption_texture.py",
+      "path": "tests/test_gc_texture.py",
+      "sourceSha256": "dcdf9a859800e93bd5b7c599302191f97df9544b58c603cbddb49406742c88a5",
+      "sha256": "1afa8d4a0b7d64b74dad1efec46fbf096d12a669aab61bfed9d7aa56bff9ce80",
+      "adapted": true
+    },
+    {
+      "source": "mp3-networking/tools/corruption_model_export/test_backport.py",
+      "path": "tests/test_backport.py",
+      "sourceSha256": "82d0a682a2cebedc000a802a3e994158fb0a139bd287ed426baede5e793a118a",
+      "sha256": "82d0a682a2cebedc000a802a3e994158fb0a139bd287ed426baede5e793a118a",
+      "adapted": false
+    },
+    {
+      "source": "mp3-networking/tools/corruption_model_export/audit_fidelity.py",
+      "path": "tools/rigid_backport/animation_audit.py",
+      "sourceSha256": "72cf0ab5ece67f60a30f551a254a72ee3250de67ba155878aba079ec80c8dd68",
+      "sha256": "feb6cfd0a0fc70814e7ff019ae215d056a6f1f3cae9ba0ffc9c4d644af8ef28f",
+      "adapted": true
+    },
+    {
+      "source": "mp3-networking/tools/corruption_model_export/native_animation.py",
+      "path": "tools/rigid_backport/native_animation.py",
+      "sourceSha256": "7f801acfaa099ca4d51c8035ee3152c8fe519ee081d43ff743fa7e75280a04fd",
+      "sha256": "7f801acfaa099ca4d51c8035ee3152c8fe519ee081d43ff743fa7e75280a04fd",
+      "adapted": false
+    },
+    {
+      "source": "preserved-nullphaaze/randovania/data/prime3/randomprime-LICENSE.txt",
+      "path": "src/nullphaaze_crossgame/data/randomprime-LICENSE.txt",
+      "sourceSha256": "dfdbff5969a54af5032c8980d8a3ee32f675b077ab73fa30f765f2c96b21d6e1",
+      "sha256": "dfdbff5969a54af5032c8980d8a3ee32f675b077ab73fa30f765f2c96b21d6e1",
+      "adapted": false
+    }
+  ]
+}

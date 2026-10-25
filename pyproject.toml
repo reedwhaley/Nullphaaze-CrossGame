@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools==75.8.0", "wheel==0.45.1"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nullphaaze-crossgame"
+version = "0.1.0"
+description = "Cross-game model conversion primitives, catalogs and host adapters"
+readme = "README.md"
+requires-python = ">=3.12"
+license = {file = "LICENSE"}
+dependencies = ["construct==2.10.70", "retro-data-structures==0.44.1", "nod==1.9.4"]
+
+[project.optional-dependencies]
+test = ["pytest>=8", "psutil==7.0.0"]
+host = ["open-prime-rando==0.15.1"]
+
+[project.scripts]
+nullphaaze-backport = "nullphaaze_crossgame.backport:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["nullphaaze_crossgame*"]
+
+[tool.setuptools.package-data]
+nullphaaze_crossgame = ["data/*.json", "data/*.txt"]

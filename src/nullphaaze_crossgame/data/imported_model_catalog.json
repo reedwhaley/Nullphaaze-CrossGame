@@ -1,0 +1,3778 @@
+{
+  "prime_catalog": [
+    {
+      "name": "Missile",
+      "model": 763258256,
+      "ancs": 2847466566,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "f5c505db4b16354001febe8654e75f7abdb1286a5cc803436342b5f6b5fef6c4"
+    },
+    {
+      "name": "EnergyTank",
+      "model": 2257617817,
+      "ancs": 4084976583,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "0a3a7e9b06cf51e75ac8111cf2706cfcdf443538df1f8fe871b3f863468d5126"
+    },
+    {
+      "name": "Visor",
+      "model": 1641724246,
+      "ancs": 2668400778,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "1c137a90815567f3bf3ebc1e9f31a68e631ce87f3e4649675beefbc25d55108d"
+    },
+    {
+      "name": "CombatVisor",
+      "model": 3736010767,
+      "ancs": 3736010768,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "8e40ccd6c40d1878f15296d6b213697b1c881adecd2efacb742afc45375f8b82"
+    },
+    {
+      "name": "ThermalVisor",
+      "model": 3736010763,
+      "ancs": 3736010764,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "58a1a5b11b470c5d689fb9c022f50fe0ca7e653e6e19aacd666bf04ab7c87f6e"
+    },
+    {
+      "name": "XRayVisor",
+      "model": 3736010765,
+      "ancs": 3736010766,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "1538e7f81cc50f76804d464ac1eef058bfaa1bcf7d2647b8c7168f18a2e02f8d"
+    },
+    {
+      "name": "VariaSuit",
+      "model": 3449379862,
+      "ancs": 2749859767,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "66de4e41296f62dabe0180a7ec3318b8c2c13dc8612861d65da457d1f1b93b02"
+    },
+    {
+      "name": "GravitySuit",
+      "model": 2509532737,
+      "ancs": 665415686,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "85422dedbb02ac684f31af20185fdc789e760249d9ba7dbf93750d7ab5bbb449"
+    },
+    {
+      "name": "PhazonSuit",
+      "model": 3736010754,
+      "ancs": 3736010755,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "139d579d9c453dada97340bdbe5c8843d926a0c72f8416dd9d1b65c7ce0b2eec"
+    },
+    {
+      "name": "MorphBall",
+      "model": 2420017861,
+      "ancs": 756012489,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "a08f098cb3049e4827d7b8105e78a86e85c83696e686dd82d03810eb8a987c12"
+    },
+    {
+      "name": "BoostBall",
+      "model": 2420017861,
+      "ancs": 756012489,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "4022c4e4fc38ac0811349f634e707c9fd041c0b07a4d8c34b955472ac6038d2b"
+    },
+    {
+      "name": "SpiderBall",
+      "model": 2044288492,
+      "ancs": 756012489,
+      "character": 2,
+      "animation": 0,
+      "pickup_prefix_sha256": "d268a4dc9325f06ac3f4bcf723225f05d2bd5bb31ae802db0d9a1adef0af3d8b"
+    },
+    {
+      "name": "MorphBallBomb",
+      "model": 3042200871,
+      "ancs": 3658550851,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "3c785ad7c9dd2a66b19fedfb4a4ed83ed5d4eef76065edfe0d92c9f5061e7ccd"
+    },
+    {
+      "name": "PowerBombExpansion",
+      "model": 578646374,
+      "ancs": 190562206,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "2b5bc18fac4f7b2ed94c738b4099fd4ecf88738e6f3b54e2a27e2298a5f632d5"
+    },
+    {
+      "name": "PowerBomb",
+      "model": 3576872376,
+      "ancs": 4052824493,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "b95f982e7a93ae16bb4dc4213de4eaf0dd98cd46feb56b4e99b8397c0d3fab07"
+    },
+    {
+      "name": "ChargeBeam",
+      "model": 3309773825,
+      "ancs": 3821782003,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "d91b7c241d5b27b914244b40cf321a00a784c2611af0f3eb27a0a7562fff0cdd"
+    },
+    {
+      "name": "SpaceJumpBoots",
+      "model": 2701596122,
+      "ancs": 2577302014,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "d47d4fa8246a933626d317b976163d8f4b716ae53df4b179f1538e729162897b"
+    },
+    {
+      "name": "GrappleBeam",
+      "model": 4167442889,
+      "ancs": 3317034317,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "ae00b22b311d0a7766a635c9a8a4614b6cf74cf6627167f5212d52a60c9d40bb"
+    },
+    {
+      "name": "SuperMissile",
+      "model": 2235193072,
+      "ancs": 2080695176,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "888e8f3b0eed9a2750f6504a71b29bd6e35d3d8270ce14778fcc2919b7053e6b"
+    },
+    {
+      "name": "Wavebuster",
+      "model": 1956880358,
+      "ancs": 2080695176,
+      "character": 2,
+      "animation": 0,
+      "pickup_prefix_sha256": "cde144ad7c671fd3793eadeb1da4cc63659a2cabe7f02500dd69a9d3303d92e4"
+    },
+    {
+      "name": "IceSpreader",
+      "model": 2243590859,
+      "ancs": 2080695176,
+      "character": 3,
+      "animation": 0,
+      "pickup_prefix_sha256": "1ddec79dcc9f6dd0c0feb909ecac9905444f05e6b75f6d327fde2ca258afea6d"
+    },
+    {
+      "name": "Flamethrower",
+      "model": 3310075752,
+      "ancs": 2080695176,
+      "character": 1,
+      "animation": 0,
+      "pickup_prefix_sha256": "58e24598cf0c3223590a3ea9350943864ad17829e791ce6c6e17aafaa7376b5e"
+    },
+    {
+      "name": "FlamethrowerNew",
+      "model": 3736010780,
+      "ancs": 3736010781,
+      "character": 1,
+      "animation": 0,
+      "pickup_prefix_sha256": "c88e5d223f55990c33c8ef8b4fbcd5490da60c7c846d2c711c652244f8240c4a"
+    },
+    {
+      "name": "WaveBeam",
+      "model": 9925049,
+      "ancs": 159912706,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "20ec6271189ac9eafac30f09cf4cb2bf80bc54377fe4da1b29dad94a5c4a2274"
+    },
+    {
+      "name": "IceBeam",
+      "model": 3659903422,
+      "ancs": 1386459556,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "f77bdf85e71807534803edfbaa0618ae3f79f90caa1ff016a1c7124a18ad2e4f"
+    },
+    {
+      "name": "PlasmaBeam",
+      "model": 2811367786,
+      "ancs": 1670892571,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "5e3f135142cc931c75194ba03dc0b0c1ecf336fb90c8a8d943ef1c2c212d03e0"
+    },
+    {
+      "name": "ArtifactOfLifegiver",
+      "model": 2336797603,
+      "ancs": 4205430536,
+      "character": 7,
+      "animation": 0,
+      "pickup_prefix_sha256": "2e3e6399daa8b1edf7e08c5b15b415c83478aa189d9369a7766f3b7db1cda951"
+    },
+    {
+      "name": "ArtifactOfWild",
+      "model": 284032972,
+      "ancs": 4205430536,
+      "character": 6,
+      "animation": 0,
+      "pickup_prefix_sha256": "7657557c67fe2a5f67b37936ccee91c81fd23d516a4a9fcd8f433306991ccc6c"
+    },
+    {
+      "name": "ArtifactOfWorld",
+      "model": 303516236,
+      "ancs": 4205430536,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "edbe5df10046b49b6cf77f4956a720117a8862985e8128ff5488787014d4730c"
+    },
+    {
+      "name": "ArtifactOfSun",
+      "model": 2386755106,
+      "ancs": 4205430536,
+      "character": 11,
+      "animation": 0,
+      "pickup_prefix_sha256": "f26f8733659452369513ffd3a70db4a0e833c5d96e2cc66df392ad5701b72e66"
+    },
+    {
+      "name": "ArtifactOfElder",
+      "model": 1685395011,
+      "ancs": 4205430536,
+      "character": 5,
+      "animation": 0,
+      "pickup_prefix_sha256": "d1072be57aba015f0334005311093fb8d8fe303d6c65863563e8fd2a49b4c02e"
+    },
+    {
+      "name": "ArtifactOfSpirit",
+      "model": 2310145571,
+      "ancs": 4205430536,
+      "character": 2,
+      "animation": 0,
+      "pickup_prefix_sha256": "b01631e10ab913a8838a22914f40146162abe41cde559b35545b0af179c906dc"
+    },
+    {
+      "name": "ArtifactOfTruth",
+      "model": 2286848220,
+      "ancs": 4205430536,
+      "character": 3,
+      "animation": 0,
+      "pickup_prefix_sha256": "fa91923f9f835910f586a0ccdc9bbabbe399b6631b8d2f9700ae5341bfafbcd0"
+    },
+    {
+      "name": "ArtifactOfChozo",
+      "model": 1735601468,
+      "ancs": 4205430536,
+      "character": 9,
+      "animation": 0,
+      "pickup_prefix_sha256": "4e595d9d60c546a85c3e80afdcb77fe4c079e6f6da8366e71d331a003827425b"
+    },
+    {
+      "name": "ArtifactOfWarrior",
+      "model": 4241908051,
+      "ancs": 4205430536,
+      "character": 8,
+      "animation": 0,
+      "pickup_prefix_sha256": "20f6523e920835e4cd54b99141cd7f0fdbdaf7b394d07b03a97ff50365b7254e"
+    },
+    {
+      "name": "ArtifactOfNewborn",
+      "model": 4264350931,
+      "ancs": 4205430536,
+      "character": 4,
+      "animation": 0,
+      "pickup_prefix_sha256": "0299a3ab557490a8cf7e6a145c6834433d593f138f268d7688adb42bab3b8da7"
+    },
+    {
+      "name": "ArtifactOfNature",
+      "model": 367505997,
+      "ancs": 4205430536,
+      "character": 10,
+      "animation": 0,
+      "pickup_prefix_sha256": "2bf37016cb415df2147af943c246ca05ed4609c1007a2c0f249bf18d15f97db3"
+    },
+    {
+      "name": "ArtifactOfStrength",
+      "model": 4291844652,
+      "ancs": 4205430536,
+      "character": 1,
+      "animation": 0,
+      "pickup_prefix_sha256": "e0a076f83b6cbc4c777fdeda83b2ad55d055d7c2561b2a78dcc7e4de37b1bf4d"
+    },
+    {
+      "name": "Nothing",
+      "model": 3736010757,
+      "ancs": 3736010758,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "47a6555fd37e93b403139fe8b613d0e8e13a7e62d758b9071449e6f8d5c8ab76"
+    },
+    {
+      "name": "Zoomer",
+      "model": 3736010759,
+      "ancs": 3736010760,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "ce3e5d564fa9f333ec8398ecb02c56e66e7c85530e8bd6921fe2566ec83b7c72"
+    },
+    {
+      "name": "Cog",
+      "model": 3736010761,
+      "ancs": 3736010762,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "84453034e14f8b5b4f772d4607611293d55dd0f1a7524a0a09c41cfa459597ce"
+    },
+    {
+      "name": "RandovaniaGamecube",
+      "model": 3736010776,
+      "ancs": 3736010777,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "5b674ace7754f30d302821905cf9335a4187a358122d48aa4b72d054eb72f1e8"
+    },
+    {
+      "name": "HealthRefill",
+      "model": 4294967295,
+      "ancs": 3740169131,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "865fc4907ea172492ed357f4e759c044cfd28875f5dd1ca97333c403d9e7ae33"
+    },
+    {
+      "name": "MissileRefill",
+      "model": 4294967295,
+      "ancs": 2428936430,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "839edcc97972088c056fa3283531a5447df4aeff59cb9c6d9e7ee931bd14d456"
+    },
+    {
+      "name": "PowerBombRefill",
+      "model": 4294967295,
+      "ancs": 4052824493,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "9dfb29d781720596f0e954487cbb5dfe0798c28beeebf486f0f5e88a27e03ade"
+    },
+    {
+      "name": "ShinyMissile",
+      "model": 3736010772,
+      "ancs": 3736010773,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "e63a0b74a8667100d9fe0c38243fdc2af29c39f3421d2d9aa0728698b731e34f"
+    },
+    {
+      "name": "IceTrap",
+      "model": 2735771203,
+      "ancs": 3736010866,
+      "character": 0,
+      "animation": 0,
+      "pickup_prefix_sha256": "a2e91d9a34143870a2ff56bdd501a859a54747b8cdc11344b1999a067fb09ce6"
+    }
+  ],
+  "renderer": "corruption-opaque-emission-model-matched-v1",
+  "expected_files": {
+    "0059eb58c2501c27.ANIM": "fd0ca5a9787a3131c54d204c401cae2e2402ac1f306052f24e7827c794bee161",
+    "00d0809b229c95bf.CMDL": "abcad2e71a7e7135861f0748549de492d06a924d63a2d80c3559a0698f4eead0",
+    "010d01f987b21e4e.CSKR": "0bb0cb55ed48ee0c2dd161153a6aa39b57f1c7724e8cd82903d5e53560aa6456",
+    "015d9f7c81d13575.CINF": "8dc81eb64e672662725460a63592809010d67068a9520ec639f2c8e86530d4ab",
+    "01ad59f1ee72b9b0.SAND": "38fd1868d91c0b7656dfafc6a6ff21377638ae0d606ebbe40af3fb92de1e458f",
+    "0215cc69547ddc1e.CSKR": "741b594fa46979cf158a80de4e1c1859292a3db394cd8bba9a84c4e938f1004f",
+    "024d09b27f90f54a.SAND": "1e9d2d4a507c7b9cc86233ad982824997d4bb500cb1546625bd598112ddfdcc9",
+    "02db59d54ac6e4f3.TXTR": "fdb16bf6cd3a2159df88211f88376cbf6ef8c61672d985e5349405536bed284d",
+    "02dd86686660a98d.CHAR": "76a9e895641d2495b883b8dbca387662ce15fb910af8d9f0affa7db89f3a4161",
+    "034c874aff5eda7c.CMDL": "0e3f149e713f8fa00461ab2e72354df680896b1da124113de618fe7f96f5afdb",
+    "0361df55da9d848a.CSKR": "75ab707151908719bc8a310a3faccc18101bac66478e669f16baed0568b6948a",
+    "036a11686ea1347e.TXTR": "929df4e7fb48473525d54e7d6a50a643c4c4446e9992decc747be6ae28aa17b9",
+    "03d429590c84b6ce.CHAR": "a59394c29a9ade4ca6226338e0b523eeaae6898ebbcea90a5a08fdbc13e94301",
+    "043526cc08ca76fd.CSKR": "da1f588a4076d414d15057bd076941fc839004f8b1aef1d6211c6bc1af0225f3",
+    "045995c2a27a0f94.CSKR": "1e8ab59e0d309720c0276a6d2187b9ceaa1c0a8f342d17c20df542da594411b4",
+    "0653e7814a8388d8.TXTR": "ec17a5744a0a747b8edaeede248e0223c34fc0ef7f31d4a631d3e818fddc46b9",
+    "0681f6497163d71f.SAND": "2905c9810c451b0c6c83243cb1a5aa84cd449f45e1441a28636f01e31bae5551",
+    "06a5c6852f93a178.ANIM": "6cb2dcd11d80f7eefe34608b139741208095b9d3b822a299318eecd9e70415ec",
+    "06f2195c2a82d881.CMDL": "ea4eb73ca18863ce4093c98858929e548dd13e5fdd7adf94fd704649bc2fd66c",
+    "070e4f8a71ffdaef.ANIM": "a36303bb66b723887fbd1d7e8c906e0d9c98836bce192e38580d034f322ebea0",
+    "079d52177e355d27.CINF": "c10fe747dc7227194e97d56568973c9019e3e41c8582859a99382f627268d255",
+    "0881a4b513b52c75.TXTR": "ff8ae9758eb0d65b488bb7944c5b717eeca88accec4d3fd108535a020a56a4bd",
+    "08a5914780d57098.TXTR": "477a55eb198ab50df5618af72eec81da39619ebfb1f00a7ec9d6363f618003c6",
+    "08e3f25a630a62c3.CINF": "c093057316789ee14d777641f0a6d177cfdfb4b7fa9c4f460fcf043441db50e1",
+    "0977a02833fe0b5f.PART": "b5da30ed322d47840bc962b4155d074b1ff1b3be66fb1dbd0088e5ea0eba91d2",
+    "09cc3a23c2c353fd.CSKR": "741b594fa46979cf158a80de4e1c1859292a3db394cd8bba9a84c4e938f1004f",
+    "0a27965c84e33cbd.CSKR": "0656380b2fbcae3efad49c7532fb287caecda509ceb2b9c1f96bb29358e825cc",
+    "0a32675e16cea628.PART": "85ce912dee45b315b47b18dc5e42307d8497bb0a6a81e4403d2cc7b745c81d89",
+    "0ab6bf00ec1e3751.CMDL": "9e38e9de5f62c1f7ba0dfb855a8eecd8c020ec4b193aa28802f94bdab05d91a8",
+    "0bab9b2ad3728de3.TXTR": "20b2020236cf85ffe6e9903bfc6c940d4a9c7966d6193948fed04a5c2c8a0b11",
+    "0bacaecc36c750ed.CHAR": "cdb5de60101655f50fbc245046f71b7210cd719bdfd83a81eb31f377ad3d74aa",
+    "0c345c256c52e3e4.SAND": "0862c89c70f6fbcf4ff1209da622b3bdfe8071138830679ef78734d3c084cead",
+    "0c6bbbac884cbc1f.TXTR": "082086c310ec2901e0f86abaa78cdd0c42fd6db37d188c79ace3c946d63a4bb6",
+    "0c936ba5eb649578.CSKR": "0bb0cb55ed48ee0c2dd161153a6aa39b57f1c7724e8cd82903d5e53560aa6456",
+    "0d2ff491335c1697.TXTR": "a865f8ef8b53be618bbff2b206f311bcee89db4b6f37dae4dc68e47d74ee441a",
+    "0d537d79065cc64f.CMDL": "b01ceffdbb54fcc94ca1f01d166aa0b7aab40249b036d49fefe88258737c2306",
+    "0e0a6c43a426fd99.TXTR": "98fc8f4497a6630cc72f0573a117195ba95463733fc8a27e9ff7d03a5d039911",
+    "0e7472ddb7f570cf.CSKR": "b184db3834399b4dd6b601a048edd634b988f2f1ef910aa9f6a74d052dd3a547",
+    "0e8abef5e01fb01a.ANIM": "4c49bf74a091feee71107dff6c27676c4e4abe8e2a3d8043e9951c76025abc37",
+    "0ea1b8c62d0294c0.SAND": "7d77481d026d3088a9168162bd3662af8e9e48bfd523cdccfde2a41252b79ddd",
+    "0eeab1726a87552f.CHAR": "ae736a62131099e6abcf1dbd142b357080102ec1db4e8cfb0b51c184b1f89965",
+    "0f4ab465ec27f868.CINF": "958bf8ffaf46ee2552016beb8d6decde9d9cce8e3e2e698e05eaab177caed949",
+    "0fe7c08a21b5c5b6.CINF": "3fb64ce5ba04efb0b338adee56814720b7d7e25fadb08dd98dd9c3042a9e42d1",
+    "0fea4a06a3ebdbe4.TXTR": "492dfd391f8560148d3a6faab00490dab40629ef4bb784bc21237098a71684a7",
+    "1043f6c3cf446c2b.TXTR": "c0c0791f6ee0a49b2b3218cc5133d4ce82ef8c983fc4d325e56687a7de3fa6c9",
+    "10a22ebad35c3eaa.PART": "eefee9872efc39b3dedc7113815aba1817058966dfb3460c2da42f3a59d87729",
+    "10a2b8709cb9eeaf.CMDL": "71f97b8f1c1229410fc9d7b8768a88b2367def2fb2994ab8c8cef163cb269069",
+    "10fd216c7468dc11.CSKR": "dbab9fb093d39ce04fb65b2098e6e34d50fab68bcc95dd99d862445f98eb8eea",
+    "1103daf291a82946.SAND": "8bb04f69b9a85723bc4b8b6d56687df4ededda3d8573a5a25e00b473898d6f43",
+    "11059e30ecdfa000.CINF": "393dbcafd2f657df580839b2cc8c9de2fab85eaaa21dbfa7200d4c51212fe1e3",
+    "11b133cb0abf9acf.TXTR": "e1a6a704727c4ea8b07a5b71794f5c247ba99f6e23b1c316ec8b88a1b41b65ed",
+    "11d248fff1240853.ANIM": "e1f0474f83eff6d59e5d12d047d32e57ae1b774f3d0e66f2359ef6500fbe5b54",
+    "11e37bcee4527732.CMDL": "c2ed4f1e0688c2c8d072f0f650f023da89b234f6508797fd111b95e9b7e1886e",
+    "122d6f7c268dfe5c.TXTR": "043ebacaac917c77a4294131f179de68fc1033e914a60b4ae1c52003df9cda33",
+    "1251d4e21dc2dece.TXTR": "6a6dbcb63a800fa2aac787b581dfd1fcb105e63c5f22a99c5a0e4e3dcf95ef27",
+    "130256f6af34c5b1.CINF": "6f90bda187adfaac8d6ff579b1adb3583b56ad5275607f0a5268800fbcc0d500",
+    "13058d310d1dce2e.SAND": "9d323e8eab90682646f7971ba11446f7aa29b16e881eb8cbca03a7795e462ed3",
+    "1306d968a76d68ea.TXTR": "72b950d97857611f6055a0daec0f81dc5eb86cd46ef883dd8633af9870c1fa18",
+    "138eb0414caf4a85.CSKR": "e1b5cfefb5a5325a88ce4d62805e3d172569bca0261bba335f79fd54895909e0",
+    "13c930228852f9f0.CINF": "8d4b7aefa56870ea52dd093a8944a0ceef2e6cfaf709e88e1092c770fa19f8d7",
+    "13e96a108e54e374.PART": "fcee30eead49f55bc56f45ee713d06b54ea8c43f1b9fc3b8d66fab6c6b896057",
+    "141220398cd1ec64.SAND": "8c506bf332640a6cf4fa9fddaaa0c97271d4a244d89d07817b5c4987b4a60f1d",
+    "151ecc3f8af5312e.TXTR": "6f528d81100f2541ba7787790b98da9c7417b4634401b26311d7b7a5599c2aba",
+    "153ba440dff18283.CHAR": "8ecd86a210c2c0b06349e53ed73b1de1a01cfd8347a2c5692854a392117ae9a6",
+    "1568f42861154c6c.SAND": "910e782386a90b752399c9d45b9cda6dc102f3eeac69ea8ef1b2ca4b0941cade",
+    "159246f96419e677.CINF": "c10fe747dc7227194e97d56568973c9019e3e41c8582859a99382f627268d255",
+    "1643d98b4f68daec.ANIM": "2b4407d00bbc4d23b93aecaedfca533ee6efef595115a4f9d17ca19c367c1720",
+    "16f707c8baa65e58.CMDL": "ea4eb73ca18863ce4093c98858929e548dd13e5fdd7adf94fd704649bc2fd66c",
+    "175f9d49d25154c7.TXTR": "7da56240e17bf32013c464588b7d3807deeee808541b38a2fb70ccde056f0d96",
+    "17e09499263a6ac0.CSKR": "0bb0cb55ed48ee0c2dd161153a6aa39b57f1c7724e8cd82903d5e53560aa6456",
+    "19e67a740c3503b8.SAND": "bb8e20ecb1bd6c91a672fd73bbd8833c55f7401b4736749bd1a3ccd8c9da3523",
+    "19f2900e57586f66.TXTR": "72b950d97857611f6055a0daec0f81dc5eb86cd46ef883dd8633af9870c1fa18",
+    "1ace15bda387242d.ANIM": "d88c053fd96f36e78be940706062b26479ba97b9375b3b3b8c898b07fb0f7ea5",
+    "1ad34eff546bbc19.CMDL": "201e22d32c47469b9747d68190d57a1062d8d3cf221457739c403120138501bb",
+    "1ad62029d43a7bfb.CHAR": "c0e8750dfa62103aa550562c8fe67bfacc6b40ce967adc7ea6ffb6f1fcb980ad",
+    "1b427659b8e824ea.SAND": "2a711069eeb11e5994ddae3a679af17047a820e9bbd5bec5330e0de741b426f5",
+    "1b97541d173346f2.TXTR": "c84c92dcd05f2ec2e0e5bc468dd5bd7c5f71d9a2ff631c024d83efb78600ab76",
+    "1bea3186e84c85f8.ANIM": "7620de50fde0f46946f48d735e022c2dbc8edbd767b3ed0bd55e1b4d03c74c3e",
+    "1d57e44d90d34250.TXTR": "20b2020236cf85ffe6e9903bfc6c940d4a9c7966d6193948fed04a5c2c8a0b11",
+    "1d964058472e060a.TXTR": "31d88f7ea6963bc199977ab8d4235d40d759e5a95de195a0ef1449c3abe93bd2",
+    "1dbf5313fb9fa769.CSKR": "39d90c28ec4606a6c3a7423cd9bf7c1e707c94190015c3ef143b840d06139030",
+    "1e6774e249a44241.CINF": "97a8e5ae2d6b8764e2700b9d0bf70ab7b7adae2cb50228d88169f357af9cb40e",
+    "1f326d4bf4e779a8.CSKR": "17ece93117c21e72e90f93ec7cc009e303a915b75297e5bb431fd970620d569f",
+    "1f51bb86b91d158e.ANIM": "2b4407d00bbc4d23b93aecaedfca533ee6efef595115a4f9d17ca19c367c1720",
+    "1f677ab43d327234.CMDL": "41cfd027cc543cb1b199fd59e18c73c43d87eb0f0552c16c05fb7e71e7267ca8",
+    "1f761baae8b90a51.CSKR": "8dd031064dd5cdf4f8fce5fc3ffa5a0ee0341deaf6a1d43553b918aa5404932e",
+    "1fb026dd31018381.SAND": "fb1c1fb767b76ad954c6aad4c94a1bfc6af9f0fcce67b6efb9ad90ed77e01cd3",
+    "203a5f6d9f93a00e.SAND": "59a696bc807d40f929acfbcf1546f57a6ac489608f1e0773d064748bba5e75eb",
+    "2087351371db70df.CHAR": "df1265b0e092266d776b48c5cebf345e5fd4556dbc8d4e419ebd5a6fda7d72f6",
+    "20b9e5a7f361b24e.TXTR": "1cdb515cba9e18b8b5f8d0e31ec0c2e12a5753459b4eb5be6e77085577aca9d2",
+    "212174112e3582cf.TXTR": "35246d4c51e26ef47bd7cf6456f9f6c160ee3644bbe29111d644cb273ee62c13",
+    "21433e77994593fb.CHAR": "c7d0093e99751d88b1311adac5b054bdd6d9b5d88b7a3302b64eedd192ae5699",
+    "2173bc6151dff946.CHAR": "03469d63e3598d9b87554aa3e9533e91be069412361c5e301356dc6c9d354c88",
+    "21c1d0ac9010a3d3.TXTR": "5b6add2b5146777db9d77a2f5baae65ed324060905f8f781dcc44d7e447bdbe0",
+    "21f7b038ac8b8d4b.PART": "46332e121a5424d700cf9949454aa5662bbebca00f60f2ec8293c3d4d9297b26",
+    "221157811e4ad10c.SAND": "23e103dc4c85b281d65487cd148f9dbd0b3ed5e02db54c8df68b726ff9a615b8",
+    "2284569d6794c4fb.CMDL": "d28f834f34addf68e3872da675c431d4b6207280c13b9d63b415922193a32071",
+    "22b9ab9050b29cf4.CHAR": "556b9d386f4bd6d994dc34bf6dc91af48450674a2a6b849af75748b016d2f087",
+    "22c298c7dc721ad1.PART": "6aed2d158188ef6a530aa637617a2a476a78bde3400d62d2093f198285fe7a7b",
+    "22cabb9f7d81b5e8.CMDL": "e0c40a52459c7633f1ee45b04e5f730be6703b0def258f7f2829fc77246579d8",
+    "233c4658bb79ea83.PART": "4b2f125171eeb5ce70f01a2a75f26b76776a3740c2c31aef3d6d2eaf8a505dcd",
+    "237023402f71292e.TXTR": "9e6afe49983b6c759177734ecd7bb3b9c1ebf7e6446bb8f2662e03d853cbc9e2",
+    "23754ce5a724de52.CINF": "770be84709e5855bb4ff2c6e6a6354c19199cb6e19d3dfb2dc5eeef25b98dc39",
+    "23ce65ad0fcda938.PART": "547fde6080054bd17f1e7b976d5f1b4c66dc251d40f368280dc6412a48fd4af8",
+    "23e62c92beca1095.SAND": "c2b8f36a22c69a26d4c9ee9c5f92985866b0d3fa8b331650875c4b9f06b30b9a",
+    "2457833cd98601af.CHAR": "5aa8f9cb9cb1a349993060086b490ec2de07b7ef2ce3a67f08eb51181c4d17df",
+    "2497ce6bb8324c1c.CINF": "958bf8ffaf46ee2552016beb8d6decde9d9cce8e3e2e698e05eaab177caed949",
+    "249e8a107ab7bcf7.TXTR": "e5acfe72dbf0ae7ac5e4d60ac7704b4d283e1873151f0af7967f52d4b6fe8fdf",
+    "24e6d73dbca55e4c.ANIM": "31747612b5628f43a8a6e90e0e7e3ed8e358a940de9798fa7658c1c9379fe3ba",
+    "24ea0aaf8516ac5c.TXTR": "f1f35cf04e92dd283acc9f9cdaecc1cf2943960007166bbf9b0286cad7c6cfdb",
+    "24f178c7482553b9.PART": "78f0fc683bfea4f8b6a0dc1e1964f3998906252f4bc620238436d11a70bf2009",
+    "250deaa91aa24067.SAND": "6526f06469ca5090e3104368a4364e7c3f8ed256e5dd0ae43a860cab3a12a40d",
+    "2554c7a564bd5823.PART": "bb5d9edcdf4132700b0659414db709d597f06acaf8e71666f833c786756c1b58",
+    "2566a8fbc7cbe2fc.SAND": "15585aff37fda39fdb46d5d9cec0a6234f858c54e93f129de7314a9ab1000b8e",
+    "257afbd2faff62d5.CHAR": "3c3a592dd7a0543b2de5074fc4d6124b67ae276ed6a7207fbbba1c3588ae9768",
+    "259704536c43b2e1.TXTR": "c89f4228eb1aef172b2c75c5642e698517a1e375a1c6e7dab7b3f377a6c38a25",
+    "25e17e5d3e3ba9a9.CSKR": "cc85b62dc0ace3306fd5a50cfe300223348a1157e6cd06c5bb67b06e3e10a4a2",
+    "262c8162cf67c7a7.CSKR": "c69fe1b799f2a529775473decee6c1cd20dbc03c2c5c5bb101535ad1f0af85a2",
+    "262fadc1bec5a991.CINF": "3611fd07fcf6a1749f2dcbccada4e3d0a15df9c8367809b21f68ce644b1bf829",
+    "264e78e254c255af.TXTR": "660806dcd7383a4e91c831eefbade6ca5cfd6de917b88386a3e59a5f392d4a16",
+    "266f8b254753d542.SAND": "0f1e462e4a8e44931e3076f36b25601b49d06b14417d464231a4b77c2ad9f8c1",
+    "26861f91587eb391.CMDL": "e55b6ca7f0e5e5f8bb4b28717e24ff6c1533f1e501129fad0d81b3b9e28fb73a",
+    "2746d24c07eb6fd8.TXTR": "88d86e157e09fef3ae3385a96e7e840716fb0d4ebd4861e3a025f06800c98ac3",
+    "276d56dcfd0f1a36.ANIM": "2b4407d00bbc4d23b93aecaedfca533ee6efef595115a4f9d17ca19c367c1720",
+    "2793e6106ddd67c2.CMDL": "e55b6ca7f0e5e5f8bb4b28717e24ff6c1533f1e501129fad0d81b3b9e28fb73a",
+    "27a01091ee3184bd.CHAR": "0dc811692448b353bd8f4f5c77d85182710cf228aeb0a16ab9e0369879d78e62",
+    "27a01b63b20132da.CHAR": "993def48feff73de14c7bac192c92e8b89b7349fbfad62027960e210ce24d7b2",
+    "27a43b9a88b01587.CMDL": "de625064b770c622c2c34034f7ddd1b5ecda0766a335dcacd9a2be23752f9da7",
+    "27a98b31041ec526.ANIM": "ecde46eb891630f144dbe61b392192cae06e8e77fcf416f887b792fce7fe1742",
+    "280ad01ad9bdc6ef.TXTR": "594c2a11060189353ce7b9ba07b647cfaf1c26189416536ebbd30230214d0baf",
+    "282b1234daa94df9.TXTR": "9a1c8c004aad5186b6a4e5b85edfa7ee7a4741cb79dbc1a2f4976d1b697c90a7",
+    "2842ef84f0b3406e.CMDL": "83ef7c25a451499eb4e574eb19baae8bcb0596de919a16e746b6d15ef60d3c9d",
+    "28956d9802298e74.CHAR": "0ed5f5ef317f9b42fecf6a22efe2a9871e3426e201a94748d98d66daa9898a79",
+    "2922367eeb99088d.ANIM": "eab0ea1762a1e2e0198c6e427824e038f68a3448cdf6f208a63ec23232520dae",
+    "299ff6c5b23198c9.CSKR": "b184db3834399b4dd6b601a048edd634b988f2f1ef910aa9f6a74d052dd3a547",
+    "29f04a525b6d6711.TXTR": "ef6ce0380bba9ecad8857f091292bd1d20e8d23fcd2488d7423b4a2373e6f5d8",
+    "29f120dd9ca40abf.CSKR": "0bb0cb55ed48ee0c2dd161153a6aa39b57f1c7724e8cd82903d5e53560aa6456",
+    "2ae24678fa26cab6.TXTR": "831961a6b66be9ab281cdb0b02e748396dc87524ed31d4cf857c5faa23a0afa5",
+    "2b1ae38233440104.SAND": "73bcab51bc8a06c02872fdc566e6b43b45889b2de587ae1f6cbdd0bf849b2f52",
+    "2b31d8836a7d7187.CINF": "24b6de1871273ca5dc1366e6e3c98e55138f8e2a35507d0e7c9f5896ddfd4d90",
+    "2bcc22f859d74ddf.SAND": "e5c7e3ea0fee36b4501b08fc8c48a21950602ad3e9b399ef540ca37c5cb50b69",
+    "2c134b13f15d080f.CHAR": "380ab750d49171e61f174ce737c666b0b4fb5b202794e1e3101318a724ec1109",
+    "2cb0c34bf8d38586.TXTR": "8573692609c69112c787a3038f173c441f94e75fa30c5bc5fd311d87865e090b",
+    "2d1a6f36a22c4a97.ANIM": "2e49f8b0a478ea05c21ca2592b8b139d384053465d18e3367b122f3040e3f8dc",
+    "2d26980132c3eba3.TXTR": "2da23fc9aeca5786fed28264bda0c2a2a3c285010b6f4157a5e62dcd89cd9b7b",
+    "2d6fa50e2a4c6dbf.CINF": "d6f0dd7c6241be83c61cdcd4c9e293f2b3051d1222a80f4adbf7ab36ec9edd6b",
+    "2d7a9bd8b45c35e8.ANIM": "762c2f7360f773d3318fc1088b7bbd67e2c0d0fd5b9fc0b8b276c0755a5ab7b8",
+    "2da887869e03b842.TXTR": "0f14780038f9e41939d1ef8de1e5c5c6aaae3e8e12431e281551adc7c19fc30b",
+    "2de7baf650c62928.ANIM": "b626c5091e318ebde3ff74834563d88c2d1b467247b59e96568ad0d078220fd4",
+    "2e165de6200b047d.CINF": "6f90bda187adfaac8d6ff579b1adb3583b56ad5275607f0a5268800fbcc0d500",
+    "2eb93d5daec40846.TXTR": "cfc1781f44b22a57ccde3c6f16b9e5db12d0723899446ecdcfd65bd1ba7e6de3",
+    "2eeb5416a9a78019.CMDL": "290536a688599789e5cb821b495fa933ca4997582dc5713e94ac6f9845024548",
+    "2f591472749b6e83.CHAR": "f7c22e836ebc432930923707c2f6a5be9a6dbb29f12f59284cb4a20d05331f01",
+    "2f5e307c3ecd5013.CSKR": "0bb0cb55ed48ee0c2dd161153a6aa39b57f1c7724e8cd82903d5e53560aa6456",
+    "300961c7ab88ffb5.TXTR": "4c4ebe41a29b3e8e772268d48351300b3927df52c3fcced7304863c3c14950cf",
+    "30195a232aeec372.CINF": "24b6de1871273ca5dc1366e6e3c98e55138f8e2a35507d0e7c9f5896ddfd4d90",
+    "302a32ec8bcd80c9.CINF": "958bf8ffaf46ee2552016beb8d6decde9d9cce8e3e2e698e05eaab177caed949",
+    "30ccacfd2aebe4a3.CSKR": "115fe9eeaa15fb1b7ec1c84ecb9c28d73dacdf088eba49e82373116561d48edd",
+    "31a3c739e243322c.CSKR": "10f9198214d3fe4516364d4b72bd4f4d7ddea8f74d8bfd97f5c32e645d11fcd1",
+    "31ef18140de0e3f7.CMDL": "ba52ac5cec10b24fb58519c9c3db4b0ea3524871318da3c78521af6aa8bd1eca",
+    "32a944ad2988083f.TXTR": "4ed09b485e3d5a89818fc20f52f75ee20c5a244672151a36fc8111af50fc2a7e",
+    "3316e7d7dedf38ac.CMDL": "1ea39082ff1e5d8ce9a4ab7fdd96456b8ea73e20719150d5a1a7adbb1fced387",
+    "331f4b0e7a4e9b6a.PART": "f6fec804f152d8851a8d793e226f1009dd5b054fa10090f2a25f8ed8f035dd09",
+    "3390686d8c974177.CMDL": "465a6af39cbdb9375185529b40c0c04a5723fa16b843b1a6b822352a15500b33",
+    "33f617ba26258f2f.CSKR": "ea9e3874015f736429367a02e0914afe408b42979cdeacb1fee97480ea85cbe2",
+    "34123aba8ddbeab9.TXTR": "e4f89cbb723bdc77cf74c2f1e42bb1829e534bf3584241b8bb230d271ef44f26",
+    "346d16ea4be27934.CSKR": "303772366797ff3a4ef1e8836720047d0f3b6ca4f61ce8d22338bce00b829780",
+    "349b638758ac5928.SAND": "5398944fef1d1a90b50b6b2c9b24ae67e725ea6c505a1957ff1af0987354e14b",
+    "34c7593da8eeafcd.CHAR": "49c64d665d1861b9b390a0e8de83ba1b8cafd6bfff03f8365315a37f4c184422",
+    "34e68d1497e11e66.CSKR": "d0245419618160d90a1741786dba5071c430ebf8d5f79525881185b5e51e2e9e",
+    "353d000e3a997a3f.CMDL": "facf7d6101628114140a32e4feb935bd497c319834299f2f238c589366447796",
+    "355095637109dfa7.CINF": "368581ff86f45fc560a2b50c2bbfc74667b2d74512844a7eaebae3b09e3f7e96",
+    "35f3c0bbdf610c24.SAND": "3b833d420f55e7d394d3e0aa37d5b47ea61f92755e9176ef7fc47b8cacf38557",
+    "361374dedf3a2e6f.CMDL": "a2aff778c210558b741114b60fa7339491a795df2c1323130e509cc5c3077c94",
+    "3624c822c34edd8c.TXTR": "a940e55157a693b8e46f5812e6c18e68b69fb9f30a3d4830b7977ddcc352383d",
+    "3649dc08dcad8227.SAND": "eb31b8c9072ae11fc4e328d4bc3b63e2620ca075c0b2cbd51e88a7fa05013230",
+    "36665af8ae28c61c.SAND": "159dc66051e2b996514c9e609b091d5c653a6b520ed5cad09822d8f8794dd91b",
+    "36731eb6404a3828.ANIM": "f2a4fd3d1bd561b2339bdd2319f22088ec30a3f5abd06342fa79e5eb080666c3",
+    "36bb239fc586382a.PART": "948270b023632ee7753d50b0370a8e7608175eed0948932265623143ede9add1",
+    "36bd8bd195b9e441.CMDL": "32e138e308cee73fa4c5bd42a7d4aeb0a5be4982ab722e1d1a5623bd5eb23b03",
+    "36de7b23cbcbac4a.CSKR": "115fe9eeaa15fb1b7ec1c84ecb9c28d73dacdf088eba49e82373116561d48edd",
+    "36e147cd8f1d1a64.SAND": "5cf80220d1ccc6507fe19773976dbfb0753f5b6b739b5e5a7f136100ea86a7a2",
+    "36fa379ff0f8c116.CMDL": "b9434bbc250b522fde4b43932fd3a29bc53537965a8b38c94b5f7f4cfd381227",
+    "372815b08aedda89.CSKR": "0bb0cb55ed48ee0c2dd161153a6aa39b57f1c7724e8cd82903d5e53560aa6456",
+    "376b3b203ade92cf.SAND": "60b7b85c72af502a9859828bfe9e127b761735d2e778cd783dc96fdff451859d",
+    "37a16e42d35b63de.CHAR": "dbe32d3bf7e2df844bc7c6c4d26fc71e60f2be30d51b5f21b762cdb59dfc811e",
+    "385ad3fc386bb085.CSKR": "21ff77811fbe3b34a5c9ab475470bcf3a323e09f0b28db609cdfe13d8d279025",
+    "3873bb4d139af758.CINF": "958bf8ffaf46ee2552016beb8d6decde9d9cce8e3e2e698e05eaab177caed949",
+    "38a04c805a0b5f48.CHAR": "40e682932c685071f332ba6cdc9b156ddcc899bf84737e31195f9c4df25c61a0",
+    "38db8d5ad673d843.CINF": "dff4076d23b49d337a35d313bf9fe8ab6eead33f8c73965d5a23a494b2dc8ade",
+    "390c8c89e2c92211.ANIM": "6b1aaceb9a10905cda196648859dc303f344325a35239333cba065a4009047f7",
+    "393bc0bfa4604ce9.CINF": "767237e9afdfdffd21699ba0a9a82ef61313f306582bbb358fe50872c5c55bf0",
+    "39416819ee820f04.TXTR": "5bea76dfd240e634a7b130bed44c37b623d5395837949154d5184d6b8828b371",
+    "397eb4a03c46034b.CHAR": "ba232bbdb0f5f20369fe4e7d28aa857bb68d9b746adac88a5309adc3acf22f90",
+    "3a43808974472b4b.CINF": "958bf8ffaf46ee2552016beb8d6decde9d9cce8e3e2e698e05eaab177caed949",
+    "3a67723f8a6704c6.TXTR": "173439867e4a6b5bb4e2721366befecc7087036d18976cb557fd1f763acde95c",
+    "3aa66fd9f7210534.TXTR": "6722f3c4fcfa7f22fa3045d77f50714d726e7a5b0a5987b1ca068d5a9673675e",
+    "3b2a0e71451344b5.TXTR": "51a87964c1dcc9a76e38abae33c9b4c216927c2d420cc937e777bea01db5e4f2",
+    "3b3da5ef36c2aa04.TXTR": "9492231a2779496e788ee81a1fd1648f68316094bccfec592e226232f0c49c8c",
+    "3b47127c7876e97f.PART": "cf85d78efc17a9e833439a047f65febe507d49a7c720c00fe4d15f61dd9b290c",
+    "3b497007fa9468d8.CHAR": "ab31204b999fbdf9dfc37820e176c35a6e4bfa1be9709edcc8b2e65566946d83",
+    "3bca5ccaa6b62201.PART": "fcffff01d4a5a542546f26f183d75ff5df28743cb364697c8a52af86d0ecfd80",
+    "3c37f1649a6f6c80.TXTR": "a5f01a8e9ff0479cf7a44677a10927433d425cfb4eb9cc6e390ee2ee6d6fe008",
+    "3c876b1bbacd0741.CINF": "c3825968c33cfd5de179d187e09096862cd0ab2a43da995589a1280766d57cb0",
+    "3ca5a9460581cab0.CINF": "b8d2b3648710b36be97db1776fd533de96aa566657ef9aa81003b91159ff0626",
+    "3cc846af1d980bde.CMDL": "83490c4c18612da59b4531bd1447bc070e91b6d7dbca7e79e89994e3353aada7",
+    "3ccf682baa14760d.CINF": "35759e620347cf0dd486276f0a7f5b782b9ecf0b9725600f999a6808ceb3e9ab",
+    "3ce216069fbbe536.CHAR": "19931593b8e1adaf7fc056190c60813255b0066bb7b81f7f4d860778647bf866",
+    "3ce63ed8ba48945c.ANIM": "e9532e2ca30a201cc0d6fbe0eba8b65c19319b4815c5b6f7393b75323721159a",
+    "3d836489ddaed91a.CSKR": "0bb0cb55ed48ee0c2dd161153a6aa39b57f1c7724e8cd82903d5e53560aa6456",
+    "3deb97c6e3038255.CSKR": "0bb0cb55ed48ee0c2dd161153a6aa39b57f1c7724e8cd82903d5e53560aa6456",
+    "3e90b55c042cca64.ANIM": "79551ee6f471b4d536720d5c951850ec5db357f8f6e23cfd21471a7cc7b87932",
+    "3f5bd1e72bf8c925.ANIM": "b98af71be33a351769d2cb25b7c7636770be266441b864f5e3468f29b4b778a6",
+    "3f7b5c63edad3499.SAND": "2b8cf552cd117aab6f937120b50ddda8b448ff80b5cbd1226e6136b4179dfb4e",
+    "3fc1a2422c7a334d.CHAR": "c33b2c4690026b811db8c56a3241e37c87ab6faf2ce5b6e5a7108b6fc0e5c540",
+    "4022da97ce4d2d2d.TXTR": "46d4ea322e6e00764993c3740caf1637b7ba6e55e8e87c7c93218c43b0025cbe",
+    "403fef81b93fbc17.TXTR": "6087ee7cdbc0ddc48bf73717c1c1762f0f53d498b067953c0f1e14b32524c0fe",
+    "40950b07c4c14a41.CSKR": "39d90c28ec4606a6c3a7423cd9bf7c1e707c94190015c3ef143b840d06139030",
+    "415fe72f446ee64e.CSKR": "17ece93117c21e72e90f93ec7cc009e303a915b75297e5bb431fd970620d569f",
+    "41cc0fbed46dc771.ANIM": "2b4407d00bbc4d23b93aecaedfca533ee6efef595115a4f9d17ca19c367c1720",
+    "41d97c201170dbff.CSKR": "fba4ac0eec68c7533dfd5a174d248aab05b3aeaac7fcf33a09311704cbf58039",
+    "429d2af649612f14.TXTR": "f08386179c5655f740f5e259f76dff549894f3fc80b3a324fa869fe6b34e0d27",
+    "42c867c7d2038dbf.CHAR": "a4592f5e785bfe9d54a53e74058abd90c8f49dc3eb0bf1bf4d680166db225eff",
+    "43b7d9d29452d34a.TXTR": "9f33187bad8f9de5baed6bfe419ea5e0a03634f8627d98e9892128d464eb71e6",
+    "43c59be4b7f16e8f.CMDL": "a5823fde4c5be3169aa3d817e6a4cad8f0c954af9fca0907fdd4b71528542d63",
+    "44551f1aa80827ce.CHAR": "bb1997284f72fab61efcaf980e2ad4a9ea5c5cab56bdd7c962840dfca4fbb86e",
+    "44760ead5396c7f0.ANIM": "3e448e416e499b1886f3c2b11420ef5c58fc321c528b8b5ea3da3cc38dbb1390",
+    "448c9e1cc241de3e.CSKR": "dbab9fb093d39ce04fb65b2098e6e34d50fab68bcc95dd99d862445f98eb8eea",
+    "452b6ab9cc8522b8.TXTR": "ecf29f9f07ea137599d1440a97c333a1fa4d1264bca167f912d9431e9f98f9c5",
+    "45338adbeab82bd5.CINF": "77655267db384ba6f377857a16c5d86ef0681ef8f6a69b37804387de1311c503",
+    "4574718d1377d3e9.TXTR": "d3937d6ae3c0736b76bfbd31c041694853f4e27bbc9133dd84808956c76e9ea5",
+    "45f909cd8f9e8f2a.ANIM": "b6dafefc40717a6a2392d5820688b0351af34923eacd72996baa3cb9e2c583c4",
+    "466d2739557606ee.PART": "fc81dacde65a2004dbf1914307da5482e3f6053cca286962f941795daabd90b0",
+    "46d7a6f858f747a6.PART": "e9dc00c889f0a7ebcaf923bc383015743d68ddeb8f661e7332696d411388281d",
+    "46e5f48c34ae6573.TXTR": "064fb810cdeb06737d5b1b6f28f7d254c39434b7201c9cd61b705b1b20e58dd2",
+    "472c93ba24dce0ad.ANIM": "2b4407d00bbc4d23b93aecaedfca533ee6efef595115a4f9d17ca19c367c1720",
+    "473b6979fa529e82.SAND": "f98204fe40f3ab545a14df7dc6845ca7e2e5cd9a698286d75c1e30256c00ad17",
+    "47c3f4c110a8dd65.CSKR": "3355918c0d8de624dc40494f95b7f03b16e1f814a35810de33b97ce43fa8f17d",
+    "4834649643908021.CINF": "85bd244904bb1226383e7d1ff1a6fc50a02245fb665901d695d210e0d55b8f09",
+    "4862780e7340b349.SAND": "9dffba2b326d8dbbd0f23a542f5886b1d85427330a787bd1a762c9b2f2deb9ad",
+    "48d52fac2337d81c.TXTR": "76290ce58535f08f5222c31516e1fb328cf7b940b8f36e8c76e0880511e43349",
+    "494588e1a73a0195.ANIM": "8ccf87ad78825223c30f9de4421a9326c21ad5c94f4b01ee38abc5c1f85faf70",
+    "4a9ba2c6e4e5e744.CINF": "dcda20105e4579682f605567ec779d1885a58d16590f4479b152aa093d297da0",
+    "4aaf7be26209488b.CMDL": "66d5d959cc417716128ab98a48ebd3e5a8818b1638453381c37317ea87653ad0",
+    "4b95863123dad78b.SAND": "11a25b9599645761fa67866391b17d7a46f9958781f76ab422618e135adabeb1",
+    "4bbcb3670f15e241.CINF": "8283b60aadb9ef2d4e41c674ccd8716d7fced6feb43211695703a04c97249710",
+    "4c156395d12e6268.PART": "08a4f5ab346b2ec1bd65abb66ddc75e238398875bac65e5e25f158a45cad0f1b",
+    "4c2eabc31a818521.CSKR": "560a8cb8d558cdce8f5962aa21d41b16d630475059e4fc36ccbc8947294bc6ea",
+    "4c3d4744a21596dc.PART": "d65fba6379a46318a00fac45886fe12d8e98e15c06606725d4348ead0dc49982",
+    "4c4a3d9f25c11991.CMDL": "932add4cfa6dc9ee9c8e9bb03371c48e05315e4233648519fda950fb4add7512",
+    "4c5511e10f7e6914.PART": "c619f67f3e61eb97aa95fa6e30599b1dee4452819778965706c22fc647ea00c9",
+    "4c9d519eda98e24a.CHAR": "2a5aa4a77462131c55b0f20ee3e53d0753f840135b75792f86a760defd962f29",
+    "4cd6cb59ab74b220.TXTR": "6c82c2c17074892b2942dfbe85819d99eb9a73bedd6d7c313728c8fabe46b6b5",
+    "4d5a46c206260234.ANIM": "932e7dba0cce9cc9b4b8df1278020bfe4549130074958068e5527a3c77dfa617",
+    "4d682839656b4fbe.CMDL": "fb6937b56bcf412829d4cb49e8ffb18e470cd9ba6289fbae853a269820eb8f68",
+    "4d9b187a88ad340e.CINF": "85bd244904bb1226383e7d1ff1a6fc50a02245fb665901d695d210e0d55b8f09",
+    "4dc55a5d8b80f064.PART": "fd0f721cfcfc9395c2fa04fff8b1dd2349888930cc8ccbe1224c2854fdb89fb2",
+    "4e2dea42a9cbf71d.TXTR": "48db6610ff0f911e599ec6d5c5bded0dc8e7ed701d5f77ea245a6276e87f44f9",
+    "4e4125e3d53da4f6.CMDL": "db31fdca09bc47fc219dc72a789ab383afe15aaf463fa7aa9ef43255f9f2d7c8",
+    "4e6571ce4b73ce34.CMDL": "360732b2e93c9dc84fe8d7dceb809d68e784782d959a331afec1aa9a44df9781",
+    "4f57eb5d784953f0.CMDL": "0d034b9ad7aac8b5d0374daf9f0ded0c2fc5fd3eb190716d85037dcd9a552452",
+    "501cf26de39003af.CHAR": "737419479e14629f185542517820f441acbe8f43646a46570f52b75615b04c9d",
+    "5053b92093d1240a.ANIM": "e2d2f909b1dc5d92f3113537e5994e89981b30d8b4de7b60550f447ee1b6896b",
+    "5059b7c7c0aca845.CMDL": "4c15c9ff044720737742ca23862139143cccbb2dd4c20fa1f5cfa8c8bb00d153",
+    "516606b5f5b535d0.CSKR": "b184db3834399b4dd6b601a048edd634b988f2f1ef910aa9f6a74d052dd3a547",
+    "51afce44b1c91e46.ANIM": "6b1aaceb9a10905cda196648859dc303f344325a35239333cba065a4009047f7",
+    "5336fed077032a7f.TXTR": "f53cc9a7159fb3d71896a47392a422052823cff25a8ebb45ffaa1ccc5deea660",
+    "53513f5c98f60cdc.TXTR": "43f1977681acdb1950789b85887d6409b7df999b25c2d5abbf2b77798e98bdb4",
+    "536df29eaaf0388e.TXTR": "e8fa41d84f7293ae4939bcfcd95463005c0d8e711e0d86490f59f95a2dd0107f",
+    "53d299ae403c1daf.TXTR": "94b91a3d7979958b2e8f45070f71154e0d55ef2845096e44efe76418a9a99a73",
+    "5438dc26425dad87.CINF": "8d4b7aefa56870ea52dd093a8944a0ceef2e6cfaf709e88e1092c770fa19f8d7",
+    "544d1564f142d2f4.TXTR": "d85cf1b9e38a3877da25a5c2d0b47932d61f2a5fd010753a06213e22894f63be",
+    "555f6208799740e0.CMDL": "e368c4e6f12bab1fb3812c4435dd0cb7f20f563af9d1403f81e9822518971887",
+    "560444111ccfbbe6.SAND": "392db6e61fb005d391574ffc2cd2adf6971df5dbbc1b991cdd9126e900b53892",
+    "564a5552ad08b113.CINF": "958bf8ffaf46ee2552016beb8d6decde9d9cce8e3e2e698e05eaab177caed949",
+    "56a2e689726b421f.ANIM": "da46ce71f4a4ca571c7267d4a61a0e98580d51861b2793ed8f2faf71c5e505e7",
+    "56b0c3f122c777cd.CHAR": "242256942fce4996fac59d6204beb773102193ed02f7e265f0e4ce36c96677bc",
+    "56fa4a61ff53d6fd.CINF": "b825ff120bde7161b9763f9216af2fb5bb8880443769e36c1a9bb05d5f8b93cc",
+    "5919be7f7dac8d89.ANIM": "7bec62a0cb48975b8378bf70b00d5b9aba1f9eebbe69466e1503d222a11b7bd1",
+    "59537e58b242725c.ANIM": "2b4407d00bbc4d23b93aecaedfca533ee6efef595115a4f9d17ca19c367c1720",
+    "5a8f48c3639fbd3d.CMDL": "fe24d7722dfe077d5205ef9fa107e2867e4e4cc80c23b9ee3d47cb668c7b2c49",
+    "5b34de9548d73434.ANIM": "ecde46eb891630f144dbe61b392192cae06e8e77fcf416f887b792fce7fe1742",
+    "5b755dcb9eec75da.CMDL": "52e6480ef9c3592b6af9d9bd343ba39aaa6d24e7c7230789b500d6b8407bd884",
+    "5b820fb1a420bf73.CMDL": "71f97b8f1c1229410fc9d7b8768a88b2367def2fb2994ab8c8cef163cb269069",
+    "5b91d6d0d6807bfc.PART": "73bc9f15f2aaf34583d72de47ba82ab15c88df16f37097020a55a57254715f3c",
+    "5c2a437a0b679034.ANIM": "2b4407d00bbc4d23b93aecaedfca533ee6efef595115a4f9d17ca19c367c1720",
+    "5c2b8278dbdb6eea.CINF": "dff4076d23b49d337a35d313bf9fe8ab6eead33f8c73965d5a23a494b2dc8ade",
+    "5c6f6075573adc56.TXTR": "b839f5fb2485cb7b7441ee46ab733fdaf0b3fb5ee6a284e65026b9b1cf53da5b",
+    "5cdd877b8ee940b4.ANIM": "2b4407d00bbc4d23b93aecaedfca533ee6efef595115a4f9d17ca19c367c1720",
+    "5ce6535fba3043b5.CSKR": "5546cd3854516ce5aebfd30788a1ef89dc82ff3ba0e2995acaf35a4d8855b688",
+    "5d57bb503d3c2f7e.SAND": "b5885e26c9c9334032c5d0b35f105e9a16235a2cbc7db449c1fe17a9e42d74d2",
+    "5db2329ba117992d.CMDL": "e84ae85277fde333766327fc65e9cad8a9237a45b7dd4894bec15d19ddd25dd7",
+    "5dba202e7ef8d60e.TXTR": "a9b14490cf53415374e1248a6f172b4517ef12efc436ecd0297b31a15419d894",
+    "5de15a6d7b7523fe.CINF": "08e3a3a7f4b4e1ead097204186e10289a4d18fe0a4352c6d263af03c5ccd3b6f",
+    "5e005b3bb223a825.CMDL": "87fabe17d25cd10dc99fd62bf88a7099379633b8f090c2664c6137fa283277c8",
+    "5e10dbd904b9807a.CMDL": "58deecdcfc414a209cf8ced106873179a0df70c8ab958d12c446eb99d3a71252",
+    "5e4f087519428c24.TXTR": "64bb9692e58bcf4e22cc2fd9076d79d7fdababf7c68595512880e4fd8810b944",
+    "5f8f392cd3e8a47c.CINF": "8283b60aadb9ef2d4e41c674ccd8716d7fced6feb43211695703a04c97249710",
+    "5fae023455de2fba.ANIM": "7bec62a0cb48975b8378bf70b00d5b9aba1f9eebbe69466e1503d222a11b7bd1",
+    "5fecafe05bb47d31.CSKR": "f90ac89b167ef279a0e498010569f8b2c32067367bf2e694790da9113b49d583",
+    "61611559c20e6596.CINF": "958bf8ffaf46ee2552016beb8d6decde9d9cce8e3e2e698e05eaab177caed949",
+    "617095556a1f8c5c.ANIM": "932e7dba0cce9cc9b4b8df1278020bfe4549130074958068e5527a3c77dfa617",
+    "619a8f5b01568ece.TXTR": "8a005c5e27b5f65dd23a02417d5557ecdd1ba0eaaaa5c6e2b1d64fb2ade4de4a",
+    "61f786fc18b14af2.CMDL": "a6d2f3e649dcd06764be34d6114919c0980ffcbce9ba36ea84c045f34aa8044b",
+    "62d9e99e36f588ba.CHAR": "ff4c60da3bf7157b04ee979fd10833ee07108866eacf1026ef319bffdaeff06d",
+    "6313ff1eba81185c.ANIM": "3ea826c21b9f8e0480e1b09d998a6aea5ca3d2ab4451f89f6ce96ef1d32b721d",
+    "634aa5c92d24c552.CINF": "0cf277b426e8ef0b88c09de3e3dbae77ff45e1cabc3a61400e6ad92275176293",
+    "64a80cbf4fd4da7c.CHAR": "774744dfb03751d3a895812f27c6906e8f57baa9a497ec814c4f2ab0bed1b68b",
+    "65f6c4d08a59ffd2.CMDL": "f971884b35af6e68e4ba787f17f9181b0b3e5e83e350a3f3d50c09b21af7b758",
+    "6620d558c03b06f8.TXTR": "6f528d81100f2541ba7787790b98da9c7417b4634401b26311d7b7a5599c2aba",
+    "663f74b4f0d1cd91.SAND": "e2c358c3a075c5ebb31031f70178b3b8f94bc836ded4bb45db1fd26f36f89a0d",
+    "6676212d028d185b.ANIM": "2b4407d00bbc4d23b93aecaedfca533ee6efef595115a4f9d17ca19c367c1720",
+    "667c9869415edd00.TXTR": "9942a5f64e811a3b0a481f6de73decf7a6944205ac50c64d707a9b65b396834e",
+    "67527d7641c39903.SAND": "576a579ef038e794609b3ce3a5e11b14dc58952b24e009e063ec15b4e7b087a0",
+    "681bbf3c57c9d80d.TXTR": "5bea76dfd240e634a7b130bed44c37b623d5395837949154d5184d6b8828b371",
+    "68a7ef6d1a30b9cd.SAND": "9060a8fd87f5b8b8bf3392b4cc358632d536648b74f6e05fe55e1fff2682fedc",
+    "68b2263779857b24.CHAR": "5835162662617e538350a08fb3a84361d39d2756190a8ee1d581d29c5346e259",
+    "68b43ae9ecf98c86.CINF": "43aba650048e16b1fccfb09a9e6d803a720431c7ee11ae38e109fd6642af4274",
+    "68c39d3617920de4.CINF": "dcda20105e4579682f605567ec779d1885a58d16590f4479b152aa093d297da0",
+    "693033f90b29eae0.CSKR": "e64d4bad24e1a75037a01ca334b62a4631f9ae914d84dd0d880aedee9192c916",
+    "69327713c8be60a2.CHAR": "2d75e6e3de6b130a6b891b7bc29c95be43b789ff9162eeff7a27a454163e024a",
+    "695ae0167c854663.CSKR": "4aaae99488e28e0b2cd026b915297a43b749411f18ccb9201e41f151ac2e9ee6",
+    "6990c15be996bb05.CHAR": "329378606a84aa05e8b917c610fcd30b5f37139319f3dd33169664e61abaf99f",
+    "69c92ab75bfe88a8.TXTR": "f06bed4ae7ff1481223705626c7ccf830dad3370eee21dd31eb158d283b07c24",
+    "6a39922cc0f92891.CMDL": "cc2486ae43712ea044746ba5d39521597dfa516f6e368780afe051419c75291c",
+    "6b096b1b5c142445.ANIM": "27d6aa85ed8e0e5961e600c0909853fb77fc8530373118ced72206b71c4e476d",
+    "6b55952718d593f4.CHAR": "9d3ea1897d59b7142eee2e19796dd82ab39f5817d9d5591706cb1f23f8b5edef",
+    "6b6237d3021a2c54.CSKR": "b7721ef42682c2352c1695bd6f4b7d9628c87e85b50b6b033543c3112713212d",
+    "6b6e120575bdca10.CMDL": "06e95c02f423f24a6999dd9c246368c7786f7b3524be4811bbe3220dcaf782e8",
+    "6be808be6241dd98.PART": "e8ec88a21236c54c35be97d88ba9db0139415c5de2214bcace7a39c37e08243f",
+    "6c023d3b0a9fdc47.ANIM": "0fd08ac711075c2704b3b1c541113075aa9a70df01a62c56b2ea919572c15729",
+    "6c13609e2a8be76d.TXTR": "406db8cec7b54f62c4881ceebe06708ef824085d70b19172e4965c395643845b",
+    "6cad385b525cf11c.SAND": "0edca5fd45faa77b2cd52a0853ea910cb061f5956b989ac8406d917a8260ed3f",
+    "6d4d38f1df3cd9ad.CSKR": "5546cd3854516ce5aebfd30788a1ef89dc82ff3ba0e2995acaf35a4d8855b688",
+    "6daf836e08c2f29e.CSKR": "0656380b2fbcae3efad49c7532fb287caecda509ceb2b9c1f96bb29358e825cc",
+    "6e529a6d663df5e5.TXTR": "72e1a45d3a898c8ede152936e5b48babd3ffa908dce1af6fc9236404eb7e9a97",
+    "6fb799b35fe20ffd.CINF": "e7b9160802883317ac329850e240b91ab11fa5ca67e495aed2ad9ca08d81f470",
+    "6fc30391457b4b2e.CINF": "0451378e3d9f0b3ce488e062fef89cbfb3f67156e3c93980aafbd70185e8cb76",
+    "6fdb5498b4b161eb.CMDL": "06e95c02f423f24a6999dd9c246368c7786f7b3524be4811bbe3220dcaf782e8",
+    "700eb93324734cd5.CHAR": "a0f59ef7b7af91aa84b8575a60b72eadd8fafafd4ac58f796c469116b5fc5855",
+    "702d8f669ac654c6.TXTR": "e514b90fe5c01e7ad75d90291ed61bae7fd53380ddc0a992ce1222fc1fd6316f",
+    "70d0c74dad1d3e06.CINF": "d8cdda7444b18d68080546f4033832c07ec7a9deb77085d50c5b6fd25e1105ca",
+    "716f17144ef102e3.TXTR": "88d86e157e09fef3ae3385a96e7e840716fb0d4ebd4861e3a025f06800c98ac3",
+    "7175ed4c23754da6.ANIM": "7e155224cc72c9144dffdcf8c94f6b3831b53594a9c5e726a3a57ac1e953fdd2",
+    "7178cbbb1a3f877a.TXTR": "50646b782aee49a078ab990fa7cc439d6669470617b8e41ea0a36fd9a7dce421",
+    "7189a5f240e111f4.PART": "9a52c36fe7447e8f5550b8c00195a90067cbf3a236f422bae1377d6a8f70efb0",
+    "71e45acb4dfa6270.SAND": "bed5dfbd07f4e4b4eb0c5bc67ca1eb02fad81aa636d4977653988451a50879fa",
+    "729fdf6ef9b0c4ca.CINF": "36ebcda6f6c54b99baabbf6ec5306743c2f2e84de1bc4efc52b8d8dce199d66a",
+    "7490b4a55310c084.TXTR": "9365dc667bd1701b3af70d4220a34a4fe7dd090ea7c848a2ab3a7bb57a24accf",
+    "7495dcc7d197c0e9.TXTR": "02eba7aacdd6be107c7c5d516a2002eeddc468e4ae026eecdb528c79d7496dbb",
+    "75cf3b8cd9d4f2e1.CMDL": "adbefeed4592ac0d451d7985c4813eb1d22f8c18be171de56557d4394a11c5be",
+    "76510ee3b0c68615.CHAR": "aa796c12c6aaae09ab85ef299f4302fa7b485f2cfce28a5841a8bb72866bb0c2",
+    "767e9b6ee4b72649.ANIM": "4c49bf74a091feee71107dff6c27676c4e4abe8e2a3d8043e9951c76025abc37",
+    "76f5a0df0d55f067.TXTR": "b7670355e63356516a05deb0b145e40642f71bda924dffca4b0840613479f055",
+    "773e5f007c3f630f.ANIM": "e2d2f909b1dc5d92f3113537e5994e89981b30d8b4de7b60550f447ee1b6896b",
+    "77a9e8d1418a5904.CSKR": "8dd031064dd5cdf4f8fce5fc3ffa5a0ee0341deaf6a1d43553b918aa5404932e",
+    "77dabe3a519d76a5.SAND": "7dcfd13ef7e54ba51cf6bee9e57c7857edcbadd16a6f2f3b0601be4d71b4148d",
+    "7805e31b68ac6d2a.TXTR": "db9f6085942c24b7f6b61d780aaa883255aee18b439190cd1d4f04f8bd837e27",
+    "78276b793a37260b.CSKR": "5c079f83436cda2d76d6dfb326975c5655b61a446c9663d858472c8e93f924ce",
+    "7837841a723a68a0.TXTR": "ac99a9e566bd3967e492ddfe1dafb3ce38f0c334bf1da8cf24b188c3f30e09ed",
+    "783a131f50001b3c.SAND": "2b4f6512915aea17708fa07a6e7144481e8a4b72f8a235c513b1af50de0d817c",
+    "789f571501a7efd5.CINF": "958bf8ffaf46ee2552016beb8d6decde9d9cce8e3e2e698e05eaab177caed949",
+    "790cdcedc438e6d9.ANIM": "7bfbed18b2ea754734a1f473dd5469e7e2ff6037861792de0a9268e400c33091",
+    "79b3246f3602187a.CHAR": "e0f953622a7e63dea2392f25c76a2a2c02bc267c3d8da1afe0fef6f5d7267396",
+    "7a1d0b9fe39bc5e7.TXTR": "4ae8abcaa72cbb198e20355fdbcd8b4b1c0036b03ed5c4d2789a2bd0317bd61a",
+    "7a561cb99acaf91b.TXTR": "1d648bdcf1900aa70144b9126667e818638256c6df603acd9dfd772c00ecf7a1",
+    "7aebd65029f20ec7.TXTR": "2c699c2804d051c62d8150a5261357da294b19477af3d3b6396059f4fc86338b",
+    "7b176ac3912de1eb.CHAR": "2c2eb262ff6928e5f01a538539cc6da8e7d57094e3956a42b676657d8693ae66",
+    "7b1816cc475e3f61.CSKR": "90a524028540674c484426a7b5674191b03e27f451aed913fabe1620037fc559",
+    "7b4c074f7f3190a6.SAND": "5f4e2f81442d874692cbb8b38b63b793acb32a38337cc6c64b4c370f7dfc5ad4",
+    "7b684248e8a12ed7.CHAR": "af6c42a51f4489976ef2baef4aaec44c199a7df0f319aeaa2ee5715d79d59333",
+    "7b7981312fb78220.SAND": "b6672d8c11d1f4f02092c6cfda15ba95899cd7f2a8485d7c2933fe3d280f6d60",
+    "7c2712020e4632e2.ANIM": "3b34aba690117e657972c7cc052e85dd09088596450eeb1fbb46f1d64d624ecf",
+    "7c9696dff2fe7895.CMDL": "e55b6ca7f0e5e5f8bb4b28717e24ff6c1533f1e501129fad0d81b3b9e28fb73a",
+    "7d0737bf8155a3d6.TXTR": "37bd87f90eb3334a00b26bb930479572f7f1fa17544fcca8951c1443930a7087",
+    "7d94d5f57926ac31.CMDL": "8686ddbdaa17ca2c95f6f6b6c6c856ab590b742b46bb1c810d7c799e842439b6",
+    "7db1f1eaa9763a4c.SAND": "03b60f6001800e2e06b118e974347d74de2458cd28bceda9e9b6c4d7c70c8e7a",
+    "7df4492fd7553939.TXTR": "0ab6231eb2fce1e0c3238e0067bc4d651f33d499e2e9e039ee41e1d138f3dcbc",
+    "7dfbd36578d52044.SAND": "ef491efc51a5db4debaae4ea6619caac6d96e8e5e7baa84a2b6ac72c8d59e541",
+    "80559af405882199.CMDL": "99affb5510631a6b60e8b890a055e7d5d4a8ae8e826c1e854b1571e1e1a5bc83",
+    "80e146b4cb9a1cbe.TXTR": "06983466ae60bb71ca0087231b2b900cf2b699016a37fa261a598a67c15c10a8",
+    "81e3dcecf46310c7.CINF": "31696cfce00771b6f5c2ac06a8d24e11a6358917936f3b5576483456d1fbb97f",
+    "81f5c2398c2c2d8f.SAND": "a4e27a2fd5bd8349b1f199efe0b2da770869c8e48cee0d46d7b18682cd63f416",
+    "822f6dc8be2e1b5e.CHAR": "1eb97240dd1cddfa95ddba98cd8a7acd1ef86362ddc54fcb548f1da8f6c323d6",
+    "822f747ce8868e67.SAND": "0c3dd6ee3bd96a116029f456c90d14858256bc60c0d41de6084607392a9c1e8f",
+    "82ae01d9840cd3da.TXTR": "14a0907a496ab093e9c95539d6cd5d20aa452d4d4a14c95b92cb5b539dc9b7bf",
+    "83423d31086b05cc.TXTR": "b3b52129b8070039f07b61b6dd40546e807776d713e29e95b7e26101d8291c60",
+    "835ec1932f97f4e6.CSKR": "e2e704bb8309b8ca635fbd006a543d7f8b40c9f506de7eec30133da9f6ee5928",
+    "837c2637b113670e.CMDL": "93f198475f0ebbecd837816df8658b356da3feed8b14dd0a4137c608ef2ffd9b",
+    "8384293ce38a3425.ANIM": "cb4e94373d12ce317a64a50921bc01add31fc566755978bfb71a58394955b1e3",
+    "83ab340a29a71795.CINF": "97a8e5ae2d6b8764e2700b9d0bf70ab7b7adae2cb50228d88169f357af9cb40e",
+    "83d5d3440fbd91ec.PART": "515d9a34a122825f28cdaaad0ccb3131fc8697a41d82dff8b2b509444c5bb51f",
+    "84338daf0f754f28.ANIM": "03dd623e6b4b3c1708d202cf43c165700b2a11948d99d0bba7f982ad446468fa",
+    "8455fc4111cde969.CINF": "eb3f32cda69bd3cf344cb8994c6eb895bd42c3deff8b3c19241f9ca014ec2f84",
+    "84a62b674f473cd9.ANIM": "b626c5091e318ebde3ff74834563d88c2d1b467247b59e96568ad0d078220fd4",
+    "84d43b55a1f9b05c.CHAR": "9f2491349ecb99f1832b5b9166b3a7749fd75f31f6f9773390c91dd938c7f7e4",
+    "84f77829ee6c1faa.ANIM": "3ea826c21b9f8e0480e1b09d998a6aea5ca3d2ab4451f89f6ce96ef1d32b721d",
+    "8501517e184025a6.ANIM": "31747612b5628f43a8a6e90e0e7e3ed8e358a940de9798fa7658c1c9379fe3ba",
+    "852830ba42e17e42.CMDL": "ed11e9daa77de1bf64100dfbc97149dfbb1e319935fc5ad9abe3d9642d6930d6",
+    "85661a3e4e0056b7.CMDL": "91c829fbb40c32eaecb75a2ba558a2f68e62324e470a42aef114356174442927",
+    "859b5157c926ba8d.TXTR": "efc2cd3e834737b0e3df1cd40724ab007560343b4ca6dc94e6be38763ffc03cb",
+    "862ae405008e64df.CMDL": "eb9a0913a02e9be6f4e579b374ae442cc2554b3c17728adf3f6ea0161138542d",
+    "87290821edf73e55.TXTR": "6c82c2c17074892b2942dfbe85819d99eb9a73bedd6d7c313728c8fabe46b6b5",
+    "87a1670f1b7ac661.CHAR": "90650f65f81d963567db7f336b1c321a939b3be2ed54944cfac8d5e88cacf2c4",
+    "87fa23a7575082de.CMDL": "991c2b5443b27042445569ef165253bb0b2408de253cfaf593db8be9c6da7bb9",
+    "882ddd54bc7eccc3.CSKR": "741b594fa46979cf158a80de4e1c1859292a3db394cd8bba9a84c4e938f1004f",
+    "886cfe03e38876ac.CMDL": "6226db81ed557b5a0aded4892545fb64cc9eb8059d6577e93d9bcf18b8823dae",
+    "88d8dd859a376d91.ANIM": "31747612b5628f43a8a6e90e0e7e3ed8e358a940de9798fa7658c1c9379fe3ba",
+    "891c4b40dc9ef9fb.CSKR": "8dd031064dd5cdf4f8fce5fc3ffa5a0ee0341deaf6a1d43553b918aa5404932e",
+    "895434effadc6b51.CMDL": "fa24519664dc3afb60fed81f0e939ac22002a988fe4946270ae1c17e64947f63",
+    "898b3dc5b4fd9c5c.CHAR": "9431384bc9a7c7a99647980cca405a8ab5e15c0adfc4d93d20946edb6d5f5abc",
+    "8a4509c487fbfd34.SAND": "c309b86c2954e684ec078b33945db35403ba076b7b3adcb339c40addd2c6c05f",
+    "8a47be4134fe0448.SAND": "d01e81b83cd98888e8a83b7331fec7b779fcb4322fb0725edce2c761a5b26f81",
+    "8a4bbf0f58f9be4d.CSKR": "51ead83fb692f8f75574baada428533c4dc4fced54396f26bf20c7e76a65e91b",
+    "8ad977b2e8facfd2.CMDL": "8578eac3269590fd4ada853d7dc609ffd59c4c5c77b1f19a38074560efceca41",
+    "8b5b0e904a543f61.TXTR": "f52f1fe018d559f5313aaa5e7f3691bf94f36c894928817ed7d90a31202200ca",
+    "8b763f29a958251f.CMDL": "ac1b2c22fb9cda5ab2a21f74a0d9b1e50bb06d47b891e2525e2b53b11cce8ae4",
+    "8ba4c1437b1ba721.SAND": "c617f64acd1ff59da4c8dfcb047b018fd21b02615d1bf60ea728c0ddfeadbb3f",
+    "8bd0620ff0d2e86b.TXTR": "dde960ffc344288b9a1bccabb8437cd86be15da945d326ff3e1d047bec9613af",
+    "8c1e1eb9574687ac.ANIM": "cd68040efb48362744816bb66048f5b6fe5d48e6f567a925e4cb3e6b1d36d9cb",
+    "8c7f8f1754e0f386.CHAR": "28acec76daf36591116e997a24a484ae48f5463df557faa4f0048442b06ea242",
+    "8cc3315b583deb30.ANIM": "2b4407d00bbc4d23b93aecaedfca533ee6efef595115a4f9d17ca19c367c1720",
+    "8d3dc440879a6a3f.CSKR": "81a54d8f71e44ab09d34a98b39aa5cbca25c4dafc206c089fb82766f370c3aef",
+    "8d6939bd75408537.TXTR": "86220f9d32a35ef599685a3e526a7a20900ae3dd18c7ded6c0be1271cc4783f9",
+    "8d74f3b252c38de6.CMDL": "c696c493a20488c06f805d6a07cd7dd4d53b6f87ffdebb3aaf3ecdebec56cc66",
+    "8df33d010cbbc9d7.CMDL": "dc761f9ef923ea49174e8c8fd647a8c1619e71e266392c4d5aabcb0135e4417a",
+    "8e5a75385a020145.CMDL": "87d95a965a40811f8d3c4d1ed7b602502ac288b423149619b317859fa272877d",
+    "8e8be59ac4e7592f.CHAR": "decd1b492dbbb43b9ee2fdabcb693bd721d4566bde02166ee41e330a8f69cffc",
+    "8ed1480acc25708f.CSKR": "741b594fa46979cf158a80de4e1c1859292a3db394cd8bba9a84c4e938f1004f",
+    "8ef7afe6c9ea035d.CMDL": "75bb9452665519b6cd241060ef096de64b95534b0022f7fbd7e82f7eba927614",
+    "8f3874c09c54d826.SAND": "0a9ff95cf19ec669f00414ec61ba22f97a5ee5fd8eca87bc1fe12bf985351086",
+    "8f3a0a17a3b083ba.CINF": "958bf8ffaf46ee2552016beb8d6decde9d9cce8e3e2e698e05eaab177caed949",
+    "8f53406836b001e9.CMDL": "8ea9d482d3ef1e25917379f4c4a2e6dfdd1bbef3cbb86bc4468fc6210ea6898a",
+    "8fb5f173a1ace28f.CINF": "d059577cc5fe20f34a0f7cb457017e34483076edd6a174374d15076e80208cf8",
+    "90135c1129eb52b6.SAND": "6ef2cc5e57f5efc8b4773afcda3f61d1d8aa8a71aab997f9084e2063795c0b24",
+    "904f24ede7727b97.CSKR": "e1b5cfefb5a5325a88ce4d62805e3d172569bca0261bba335f79fd54895909e0",
+    "914d8846669d9dd3.CSKR": "17ece93117c21e72e90f93ec7cc009e303a915b75297e5bb431fd970620d569f",
+    "91741f263f49ff90.SAND": "3e3983a72f0f94864f24398693153659fa3c52bd672d059e843d9f62368f2097",
+    "921fe5ab10ca7726.CHAR": "ab474fd7d71c389d4bbdf233169be4285e9b7c8fa16e75c4d9a5f525367591ab",
+    "922703847587247f.TXTR": "ae2f117858d737feb207fd13ad389c6e44f100bf05cb456d342000a3503a5aa8",
+    "926c80233ff81cc4.TXTR": "77a49176cd00957b13ff6456df43f6eef00bd0a8cc2d14275ec24d48625f56d5",
+    "92baac73e9345620.SAND": "6ca002e240d863a7ef6ce94df98f502bf197a02e8424b62ef154e47f1bbaa5e9",
+    "9317add680bb948f.TXTR": "3568935af3ecdae0f0ed8bd9ad16252d0c2d4c5c2ab1d416f9306c47047c531b",
+    "932e0233e4f9bc98.CINF": "6f90bda187adfaac8d6ff579b1adb3583b56ad5275607f0a5268800fbcc0d500",
+    "93a771c137c5efb0.CSKR": "f30527988d7d78a36f3b49be9ee9e50f95a2c9ea686c7e920fbc036c2bfbd768",
+    "947f0cda3f029b31.TXTR": "94d1d930514f83616c6b618cdb62dd6edbc8a7af55bbc23e019de8170463584e",
+    "95687668a537f55a.TXTR": "d8ab84dd756c23cfc51ba8a7b84a304b0e8f3acf4ecf613dd4775a46c4b1b9f6",
+    "95d08b0f79d837b4.TXTR": "5723fa44a71f8be9210b1b96e36d2044c81254277434d01b5b0fe8dbca03c4da",
+    "96852509205bb93a.SAND": "fdc1a0bc6e4a015172c9ce3f8dc6c5e674b03a7e3041a89acc5f209f4103950f",
+    "96ebf6d20db09af3.CSKR": "9bde02869ad50299d6b7b8d5d445fed476133f978fd948262616003cbdcccd32",
+    "97052c892e27529f.ANIM": "e2d2f909b1dc5d92f3113537e5994e89981b30d8b4de7b60550f447ee1b6896b",
+    "970e517ce5644f9a.CMDL": "4749f9adf8e453f154e9ad7dbba4aa213460553fa23431536e6c408086ce0f01",
+    "97bbdd5cc8ab3c99.CINF": "d1566c7e5ad071d059a5c2e0963a5e46f179ed9a053f7f4f3b17931682514451",
+    "9826d825f8ba73ec.TXTR": "0cbf8dae5ab3c494020c6e308158edc521969326074dd51ee793503b30b9e89c",
+    "9828dee7c9882d2a.ANIM": "6aa9c9de16657afac80b5e1d2f503172d32d8249b510f8297129800b79d71cc1",
+    "9899b8144404c33c.TXTR": "3fe2e6623efad8c3cd226f79e8913a25e304ea11737c02a79e03fb37f57a5f44",
+    "98de87d841156823.TXTR": "34284870349dec529783cb5d798cb5912979c4759506ffdc76af510542d2a257",
+    "991579a1927d12c3.CSKR": "71043bcdcbd21d349b50fb0d836d41c1faf0d9a551d535c0ccbfecf0da8a5a5b",
+    "991a066478e5aa15.TXTR": "ec2f497097d1d8f8564b2c27eedd40be4d3d0330f3eed6f3baf0e4c45da5893e",
+    "9947414c88ae696e.CSKR": "115fe9eeaa15fb1b7ec1c84ecb9c28d73dacdf088eba49e82373116561d48edd",
+    "99b93a79a3471b87.CHAR": "90befecd81a62e1949c71cea7579e43ed71d0760da42743ac05c22492b4fd9de",
+    "9a36ae3e16af55e2.ANIM": "7bec62a0cb48975b8378bf70b00d5b9aba1f9eebbe69466e1503d222a11b7bd1",
+    "9aa8a67f95866f0d.ANIM": "2a6bb2a4290d90cec3e560065c3063135835b1a666aaf70b682463c00ae6550c",
+    "9adb25a13eb3d155.CINF": "958bf8ffaf46ee2552016beb8d6decde9d9cce8e3e2e698e05eaab177caed949",
+    "9b0a11206e45964e.CSKR": "c310e00c4d40ed8cd7547e81bc9b0292018c7fd029711325d36cd062849bcb44",
+    "9b31ef9243db26d1.TXTR": "b33161683a01b53c90fb1ae029030faf7b9e87c2ba67ef311a29c0c4fed57c1d",
+    "9b612f13ec0c4571.PART": "0bcce9c8386ae6f7d748ff514972d243cfcd40425c0a226c69b9116938baaa0d",
+    "9b64193c8106e85c.ANIM": "31747612b5628f43a8a6e90e0e7e3ed8e358a940de9798fa7658c1c9379fe3ba",
+    "9b70f1b01c17079f.ANIM": "31747612b5628f43a8a6e90e0e7e3ed8e358a940de9798fa7658c1c9379fe3ba",
+    "9d072579723e31f8.CHAR": "b9c1b193144153d60e821a96edd3c490f48671d793bf48e11ac7ab8dd4347dce",
+    "9d5fd8ea90f03288.CINF": "d6f0dd7c6241be83c61cdcd4c9e293f2b3051d1222a80f4adbf7ab36ec9edd6b",
+    "9dc79e2ea5e6e0a6.SAND": "689917f06a44603c939096870638bfc6c8f503626eeab7d01f238effae978cc7",
+    "9e08b31fb1326566.CMDL": "fa24519664dc3afb60fed81f0e939ac22002a988fe4946270ae1c17e64947f63",
+    "9e135c47ca883e1e.CHAR": "2154df969b17a7b0762ac1ecaef55f9e32b30c8b1e8f7d6f5c6db01ba32f547e",
+    "9e2248c3f1693582.CHAR": "6ff3293f34c7e364be851c4d6f8a31b306920068912f71834e9cfdbd24c62b0a",
+    "9e51fbfe2a971ff7.TXTR": "b48f163f549b35707006d8f29acdcf7a444c018aa83e4cb634072e8a46c33853",
+    "9e870e89e0f8a240.CINF": "03e18e3a2ea091ee037ba61c98e8378bc29902a6e84f228ca22d3d13e3a04350",
+    "9e9e987eac835ac5.TXTR": "57069fb2202f872071cd460b4f355dbadc76b61d4f268422e68252566f697469",
+    "9eb691c56a492587.CINF": "85fb3cb5856088dd4c2d1f419ec22c4b5ed2fc2089205c97545776cb91b84e96",
+    "9f1be0562208ac1f.TXTR": "c1058138ce0ecf4782eb75aa657f2103cb3ffe0eaad510856bace6c7a0cf1ba9",
+    "9ffdff4ee1cc5a53.CHAR": "d2f468fe86f311533addab18330f8e29b528fe09f65087dba190447fab5418df",
+    "a0364551d26ab3f2.CMDL": "67d16e5987ead8b7c95f31e1a9dec862a2d73b30a023a89d88b70248380ff890",
+    "a03d7ee05ae78453.CINF": "8fc1ae440ec753b45c483fe3860d758b853b51105095d531b01b22dc7324e498",
+    "a08b5708cfdc3e64.CHAR": "001a5f6de3f33453e18a456a0730e300d834c888b899c782a6874a26da0330a1",
+    "a0c5eba7ec5af076.CINF": "958bf8ffaf46ee2552016beb8d6decde9d9cce8e3e2e698e05eaab177caed949",
+    "a114b61253199539.TXTR": "999fad7122fe9d76c87e6653022c57a0adb5a66f643b831ad8d8da2484615721",
+    "a26e1df78459f159.ANIM": "0cdbfc37621bfd1cefa032725c437a05a77634b713b9a1c37495bb48a16b8db0",
+    "a2bf4f9e30f15ce2.CINF": "5bae10f45a53c6046d7e4226451a9ae8fac6c4823180ca71700c16cbaa5f5ed6",
+    "a39acb6081a77817.TXTR": "c052bfc93e29082753b6ec4d1e23596a388bd9229ea87137ab209d96408fb71b",
+    "a3f66b95de556782.CINF": "b950562232746f571a364116f457a498c1026416dbab408f9060d6547f85c57a",
+    "a3fbdfbea63f5b4a.TXTR": "b991a728214330a645e669529ee24a0e43bbfa362c6de5648cf91ccb2ea8131a",
+    "a481cdde6cd13203.CHAR": "9e92ca23037ee1c55ffa905d7d3849d4a62d20788678b1828490111c126d6f91",
+    "a4bbed1c3a82d786.CINF": "044208c0ff10f2cd4038bb9ea0ce3ccd3da9cfb08484d39e1b2e4567d5a615ea",
+    "a4d1cdf85005a884.ANIM": "eab0ea1762a1e2e0198c6e427824e038f68a3448cdf6f208a63ec23232520dae",
+    "a4d94b7afa07976a.PART": "6a36de227d989adb8135d8313665a906d789294b316ae3b27e1b4336f6338e75",
+    "a4f0b6da75289302.CMDL": "bca4b779da93e2600f616ef6b51e7ae284e24da88f0f09a13579b96ef9bfc07d",
+    "a519ded83b8caf14.ANIM": "3b34aba690117e657972c7cc052e85dd09088596450eeb1fbb46f1d64d624ecf",
+    "a52f2d9ca994e7aa.CINF": "6f90bda187adfaac8d6ff579b1adb3583b56ad5275607f0a5268800fbcc0d500",
+    "a5425d8958b7ebb6.TXTR": "c801b132fe03ff5d839cfeea06f953c50fcb197dd4667c8df3c6f408d30532f3",
+    "a546c5d4ed738c97.CINF": "35759e620347cf0dd486276f0a7f5b782b9ecf0b9725600f999a6808ceb3e9ab",
+    "a578e318f5542a39.TXTR": "182bed6eb7ace30ea5fba1057a3acc1eeb3a767055e53e49449026f215990186",
+    "a5b7e7b399bf2a67.CHAR": "6b48151ee6886043546c74c0bccd2192922c6dd0e5eee651870ae5ae2dc94c29",
+    "a638f8e428736183.ANIM": "2e49f8b0a478ea05c21ca2592b8b139d384053465d18e3367b122f3040e3f8dc",
+    "a644539b404b539d.SAND": "150352dd3f26855c232b55da33427887b73535ad052fc15c4e086f9560b1de58",
+    "a6d0871fb1ca0a8e.TXTR": "1dfb54faf5de123781de42ab7782db1f8454047c819953a1d6fb7a137b1fbbbb",
+    "a6f21edab4e34b66.CMDL": "a45d870f17e0f02952cc8b3c89733f7d3cadd21b64599edac8d9fa28131b149f",
+    "a6f52618e62c3a5f.CSKR": "dbab9fb093d39ce04fb65b2098e6e34d50fab68bcc95dd99d862445f98eb8eea",
+    "a7689329d6d1e649.TXTR": "c449652a337eb41a0b947eceadbb9b02f5782647760b6077bf9f7e1eb2e8e2e4",
+    "a7cb65307e632879.TXTR": "db7351e6f3e2a8e59a133fd973f47b735b83e8795d32668f1419d1d48c724775",
+    "a7e3fd14fd0534fd.CHAR": "359c351f066babcf4fe7cbe616e0c8e1044810097274c969ce982aa8ceea328a",
+    "a8aeb96b057721f4.TXTR": "64c09929bd679f537f5dc4f458c62458aee39d64dc842a292bd1862643a28fbe",
+    "a8ca458beb99842c.PART": "737c9bca4c0842d3b8ca3e8c62083149e63b70f65fb18d84ecd436fe822ce87b",
+    "a96cec173f214933.CMDL": "e5338bfe81232124f5928325aca264d7576abf69d44cd133f84c387c45adccf5",
+    "a979399aa53a73ff.CINF": "dff4076d23b49d337a35d313bf9fe8ab6eead33f8c73965d5a23a494b2dc8ade",
+    "a996dc41f931cc06.CMDL": "866f15d2d1f02a7147f7b15803afa1db0d11a1e8d816c86bc08a72f935ed8593",
+    "aa054d9fb13c874e.SAND": "6d823b2b3a3ecdf2e38c9197942108c2155ca25cf4a5249a77db2c8767135d0c",
+    "aa703d0b858d0717.TXTR": "e34da0b2962a153a726efc6c108784b80200ab80ff6c7033775e34bb832cbbd6",
+    "aaa507811c7e5987.CSKR": "f377aa009df5535fc072fb27cf8121e9270ad6a5e3659c54e1ae3bd42317a5ce",
+    "ab70126dd456dc63.ANIM": "e006c929bc426aae4ef34de5d49a34bf7048277c2b692455ba9cc2e9a2a99629",
+    "abd3743d23d6b6d5.TXTR": "51a87964c1dcc9a76e38abae33c9b4c216927c2d420cc937e777bea01db5e4f2",
+    "ac03e0e75604e25d.CSKR": "39d90c28ec4606a6c3a7423cd9bf7c1e707c94190015c3ef143b840d06139030",
+    "ac8ed54d857e2ab8.SAND": "78dbf29eb6dbda51cfb30f972746a1a67ffaf6af033f3bae443590cd7dbfffc0",
+    "acbb6b96b3640b94.CHAR": "2279b5a3a5fcc08b564e96ff3db5ca8a6373c5c097cc998e02402a09cff756eb",
+    "adb2ac63f3c809ab.CINF": "d6f0dd7c6241be83c61cdcd4c9e293f2b3051d1222a80f4adbf7ab36ec9edd6b",
+    "add7f030023bf2b9.TXTR": "aa670c5e9c8a0f3016ef2dc9db426cacc8de6e05a9001c714347c818bd9feffa",
+    "ade950e1af39e1b4.SAND": "33b8e7cb55b4d7d2f87d28cd868cb601960904a6d74ec1396582060ee6817591",
+    "ae094e9c879795cd.CHAR": "899b00c9ce222d636f1e5e8bf9c86c7926d54bb04e638d06b2f3c9340d2ffb22",
+    "ae3386464686eb90.TXTR": "56733bd17181ade8d13e835347c59001912ff5993e563c4326787936680a4986",
+    "ae4b0b73b65bd0de.CSKR": "0bb0cb55ed48ee0c2dd161153a6aa39b57f1c7724e8cd82903d5e53560aa6456",
+    "aeaeae872fe7f26c.TXTR": "9a1c8c004aad5186b6a4e5b85edfa7ee7a4741cb79dbc1a2f4976d1b697c90a7",
+    "af2db8d5a5e2c049.PART": "510068034eee6a0003684c6b734a3ed6a2570159bc1d6105d31b91d486b6665c",
+    "af73ce47f01b13be.CMDL": "e84ae85277fde333766327fc65e9cad8a9237a45b7dd4894bec15d19ddd25dd7",
+    "af764fd2519de1e1.ANIM": "ace1b2eeb06286b5a912ce19a177f789febe6161a3bd15c1fef410564f5a50eb",
+    "af924590708ff124.SAND": "3ecdc95eb4884c250bf4e2726f89234e780b56bfd7c4379d5e6e2cbdd68711f2",
+    "af9dfda1855680d0.CHAR": "38676003a836d141a3dca32da8a3034028d19deae91fda223326353a4b754bc0",
+    "b03c3de393664c92.TXTR": "005c0f0a671a929288b43ba41207dc942c17b8f4ff2666c5a8f7e15191a364f9",
+    "b0d17082f5a908f8.PART": "bb914ac3ea93bed342eba57634656c0ed72398f760a95a635187578f0364aa17",
+    "b0d62670ad1cc99a.PART": "a49abfaf57b0a53cc64165d8aa6c3e3ba34a9360d247573bb1a7cc559f1cf227",
+    "b11ea7e1349c9e05.TXTR": "9bcfeaebbe2fe6853c749782c0e8fd30ccb5f0710230a5fc738aebe33a912a7a",
+    "b13951b3ce8a52d2.CSKR": "75ab707151908719bc8a310a3faccc18101bac66478e669f16baed0568b6948a",
+    "b173cea9f6896b83.CINF": "16f7eaf1ab623b7d083bc62b7ccc02a0929f7107c90d95c3b4365f1d9897ddc7",
+    "b184078b05479158.CHAR": "087fa25f21076692e8afbb544f7890e07b64a278d31005bc4c2edbd9583c245c",
+    "b207990777eba882.CHAR": "2aef4e05732184fee35794fe647310f712f65925d5d64bc3fddd2db9768d1446",
+    "b245436beeefc827.CHAR": "cd0d0f12e22a39936e88d1ee0ec8777a00fcc424082ddd1b01745fed2cb0e68c",
+    "b28633c1f4d7360c.SAND": "447ac6c4b7e247d917996592716216f7084b8909aed124ba9eda2b60ac79a0b1",
+    "b2933889eeabc5d9.ANIM": "0a2e126f1d47087924edf8cf5347b4c8c19cf8cd257f562c7d5d58b7f25e22a1",
+    "b3ab9570bf8addd7.PART": "59161384959328a4435a9d3697da8b994c3897bf5fad5ea91cc57674703606c5",
+    "b411685dfb1f9f12.CHAR": "d636c0dffcd7391c8a6e40ed91cdf01511247f118445c34a20fbf7e94c403dc0",
+    "b4121ffe09c792ca.ANIM": "dc801c05eab8c09476c5e6a4c71831db6353d0ac89e7ffac309b8c31831fefae",
+    "b43a27061d0f9215.TXTR": "7c852bc488b813580fcaf4cd9df8feafb67ef84548df49273ca496a77a3b2dad",
+    "b4892d62f29acce0.CMDL": "d9453415af5b318320267c9918fb9c718a4fb88c6fee957210e4ceb434ed9767",
+    "b494efb1e4d809de.ANIM": "e1f0474f83eff6d59e5d12d047d32e57ae1b774f3d0e66f2359ef6500fbe5b54",
+    "b51c180ede94ee3c.SAND": "f56abd8eba0defb705111c5a3201cb5eb576024171300ef27d1aa0b2e9a66959",
+    "b601f7147fba6376.CHAR": "321720b44747dcedad085684999341546a753848a2b7104643b5b5ad7105bb3f",
+    "b63af32f0397c5a5.CMDL": "b7dcad30d91291c8346d96303f8fb82086e70107d1fe21f23174a205b6f810c0",
+    "b6443292c87cb351.SAND": "a662a071a637b73742cf5f71e0db7986428c1121b68f3862ffac8a22c8fae581",
+    "b77593c84185af9f.CHAR": "15ab28569919a68b7ff9ac10f8e9ea973644397b4297098627bcdc6634078673",
+    "b836bdd87394d608.CSKR": "35eddf1f918b8af6e7741a19cc8577d72a82751ce33c94d822099299a60a9d18",
+    "b8972b86f241992d.CSKR": "dbab9fb093d39ce04fb65b2098e6e34d50fab68bcc95dd99d862445f98eb8eea",
+    "b8c01a94f6f07d94.SAND": "41bf4a2ce6040101ce377768a4cad78132ba76674b6547e50fb6257dcc148175",
+    "b9914df8d35d86d3.CHAR": "8491008364267f5be790f52db563ba1305e5a95d049558534167974f13e1a721",
+    "b9cbbaa9ab678aa0.SAND": "3973fe0b1821476c6bc4bcf4379305433faa0ae1242982aaa47f5632207b9be0",
+    "ba1c6878d3669ba0.CHAR": "170fd7c22f3ce4026fc4f32d27eddf86e5c1336906a398f58a610ef6eadf8a2b",
+    "ba80a14873cda972.PART": "26fbc27ef65246999b6368298ec46d2af82b51b2b3ac657817b427dc1de9f1c1",
+    "ba9d4d111be7cd62.CINF": "c10fe747dc7227194e97d56568973c9019e3e41c8582859a99382f627268d255",
+    "bac48faa84d17157.PART": "48a60252dcdf7a54b9a5144db077d39b673c53409b480ae9383ac18b27e8e9a6",
+    "bac4ad00338bb674.SAND": "71aa34b7a1b8f4011f02b5d7ca9543ac981887363065fce150b8ef8bd23c6e55",
+    "bb2ed498c39efb62.CHAR": "217ff8abdd168917990943c6243a618222499b307ab4bacdd5a77224dfa04ed1",
+    "bb3999e8c37111d5.CHAR": "b282db9d9a6e821fc81389e5efccd04b9e946c3e0f0e4287c7e58c350a942fe1",
+    "bb97c512972aec4c.TXTR": "e8fa41d84f7293ae4939bcfcd95463005c0d8e711e0d86490f59f95a2dd0107f",
+    "bbf84426f89958a8.CSKR": "f52b32eddeb1f77176f840088c28ae69bfa61d577a892de76dcf78c27bbbdda8",
+    "bc4a886449142e80.CHAR": "7517db0efb6a2eae32e4985d2701a0486f6694074c3fc6550bf9ff18236095b0",
+    "bc818dc29cf4ae9e.TXTR": "4783b5dc51d9cea14a5e0b03c8edbcc71ef3b9c70e7cc5e0c3a6af33d732a773",
+    "bc91a45e3a6ad142.ANIM": "6b1aaceb9a10905cda196648859dc303f344325a35239333cba065a4009047f7",
+    "bc9a8a41fb34e6b4.CMDL": "32342f71227dc3cb0a99c7989a65d07baeb2a4a2cc031613172a5e794a0782f6",
+    "bcb751a123262404.CINF": "958bf8ffaf46ee2552016beb8d6decde9d9cce8e3e2e698e05eaab177caed949",
+    "bcbcb6f3cfb738c3.SAND": "526d4f279f8e9cdd2a23cee807533af5fd09782ef3fff5688439e52df7dfdb0c",
+    "bcffaa9644b02477.CSKR": "8dd031064dd5cdf4f8fce5fc3ffa5a0ee0341deaf6a1d43553b918aa5404932e",
+    "bd3174bcb4104d12.CSKR": "9ab5ed5ebf5118d7572ea19c7107aaacacdb244d8094088eb3af148a9bcc31bb",
+    "bd500f67d6ee3a7e.CHAR": "47848430c56a9d8cb5a969f6e31a13493c8f03729033153cec93e930ca050228",
+    "bde256f628925d52.ANIM": "2a6bb2a4290d90cec3e560065c3063135835b1a666aaf70b682463c00ae6550c",
+    "bdfd9ffd474c636c.CSKR": "7a3315fbf888737b7cc5f823029b0439031573f671d54affa24682bd7563c77c",
+    "be383e0a5afbbfb4.ANIM": "2b4407d00bbc4d23b93aecaedfca533ee6efef595115a4f9d17ca19c367c1720",
+    "be82634b6dc15d8b.CHAR": "12872ed9c8a54038bae431bf5a0c8433f446d0d779cf3d1b52b2d8a66b74e0b3",
+    "beda0ba62983d782.SAND": "0020fbb75a12e24b814329151bf123bfbb7b8ce0815a21dfb060c220834612d9",
+    "bee9ff4c8217d7e8.SAND": "9b40086d80b475f151a72ca9a9c5a840b10bcb322f86cab8d15b92701af06285",
+    "bf08ab6b8c2e47bd.SAND": "f7063e82ab73a0f8c14d17aab2f1de12b332e8d12f0b6b2c37eb7ac672d75bc2",
+    "bf3a889b3f0bb38a.CINF": "35759e620347cf0dd486276f0a7f5b782b9ecf0b9725600f999a6808ceb3e9ab",
+    "c04e76dba12bcad4.PART": "6e55b4c0ea836f37877d06462b36461a55773c7f89917a3466a903e22ddc6ac0",
+    "c05d28b18018aa79.CINF": "ff764c8f81e3a9d6ab8c4aad22d81156ae7b408a75ee93e885ef9fa83aa40c41",
+    "c0e1cb11e18c3b7c.CINF": "2bb6bf96f4812ff4b116385016b81e127ae58b490b73945012c99841106e01b2",
+    "c0f8b4b7f68944b1.SAND": "794d321d49dfe9dde2a9990e04e4c99877864973d9c432e896fc90ad5664d37e",
+    "c138249377316419.SAND": "df5e7a17e478ec88212b117a23071322c53becc98b256114d373d1a9ffd22286",
+    "c15119b3c77997a1.CSKR": "8d7fd001da7ad58f086c3746f037967e89a7cf7cb7a3f3dbc2865c9c4106cefb",
+    "c1662a8e2064b704.CSKR": "115fe9eeaa15fb1b7ec1c84ecb9c28d73dacdf088eba49e82373116561d48edd",
+    "c25aa87fce506330.TXTR": "3afe4bd5e5b52ec77cd7f614127e39fb599d27896c59f4f9d67b732f4ffaa956",
+    "c2b6d92616e7cc1c.CINF": "3fb64ce5ba04efb0b338adee56814720b7d7e25fadb08dd98dd9c3042a9e42d1",
+    "c2c2060c0de2868f.SAND": "85a23f71277d708d616a3ff2d9f582d152862772c393fd974a2b4ec6ad23fc7d",
+    "c31e5b2f66ca255c.ANIM": "31747612b5628f43a8a6e90e0e7e3ed8e358a940de9798fa7658c1c9379fe3ba",
+    "c3235919613c408c.ANIM": "e9e847817498d51b95e225242e04b22a44476b27feeb43899407c8d1f2079508",
+    "c32f493f79b0440a.TXTR": "c9fb8c238c597d7689e5c153e21a5ae5ef3dcc0c66ea41a16b7dc7873af5cdae",
+    "c337bfadd67ff300.TXTR": "9a1c8c004aad5186b6a4e5b85edfa7ee7a4741cb79dbc1a2f4976d1b697c90a7",
+    "c3afdc734ead2efa.SAND": "5d1095a745a8dee148cbd83218c6e9beacc4193035d9ccdb2a06f2edeae12da6",
+    "c45526a414c8189b.TXTR": "67a042c4c4efe6aaec8de1258bf0d7a9b155a4cfb39059c68f7024ab43ac2b06",
+    "c502306c5f0737de.TXTR": "f6b3114f5b0d7f2ac4570f43bb03b5282ea7e33bdc7d1f7510880633aade11d5",
+    "c50d5ae33458995f.CMDL": "9842cc524b3870f68de9ac9f9347de4afa1a1daf7e893d99b1ff6bde8fcc2785",
+    "c542372e9edc7c1c.CHAR": "94facdb8067775bdbdc41f43da3b60f12d80be8fc40c3e2707c5c5a7a92e9c27",
+    "c55fe9285c033b7c.ANIM": "bdfb87c79a424ce167fd737002549c4c6f7c64e2eec4041d3be60644c80a1030",
+    "c5771f1e4ae202bd.CSKR": "e98c0cf01f825a89077f53285f460a9c0cc571aed87401a7d99b66ff72e82424",
+    "c610b2c83a5907ec.SAND": "b39f1840c468baee89fe5e443873249bf5e4fc823c43a9d67bff1737127a3310",
+    "c64e8c1bbe59bcc7.PART": "e89004ff44391c37caef4cbae0262c87678be1b0b7fb9c1d784e9a3097ef65bf",
+    "c6523e58f0e46b41.PART": "c8c34d02972d425ffbd03211c8a4260b38d2525a39f89fb8172e3dbf1a1acf52",
+    "c6e53352d7e2e680.SAND": "5b60af9524659286443f2fac3dfb49c3b99d05615567c3745e0d70248a3f8550",
+    "c6f6887a6e41f717.CMDL": "1d1ea838f7d6e5f5aa39b3dd68cd9d9e0dd693bdf41968cc036859f7f97868fd",
+    "c765fdc60fbd0586.SAND": "29d913634542af6da5c365e674f47dc4b5b96ecba61a068aa93908689712afa0",
+    "c7bc3fff8708c036.CINF": "291ffa7e32a4fec93e0b035579b56760670cea8f754d2103f955963e9d5f6640",
+    "c84c52923f02740f.CHAR": "bd8d8ecd58add920ab308ad53f11d0adecf313b9f8f917810d22d4746a1b6e2f",
+    "c84ff323537d089c.CMDL": "120fd1a046ad4423eecb2ce422fa35d00279192312f46cce17ce73ffb62f0dc2",
+    "c86aaecf63923c92.PART": "1c0bc1552e0099b7ab8ff89679a3b9e71d2086a7ad7e081da7295a661e0388e1",
+    "ca0b7088eb6191fe.TXTR": "11e246191f4c15a59ef00d7d8776b01eeb8f937bdb31b70b7876f154c92f86e5",
+    "ca722ccbacfdf3fb.CINF": "0451378e3d9f0b3ce488e062fef89cbfb3f67156e3c93980aafbd70185e8cb76",
+    "cab44b2192b9dcc4.CHAR": "8f217bf68d6afed33f5401c1c14c192703a511facbea86babf0c02df17eb2fbd",
+    "cb46feec4f301aef.CSKR": "e1b5cfefb5a5325a88ce4d62805e3d172569bca0261bba335f79fd54895909e0",
+    "cb7838e3d384ddb5.CSKR": "917c760a063ecd2fcdd5bf00efa6f82077880339d64a835cda22ff31bc921665",
+    "cbf7060be8d2d289.PART": "35bdbec021b44700037d056ffdb38538c4b2acfd3df2041c688f94933450e41e",
+    "cc75ef703165d8f0.TXTR": "956e9a45fd9b5a772d19fe8a69fda32f68733defc9bff920b94de801276c949f",
+    "cd702c03dbd1536b.CHAR": "5e6bab46b41617738f2d7e4ce96d6465e831dcc8a30c0d9066fd0d656b1a60df",
+    "ce116cd282ce739f.CHAR": "cf9fbfa9e7e3a41359e42a502e69e9aa537aad6df75148fbf0c72e35777493c2",
+    "ce2085f1fec0468e.CSKR": "b184db3834399b4dd6b601a048edd634b988f2f1ef910aa9f6a74d052dd3a547",
+    "cebd7671eb579cd6.TXTR": "ea5ba368fa24df6e044187cf2834f9920a99bf429196507234eb3e9078b1e8bd",
+    "cf3bafcdc4a51d41.SAND": "98ea3fa82f056366b5c1d8c3f60c5f44eebfda9984f0a6df151bd46efe629e42",
+    "cfae652ad398b8ab.TXTR": "12bb06a43c233cbe035c06ed45a9d6e7eaa360645bab0d7b46b5ebc6363868d3",
+    "cfdb876e5d63cdc0.PART": "1bc3e4dc624dc9c8968ea783865aef0a8a68c1955ef55370d6598c4d4094c0e4",
+    "d0ac782c9526be61.CMDL": "ab224b5ea7d92ed1d3c2e61e705f67fa8fb8f6d4fd3a2fa1c44a02f08af842fb",
+    "d10657fd01b910e9.SAND": "133557b2d8f41f684f79c402573c8c1c970aa11c26f39a3c9613f2cdeeacc446",
+    "d1c7cf722356f123.CSKR": "0bb0cb55ed48ee0c2dd161153a6aa39b57f1c7724e8cd82903d5e53560aa6456",
+    "d1efe03bf81125b4.CMDL": "02ccd0f5816be4b05b0f6dfab9a75339e3a41d35440550f87c9f946873ac4b6e",
+    "d24db8766b5c5e0e.CMDL": "6226db81ed557b5a0aded4892545fb64cc9eb8059d6577e93d9bcf18b8823dae",
+    "d2f2d2d380a75391.SAND": "1919bf8b9f296b6d61b5258f7fde17f30d860d2f3ad6adc726ea725dd9b54be8",
+    "d334e3292e4facda.ANIM": "45d43dace6fdcde242d1cab6f7c483d709a5245d18010db04d1750096ffc87e9",
+    "d3507abbaebe4371.SAND": "a9ca7f45517ff38baa44336c46ada9355c1554942b02e6bfaf46db64d18a363f",
+    "d46830ba610f412f.CINF": "9545cb0bbc9cde4d412bab7e824b0b7fe29b5832b7772544fb87dc49d7de3722",
+    "d51773723a11efa3.CMDL": "dfb4bb7d50ff25a09aa84883dcf1878257b1809eff670390f294271f6e72468c",
+    "d5487a28879af638.CMDL": "9e79097d6c249722c7524352b88e85e52ea50a15fc241e557a17908268ad0f57",
+    "d5d707cd99d8eade.CHAR": "cf38f8086f43e89daba60af17ea4101528ed7fdf001d0a6641fa2f3b4fc644b7",
+    "d5fb6ca80f0d5be7.ANIM": "9e9db65a37c1cc7fc8141cef0d1dadb5b421ae5ddfa4b81967ebe636ecefd4d9",
+    "d642f93218525b5e.ANIM": "b626c5091e318ebde3ff74834563d88c2d1b467247b59e96568ad0d078220fd4",
+    "d653636289dbeee7.CHAR": "952195ecb4adad686e93b86cc97ef5cb71ec865b1552765da8ba182d4a697ea6",
+    "d65dc999790e3b8b.CHAR": "7689c0d89fc09da355a544a54057a1b0a89d69a502fb3417c397bfec2a213656",
+    "d6dc172fc77e10ae.CINF": "b8d2b3648710b36be97db1776fd533de96aa566657ef9aa81003b91159ff0626",
+    "d6e9040ffbfb1b57.CHAR": "0f6f3022e8de5ed339d0d734ed1e40f4c80e5de8b9f68b6fcbb53e7e0e8acb30",
+    "d6f13ec5bce7dbdf.SAND": "b4c1b57724d634b6208753752dd039c5d7ac7d4964172dea9328765bbae9c5c6",
+    "d760f3ea26309e49.TXTR": "0dd0a19f655725ec21eb97add2777a91cdcca51f90e33299ee1700ce59ad44e2",
+    "d78e04af5bbba833.ANIM": "eab0ea1762a1e2e0198c6e427824e038f68a3448cdf6f208a63ec23232520dae",
+    "d793aa674ba3966b.TXTR": "99c9804c568f69d261b51b5e86f9b0fb0f6154949201e45e340f907f487636eb",
+    "d7abbfd6e65468a9.CINF": "35759e620347cf0dd486276f0a7f5b782b9ecf0b9725600f999a6808ceb3e9ab",
+    "d7c64d68c6fa15e6.CHAR": "577e6e89be93085f4ce16e6042c6e81f0ff3e7f7cc95ff4b05dc9e9140307db5",
+    "d895b2fc7c122f5e.CHAR": "3fd59b10b3ec6bf9a8b8a0033b47598a51a602e5e52c8305a7410f75ba3b095b",
+    "d8a248a397070306.ANIM": "68f8780537d9b983f6571632919b63f572bd1532787da9d89dd971d488e5a9f0",
+    "d8bbe983dd145b9a.TXTR": "9a1c8c004aad5186b6a4e5b85edfa7ee7a4741cb79dbc1a2f4976d1b697c90a7",
+    "d930b9c5f4ef8b18.SAND": "89f4935d72c638f28684865d689abbfc765d8d368a8799bcfd17a168754238cf",
+    "d9523da620de8066.CINF": "cffb0be3e5d6264f5907f9c18552771d31e92934eb6a8fc36e71ce25882af7b4",
+    "d96f388248a1d753.CHAR": "d260e5667abc011fc855cf3fd2f87f85dfc6af966e02f48a7dc3c56e44d3b662",
+    "d97bde6451cbf348.SAND": "265a402e110f2e732e00f33fae4ab763fd161d2c89d9e332804e2b3ccac19d9a",
+    "d9d4067859da94f3.SAND": "5c196897a0f029eb58a4921d7604277d9ea42d7cf38d138b54eed6957843f8e0",
+    "da24c17a255d8e27.ANIM": "cd68040efb48362744816bb66048f5b6fe5d48e6f567a925e4cb3e6b1d36d9cb",
+    "da468e8757334c9d.TXTR": "b1cac9fbf3c8a64a3251459238ebdcdc1f70b3fb98b7988784bbf78088000a8b",
+    "da4ae178daeb3606.TXTR": "8acce0c0d56db98521e8a33ff31d5061c15e809a47c42029f5227e6facf78de2",
+    "da7134ee31188f0f.CMDL": "5b1c86a7faebe78321b6c2f3480802c3e9de5f6151781232d5613c60e0291610",
+    "dabdbbad19e8c57c.SAND": "7cfbde9284a294a1da497508a3d6ce7050c175da9c820c925cb04f86c9d45b27",
+    "db239e7094e9de5d.ANIM": "64d8951b453f40fdec86daf1b44335dba3e70ff8ae59c03cffeb1c6dcb66e127",
+    "db57d11b1e24015d.CINF": "8fc1ae440ec753b45c483fe3860d758b853b51105095d531b01b22dc7324e498",
+    "db873aaadcda8b41.CINF": "7d20a832424933c32140bb0e1aef93aaece087c7b56191f5c7dcba024016c8f5",
+    "dbe7e69fb645546f.CINF": "8fc1ae440ec753b45c483fe3860d758b853b51105095d531b01b22dc7324e498",
+    "dc7d9d5c15e2d86a.CHAR": "fb1f7251ff917062e6bf73ca040d985a99a9379d119791fb9dca72faa68afdcc",
+    "dcc1e5194467e47a.CINF": "3fb64ce5ba04efb0b338adee56814720b7d7e25fadb08dd98dd9c3042a9e42d1",
+    "dd0046eea435f86c.CMDL": "097a73c7eada9b9b4bec701c41aecef8c91bb65d1443a0b63dd956cedecb0d8b",
+    "dd05608f84b0f1b2.CINF": "b2f168b0d82e72040a449b5a20736b2ec20e7537b1350d385a69e290b8c2ebba",
+    "dda7d246cc91bcc2.TXTR": "7a0d352b862753f26f6817384ed0f870718a2688155e48b16f82b28b4f43748b",
+    "ddca524224d121a0.CINF": "d6f0dd7c6241be83c61cdcd4c9e293f2b3051d1222a80f4adbf7ab36ec9edd6b",
+    "dddc8f87d74cdd3b.ANIM": "b7d807ad64d05fe4c24dbb6a5119da63673a7a9924bf1f281a8aab748d81428e",
+    "de8b7ebdd75936ad.TXTR": "9a1c8c004aad5186b6a4e5b85edfa7ee7a4741cb79dbc1a2f4976d1b697c90a7",
+    "dea2285ef70905c0.CHAR": "e0fc7feadfa8667f70e48d37ecc2bc8bf7c82e19c1b8a0c2f3b1d49ad0c243db",
+    "deb4ac40b875e4e1.SAND": "7701dd97f99e7a7199ad798290103bfb53070cb4c5455e8d4b2a8e98c1470e0b",
+    "deed684bbe3514c6.TXTR": "c263b31bba55d09e1fcf7a9ff4c6563971e24a69c174d76798f2d2e38b3ec5b1",
+    "df0159f96c5e6e98.CHAR": "d469dd805a0b7d921931166b9b3c83e1d150eadd74fdc476575872fbe1d54bcc",
+    "df4a3992836493f6.TXTR": "6bd969d4d52eddb6ecfc05ead263857fa8b047ae17385d9c81af6f660bbe03db",
+    "df6c2a802bf5aa52.TXTR": "87a91d91d854d3f401ddff724dcfb1637ef377e1b7ec9f1d734674fdb1abedce",
+    "e1816572648b8966.TXTR": "a1fa6d8fe6c47494f45533cec63c7c33fa57e9986dfb119730fb53ce8c8fe1e5",
+    "e26f781ac18eeb99.TXTR": "ddcedf8fe013ca6f79c75d1cc22f8609f59911ec41a2c6b41931521080777dff",
+    "e32eed3db6ba35fb.CINF": "9baf6d795703a1ba3207f7d97feeb0301f2d1a3bef5dffd2d3a61b1b183bbb69",
+    "e35938d71a7fc432.TXTR": "c89f4228eb1aef172b2c75c5642e698517a1e375a1c6e7dab7b3f377a6c38a25",
+    "e3c7fb30affb496f.TXTR": "4a97f1d75fb94209ffc2813b4ddf94b79589830e8e3741bb6c52f5ff6a861685",
+    "e3f326fe90a9bd9f.CINF": "04883aed1eaf679593d5d03ca9efff03a5414d74dfef7fd6bb0c726c2ab5a4cc",
+    "e461b8a6bf1474e8.TXTR": "4f4e4170c27d97cb15acab7985c775a581c73a2e6867ae70bf95f132a1d63166",
+    "e4c1e09e8cb85e82.CINF": "c10fe747dc7227194e97d56568973c9019e3e41c8582859a99382f627268d255",
+    "e4e08a461cd92741.CSKR": "b184db3834399b4dd6b601a048edd634b988f2f1ef910aa9f6a74d052dd3a547",
+    "e5d5bd80c2c7cfa4.CSKR": "95895a321d1ed6abbaa6e0f1817caeffc301d3ef8bee8c81d49f74172d278507",
+    "e5fa66ba44cd6429.CMDL": "ea4eb73ca18863ce4093c98858929e548dd13e5fdd7adf94fd704649bc2fd66c",
+    "e645aea04ebe560f.ANIM": "113b5157614ac207e743476ce77254ded4bf7c6daa451287b24ecef69ab519dd",
+    "e72c7b13ecf629cc.CSKR": "75ab707151908719bc8a310a3faccc18101bac66478e669f16baed0568b6948a",
+    "e820833d6a4379e9.TXTR": "64c09929bd679f537f5dc4f458c62458aee39d64dc842a292bd1862643a28fbe",
+    "e876fb5b4f1e41d1.CMDL": "acd8f430ab68143f89c58dd306ae5f22d239c92e48336b7ea18e48df0f73547a",
+    "e885b2bacd8361f8.ANIM": "2b4407d00bbc4d23b93aecaedfca533ee6efef595115a4f9d17ca19c367c1720",
+    "e8e73dca1ccfb815.CHAR": "6e3758fb3ce195fe5f666825ed2dfe8578e7ce0cdf1fe1e97ecd68c95cfb4bef",
+    "ea5d6ed21ca5cdc0.CMDL": "4fe9a4a9f030fdf5de097e8b5ac90ae6b11e4265c39aa8fdae899415e7226f87",
+    "ea63873c701812d7.PART": "566fe3d6017df89474d8c7b430861280e4efd5fd31f142af1b8397c3bbcbbf98",
+    "eadce3be33fcefe4.CSKR": "537046c687b02a10c884c779f440732a7bf6ac1d796eeb54e27a42e28c43f23c",
+    "ebb21643e05f1a52.CHAR": "cdebdeafd87b3b9571853fe744a74da9a6666990d6dfe83b8cdee9867902c072",
+    "ecaeaa2317f935d6.TXTR": "c052bfc93e29082753b6ec4d1e23596a388bd9229ea87137ab209d96408fb71b",
+    "ed222e5f9e3465da.TXTR": "831961a6b66be9ab281cdb0b02e748396dc87524ed31d4cf857c5faa23a0afa5",
+    "ed24b0f86c3857fc.SAND": "2825c90fcb6e7f4230761189ed8eac644638e377b1a2d2eee007efaa217bced7",
+    "ed700bdd2c426ee3.SAND": "d4fadc2f761fb6d3dd960440ce3712c323adbdc33a3049f3a16b5af9296420ca",
+    "edbf65108e52431f.SAND": "7c69b9267377cc56ea6915679c293f06018b6116463e49979d7549171560e6b4",
+    "ee16eda2d7cbd732.ANIM": "3b34aba690117e657972c7cc052e85dd09088596450eeb1fbb46f1d64d624ecf",
+    "eeba4314dc44c175.CINF": "5e998c9567d0156bb7d908bc5748b9f879083312fae814d1db27d553fa898bcc",
+    "ef46321215e3766b.CHAR": "c00d82ea61a5699b520521e317bb3a7bf0ffac1a911f4d524c3401847b470f4c",
+    "ef492efccc959172.SAND": "341983947883d9cee59347231afe3b944f5fca30ee19891a5d5490721dec6217",
+    "ef4e7cc4a8915b3f.TXTR": "69b63405e93a2059ec8978c42ed77c0c9d1c9f1c9e1c03e9392a09846350b1bc",
+    "ef82faf91519969e.ANIM": "bb11ccd63785aa35e7ec8e5258716c39e472ed056ff7e8eab7eb19eaa4d84085",
+    "ef95e0c7a1185ccb.CINF": "0a8e08d3f79ea67c6a405fc4a476e556636b7908cb64e7ccc85634a6fd824c9d",
+    "efb023dc9eafad8e.CSKR": "5b98db83b086edb0ff28aa599fb350b5f1790c0730604a32318602976614e3d4",
+    "f00b2768b6930079.CSKR": "e8e4aa91d1824c8f77ff2aee520b82d6f31bc9601d564ad7b25ea1dec5c6f5e1",
+    "f0110e5c2816e32d.ANIM": "e2d2f909b1dc5d92f3113537e5994e89981b30d8b4de7b60550f447ee1b6896b",
+    "f044bae7bf55deed.TXTR": "ef6ce0380bba9ecad8857f091292bd1d20e8d23fcd2488d7423b4a2373e6f5d8",
+    "f05caaeec5d152d9.PART": "b00d8d50e9a81970460c3e5afaccf7dc663c5ef1a4aea20b584ef4b0c95db53e",
+    "f07a3fa17b0fd1ca.CSKR": "a18326d24111339827a4fe7bc53788c8c266619fa95982ca495348a8ff56141e",
+    "f07e2ae1f55cf124.TXTR": "4ae8abcaa72cbb198e20355fdbcd8b4b1c0036b03ed5c4d2789a2bd0317bd61a",
+    "f0fe1b37934fd7c7.TXTR": "0c9b0c05a33941c0cd081a51ec18de232dc24c46cef6ceadb8c3d49265e5ad8f",
+    "f1d0ac37b713affe.TXTR": "6828673147d67cdb8375b91d22d712f94382c48db028076278375e8213b3cfc3",
+    "f39057b1f46abfab.TXTR": "c7a018e88a391c6da703b35cac257d721a08d8cff57f81ddb1d831fd5f86f829",
+    "f433a359c02b5d9b.ANIM": "7bec62a0cb48975b8378bf70b00d5b9aba1f9eebbe69466e1503d222a11b7bd1",
+    "f45f57f18cf41e68.TXTR": "4dfb911831da268a63dfec0cfa5c28558e4a43784318ac8aa52c1031ddb1c7f5",
+    "f4a02e0095001c40.TXTR": "14a42c9e91540de77c076562adfc1107aa3ea0704a1dcb32fbc2b2c117fad480",
+    "f50e85b1da78e2d8.CSKR": "75ab707151908719bc8a310a3faccc18101bac66478e669f16baed0568b6948a",
+    "f539c88ac473fccc.ANIM": "e8ec26a1f3fc6c845964becea5c1d80dad915bbe12bf68c376253f728eac97d4",
+    "f584e8d9a7c0cc80.CHAR": "8eb9eb341365950e02ad5453c29b769e95b185fdef015d11ecddd7c6e100f39d",
+    "f5902dc98f135333.TXTR": "64c09929bd679f537f5dc4f458c62458aee39d64dc842a292bd1862643a28fbe",
+    "f5a4e6f0eba71404.CSKR": "2222518e5912f65852efa886e5dc0855831a4d57c39d32672224b9253cde4623",
+    "f5ee5e89a582c2de.CSKR": "0bb0cb55ed48ee0c2dd161153a6aa39b57f1c7724e8cd82903d5e53560aa6456",
+    "f5f7fe3670c71ea3.TXTR": "90b84361a7263ca4aeb4c89281f9d099606d9e008145e1b3faea2b8bf8d16f4e",
+    "f63273a27361b17f.CMDL": "3879fd06a50322fb37ec9ff7d380fed625f2cb71323b9fb058e54d6a77a04c27",
+    "f633f008f8fae2f7.TXTR": "64bb9692e58bcf4e22cc2fd9076d79d7fdababf7c68595512880e4fd8810b944",
+    "f65e0378603d8711.SAND": "72c898b1804a69b11eae4ff4a8fe69e275d72e3f1a7f7e455b39304d4ae73a5a",
+    "f68acb3b68054a6d.SAND": "5de0d6b8abe440e87df1884d3ba4c765e894c143de36d2212daccfe268cd6178",
+    "f72f2d9d9c9c3fa6.SAND": "3918587ef11e6b921884fd4d2a2bb70e899292980239df8a6d180d45528ba91f",
+    "f7bb484ccd5b7a9a.ANIM": "b626c5091e318ebde3ff74834563d88c2d1b467247b59e96568ad0d078220fd4",
+    "f7ccdad0a8dd8975.CHAR": "6ccf14c3b1d7c6add8735ee528e494dd8f5a28be204beb9ce33e10e5672a26de",
+    "f82509fda2d770e6.CSKR": "a628f30d0a10f97af81aab4e8a12e4130e9426074305c18ad914d19934895ca6",
+    "f836b0b9513ab11c.CINF": "85bd244904bb1226383e7d1ff1a6fc50a02245fb665901d695d210e0d55b8f09",
+    "f8511d7da2e3f6b3.CMDL": "e8c482d8093f0188c1bfe9466df14af198b15d3bb77494d5092f10e82e5e8315",
+    "f86cd3288767e957.CMDL": "bbb3d3dd2b3e380e163146b53488c9cb5e4c8e235def980230866f23bfde9d35",
+    "f8acb23f1fb56f02.ANIM": "3b34aba690117e657972c7cc052e85dd09088596450eeb1fbb46f1d64d624ecf",
+    "f9046228de785aab.PART": "fc7a44a2dbbdad14de05b691db43b506aef959c5fe8048fb09619f66cc11f4c6",
+    "f90f59c9a87a912a.CINF": "dff4076d23b49d337a35d313bf9fe8ab6eead33f8c73965d5a23a494b2dc8ade",
+    "f998e88739ddfbed.CSKR": "10f9198214d3fe4516364d4b72bd4f4d7ddea8f74d8bfd97f5c32e645d11fcd1",
+    "f9eb1105211aaabb.PART": "76f8ecdce0f8b0f15ef5168d912125590fc0e08dd9967e6f896795599bcf3e77",
+    "fa469f01eefe241c.CINF": "eb61022ba01ba8db2336b4677b7448c6bb62f7ff20dde66d83763edb5ca913fe",
+    "fb962f0f0e516b7f.CSKR": "39d90c28ec4606a6c3a7423cd9bf7c1e707c94190015c3ef143b840d06139030",
+    "fbbd87903bd378ca.TXTR": "f0bb51b763eea2ef1b20a413d3efdee2e3516cfa0210f3a96618b4c255337320",
+    "fc5c2e7ca242ca9f.TXTR": "2a9c9c964e0f1395d65280a9c2601abc2c4edc218299f11a037502ed026fc508",
+    "fc90e48e171b1e3c.CMDL": "e55b6ca7f0e5e5f8bb4b28717e24ff6c1533f1e501129fad0d81b3b9e28fb73a",
+    "fcb69a666683d266.CMDL": "0c7b70417abb6a7e017155221c3d607f8e02ffa81a8af63ca13aca7c34adbe70",
+    "fce52b33d02c666f.CSKR": "0bb0cb55ed48ee0c2dd161153a6aa39b57f1c7724e8cd82903d5e53560aa6456",
+    "fd16fd31c36a342e.CSKR": "5b98db83b086edb0ff28aa599fb350b5f1790c0730604a32318602976614e3d4",
+    "fddac491ad6e076e.CMDL": "859ef6e75808df319858603a776fb70984763e6ecb9ad957b3291157f533ef04",
+    "fdf2f165bee8cfcf.ANIM": "eab0ea1762a1e2e0198c6e427824e038f68a3448cdf6f208a63ec23232520dae",
+    "fe40c7949653ebb1.TXTR": "f9b966567fccf70a1d913cb91e7f4bbb3bbbfc3cf2d29e967ac1f5af10e9db38",
+    "fe474f7dd1b7766e.CHAR": "87fad68fef7cb9c562884690c9209f58e9d4a905b44272c128691d0253834162",
+    "ff8c151b4ff1796c.TXTR": "d348b8072987edca58569dd15a839320c801a5e643275b0bfe6941b3e41727bc"
+  },
+  "provenance": {
+    "prime_catalog": "randomprime pickup_meta.rs.in, April Wade, MIT; see randomprime-LICENSE.txt",
+    "prime_catalog_source_sha256": "1d164fe487e48467d82e4e7c186e2d5dac05686f63f7510f1a12e977c2fae816",
+    "expected_files": "SHA-256 fingerprints of the locally validated 93-model opaque-emission/model-matched renderer; no payloads"
+  },
+  "presentation": {
+    "Prime:Missile": {
+      "center": [
+        1.4901161193847656e-08,
+        1.3278963706397917e-08,
+        1.5555000142776407
+      ],
+      "scale": 0.4851569136276845,
+      "bounds": [
+        [
+          -0.3736318349838257,
+          -0.37363188130950675,
+          0.731024491484277
+        ],
+        [
+          0.37363186478614807,
+          0.37363190786743417,
+          2.3799755370710045
+        ]
+      ]
+    },
+    "Prime:EnergyTank": {
+      "center": [
+        -0.0020519877361228067,
+        -0.00034488118172365523,
+        -0.00011536356955246796
+      ],
+      "scale": 0.9058926581176813,
+      "bounds": [
+        [
+          -0.4436054062516722,
+          -0.2779419761549337,
+          -0.2829813390525027
+        ],
+        [
+          0.4395014307794266,
+          0.2772522137914864,
+          0.2827506119133978
+        ]
+      ]
+    },
+    "Prime:Visor": {
+      "center": [
+        -0.009937216143651284,
+        1.0033833061640074e-07,
+        -0.0020000000949949026
+      ],
+      "scale": 0.6727494607985576,
+      "bounds": [
+        [
+          -0.4517455570588754,
+          -0.42582499671625906,
+          -0.5965749842580408
+        ],
+        [
+          0.43187112477157286,
+          0.4258251973929203,
+          0.592574984068051
+        ]
+      ]
+    },
+    "Prime:CombatVisor": {
+      "center": [
+        -0.009937216143651284,
+        1.0033833061640074e-07,
+        -0.0020000000949949026
+      ],
+      "scale": 0.6727494607985576,
+      "bounds": [
+        [
+          -0.4517455570588754,
+          -0.42582499671625906,
+          -0.5965749842580408
+        ],
+        [
+          0.43187112477157286,
+          0.4258251973929203,
+          0.592574984068051
+        ]
+      ]
+    },
+    "Prime:ThermalVisor": {
+      "center": [
+        -0.009937216143651284,
+        1.0033833061640074e-07,
+        -0.0020000000949949026
+      ],
+      "scale": 0.6727494607985576,
+      "bounds": [
+        [
+          -0.4517455570588754,
+          -0.42582499671625906,
+          -0.5965749842580408
+        ],
+        [
+          0.43187112477157286,
+          0.4258251973929203,
+          0.592574984068051
+        ]
+      ]
+    },
+    "Prime:XRayVisor": {
+      "center": [
+        -0.009937216143651284,
+        1.0033833061640074e-07,
+        -0.0020000000949949026
+      ],
+      "scale": 0.6727494607985576,
+      "bounds": [
+        [
+          -0.4517455570588754,
+          -0.42582499671625906,
+          -0.5965749842580408
+        ],
+        [
+          0.43187112477157286,
+          0.4258251973929203,
+          0.592574984068051
+        ]
+      ]
+    },
+    "Prime:VariaSuit": {
+      "center": [
+        -9.72210340288715e-08,
+        6.926404569340683e-08,
+        -0.01480231387540698
+      ],
+      "scale": 0.8892444316489813,
+      "bounds": [
+        [
+          -0.42034061122674815,
+          -0.4204716595650393,
+          -0.4646223923191428
+        ],
+        [
+          0.4203404167846801,
+          0.4204717980931307,
+          0.43501776456832886
+        ]
+      ]
+    },
+    "Prime:GravitySuit": {
+      "center": [
+        -9.72210340288715e-08,
+        6.926404569340683e-08,
+        -0.01480231387540698
+      ],
+      "scale": 0.8892444316489813,
+      "bounds": [
+        [
+          -0.42034061122674815,
+          -0.4204716595650393,
+          -0.4646223923191428
+        ],
+        [
+          0.4203404167846801,
+          0.4204717980931307,
+          0.43501776456832886
+        ]
+      ]
+    },
+    "Prime:PhazonSuit": {
+      "center": [
+        -9.72210340288715e-08,
+        6.926404569340683e-08,
+        -0.01480231387540698
+      ],
+      "scale": 0.8892444316489813,
+      "bounds": [
+        [
+          -0.42034061122674815,
+          -0.4204716595650393,
+          -0.4646223923191428
+        ],
+        [
+          0.4203404167846801,
+          0.4204717980931307,
+          0.43501776456832886
+        ]
+      ]
+    },
+    "Prime:MorphBall": {
+      "center": [
+        -0.0005429899662805493,
+        -2.6351490367615416e-05,
+        4.007152540430603e-05
+      ],
+      "scale": 0.7473912420560672,
+      "bounds": [
+        [
+          -0.535737915317029,
+          -0.5310627685673763,
+          -0.5249861654970285
+        ],
+        [
+          0.5346519353844679,
+          0.5310100655866411,
+          0.5250663085478371
+        ]
+      ]
+    },
+    "Prime:BoostBall": {
+      "center": [
+        -0.0005429899662805493,
+        -2.6351490367615416e-05,
+        4.007152540430603e-05
+      ],
+      "scale": 0.7473912420560672,
+      "bounds": [
+        [
+          -0.535737915317029,
+          -0.5310627685673763,
+          -0.5249861654970285
+        ],
+        [
+          0.5346519353844679,
+          0.5310100655866411,
+          0.5250663085478371
+        ]
+      ]
+    },
+    "Prime:SpiderBall": {
+      "center": [
+        0.0011268284945204488,
+        -5.604727593921943e-06,
+        -9.109865327650013e-07
+      ],
+      "scale": 0.7665702227856508,
+      "bounds": [
+        [
+          -0.5182620446059341,
+          -0.5217355033114108,
+          -0.5218056825656245
+        ],
+        [
+          0.520515701594975,
+          0.521724293856223,
+          0.521803860592559
+        ]
+      ]
+    },
+    "Prime:MorphBallBomb": {
+      "center": [
+        7.421652335137807e-06,
+        -1.3957926841445811e-05,
+        0.9611409154015419
+      ],
+      "scale": 0.8655262057303387,
+      "bounds": [
+        [
+          -0.38029012659580447,
+          -0.3846764734575692,
+          0.4989943075325445
+        ],
+        [
+          0.38030496990047474,
+          0.38464855760388633,
+          1.4232875232705393
+        ]
+      ]
+    },
+    "Prime:PowerBombExpansion": {
+      "center": [
+        -0.00835252198157832,
+        -5.98646324567742e-07,
+        1.0850008794742956
+      ],
+      "scale": 0.5779448754017351,
+      "bounds": [
+        [
+          -0.7004600516520441,
+          -0.5322108502803231,
+          0.5527913448208106
+        ],
+        [
+          0.6837550076888874,
+          0.532209652987674,
+          1.6172104141277805
+        ]
+      ]
+    },
+    "Prime:PowerBomb": {
+      "center": [
+        5.364418242947977e-09,
+        -5.364418242947977e-09,
+        -0.001000000047495897
+      ],
+      "scale": 2.0571557591965273,
+      "bounds": [
+        [
+          -0.18644321918487528,
+          -0.18644322991371176,
+          -0.19544322497676903
+        ],
+        [
+          0.18644322991371176,
+          0.18644321918487528,
+          0.19344322488177723
+        ]
+      ]
+    },
+    "Prime:ChargeBeam": {
+      "center": [
+        0.0005626783297119631,
+        0.0,
+        1.4080673785478344
+      ],
+      "scale": 0.882956094331906,
+      "bounds": [
+        [
+          -0.45181212998086184,
+          -0.11570499837398529,
+          0.9550437202167117
+        ],
+        [
+          0.45293748664028577,
+          0.11570499837398529,
+          1.8610910368789573
+        ]
+      ]
+    },
+    "Prime:SpaceJumpBoots": {
+      "center": [
+        -1.0086855196073108e-05,
+        -1.1575083391779373e-09,
+        1.2768160104751587
+      ],
+      "scale": 0.7110163308732522,
+      "bounds": [
+        [
+          -0.46777654895809284,
+          -0.4677668079567902,
+          0.7142410278320312
+        ],
+        [
+          0.4677563752477007,
+          0.46776680564177353,
+          1.8393909931182861
+        ]
+      ]
+    },
+    "Prime:GrappleBeam": {
+      "center": [
+        -4.0890929586812064e-08,
+        -0.002000257232402103,
+        -0.048999972525052726
+      ],
+      "scale": 0.41993556367006385,
+      "bounds": [
+        [
+          -0.9203845322545771,
+          -0.9224056274055855,
+          -1.0015270614530891
+        ],
+        [
+          0.9203844504727179,
+          0.9184051129407813,
+          0.9035271164029837
+        ]
+      ]
+    },
+    "Prime:SuperMissile": {
+      "center": [
+        5.4921459900589276e-05,
+        0.0001401177286598776,
+        -0.12021981475463267
+      ],
+      "scale": 0.9348141402716609,
+      "bounds": [
+        [
+          -0.2103847787283374,
+          -0.21021278076664354,
+          -0.548112358061432
+        ],
+        [
+          0.2104946216481386,
+          0.2104930162239633,
+          0.30767272855216665
+        ]
+      ]
+    },
+    "Prime:Wavebuster": {
+      "center": [
+        5.512920928631149e-05,
+        0.0001401265130116236,
+        -0.12021961386912217
+      ],
+      "scale": 0.9348135995128579,
+      "bounds": [
+        [
+          -0.2103846492250293,
+          -0.21021262424719406,
+          -0.5481124046976302
+        ],
+        [
+          0.21049490764360193,
+          0.2104928772732173,
+          0.3076731769593859
+        ]
+      ]
+    },
+    "Prime:IceSpreader": {
+      "center": [
+        5.4921459900589276e-05,
+        0.0001401177286598776,
+        -0.12021981475463267
+      ],
+      "scale": 0.9348141402716609,
+      "bounds": [
+        [
+          -0.2103847787283374,
+          -0.21021278076664354,
+          -0.548112358061432
+        ],
+        [
+          0.2104946216481386,
+          0.2104930162239633,
+          0.30767272855216665
+        ]
+      ]
+    },
+    "Prime:Flamethrower": {
+      "center": [
+        5.4921459900589276e-05,
+        0.0001401177286598776,
+        -0.12021981475463267
+      ],
+      "scale": 0.9348141402716609,
+      "bounds": [
+        [
+          -0.2103847787283374,
+          -0.21021278076664354,
+          -0.548112358061432
+        ],
+        [
+          0.2104946216481386,
+          0.2104930162239633,
+          0.30767272855216665
+        ]
+      ]
+    },
+    "Prime:FlamethrowerNew": {
+      "center": [
+        5.4921459900589276e-05,
+        0.0001401177286598776,
+        -0.12021981475463267
+      ],
+      "scale": 0.9348141402716609,
+      "bounds": [
+        [
+          -0.2103847787283374,
+          -0.21021278076664354,
+          -0.548112358061432
+        ],
+        [
+          0.2104946216481386,
+          0.2104930162239633,
+          0.30767272855216665
+        ]
+      ]
+    },
+    "Prime:WaveBeam": {
+      "center": [
+        0.0,
+        0.0,
+        0.906500072858762
+      ],
+      "scale": 0.37666306235392266,
+      "bounds": [
+        [
+          -0.5124058127403259,
+          -0.5124053888404801,
+          -0.15545699163340032
+        ],
+        [
+          0.5124058127403259,
+          0.5124053888404801,
+          1.9684571373509243
+        ]
+      ]
+    },
+    "Prime:IceBeam": {
+      "center": [
+        8.940696716308594e-08,
+        -3.7445258449508856e-08,
+        0.9065000430564396
+      ],
+      "scale": 0.3766631786296333,
+      "bounds": [
+        [
+          -0.5124053359031677,
+          -0.5123990437385875,
+          -0.15545669361017644
+        ],
+        [
+          0.512405514717102,
+          0.5123989688480706,
+          1.9684567797230557
+        ]
+      ]
+    },
+    "Prime:PlasmaBeam": {
+      "center": [
+        8.940696716308594e-08,
+        -3.7445258449508856e-08,
+        0.9065000430564396
+      ],
+      "scale": 0.3766631786296333,
+      "bounds": [
+        [
+          -0.5124053359031677,
+          -0.5123990437385875,
+          -0.15545669361017644
+        ],
+        [
+          0.512405514717102,
+          0.5123989688480706,
+          1.9684567797230557
+        ]
+      ]
+    },
+    "Prime:ArtifactOfLifegiver": {
+      "center": [
+        0.07832558622153096,
+        -0.08201713228974705,
+        0.0002978818481608192
+      ],
+      "scale": 0.2072972015607791,
+      "bounds": [
+        [
+          -1.6321163776058678,
+          -1.9429617362394147,
+          -1.9292988372021966
+        ],
+        [
+          1.7887675500489297,
+          1.7789274716599206,
+          1.9298946008985183
+        ]
+      ]
+    },
+    "Prime:ArtifactOfWild": {
+      "center": [
+        0.07832558622153096,
+        -0.08201713228974705,
+        0.0002978818481608192
+      ],
+      "scale": 0.2072972015607791,
+      "bounds": [
+        [
+          -1.6321163776058678,
+          -1.9429617362394147,
+          -1.9292988372021966
+        ],
+        [
+          1.7887675500489297,
+          1.7789274716599206,
+          1.9298946008985183
+        ]
+      ]
+    },
+    "Prime:ArtifactOfWorld": {
+      "center": [
+        0.07832558622153096,
+        -0.08201713228974705,
+        0.0002978818481608192
+      ],
+      "scale": 0.2072972015607791,
+      "bounds": [
+        [
+          -1.6321163776058678,
+          -1.9429617362394147,
+          -1.9292988372021966
+        ],
+        [
+          1.7887675500489297,
+          1.7789274716599206,
+          1.9298946008985183
+        ]
+      ]
+    },
+    "Prime:ArtifactOfSun": {
+      "center": [
+        0.07832558622153096,
+        -0.08201713228974705,
+        0.0002978818481608192
+      ],
+      "scale": 0.2072972015607791,
+      "bounds": [
+        [
+          -1.6321163776058678,
+          -1.9429617362394147,
+          -1.9292988372021966
+        ],
+        [
+          1.7887675500489297,
+          1.7789274716599206,
+          1.9298946008985183
+        ]
+      ]
+    },
+    "Prime:ArtifactOfElder": {
+      "center": [
+        0.07832558622153096,
+        -0.08201713228974705,
+        0.0002978818481608192
+      ],
+      "scale": 0.2072972015607791,
+      "bounds": [
+        [
+          -1.6321163776058678,
+          -1.9429617362394147,
+          -1.9292988372021966
+        ],
+        [
+          1.7887675500489297,
+          1.7789274716599206,
+          1.9298946008985183
+        ]
+      ]
+    },
+    "Prime:ArtifactOfSpirit": {
+      "center": [
+        0.07832558622153096,
+        -0.08201713228974705,
+        0.0002978818481608192
+      ],
+      "scale": 0.2072972015607791,
+      "bounds": [
+        [
+          -1.6321163776058678,
+          -1.9429617362394147,
+          -1.9292988372021966
+        ],
+        [
+          1.7887675500489297,
+          1.7789274716599206,
+          1.9298946008985183
+        ]
+      ]
+    },
+    "Prime:ArtifactOfTruth": {
+      "center": [
+        0.07832558622153096,
+        -0.08201713228974705,
+        0.0002978818481608192
+      ],
+      "scale": 0.2072972015607791,
+      "bounds": [
+        [
+          -1.6321163776058678,
+          -1.9429617362394147,
+          -1.9292988372021966
+        ],
+        [
+          1.7887675500489297,
+          1.7789274716599206,
+          1.9298946008985183
+        ]
+      ]
+    },
+    "Prime:ArtifactOfChozo": {
+      "center": [
+        0.07832558622153096,
+        -0.08201713228974705,
+        0.0002978818481608192
+      ],
+      "scale": 0.2072972015607791,
+      "bounds": [
+        [
+          -1.6321163776058678,
+          -1.9429617362394147,
+          -1.9292988372021966
+        ],
+        [
+          1.7887675500489297,
+          1.7789274716599206,
+          1.9298946008985183
+        ]
+      ]
+    },
+    "Prime:ArtifactOfWarrior": {
+      "center": [
+        0.07832558622153096,
+        -0.08201713228974705,
+        0.0002978818481608192
+      ],
+      "scale": 0.2072972015607791,
+      "bounds": [
+        [
+          -1.6321163776058678,
+          -1.9429617362394147,
+          -1.9292988372021966
+        ],
+        [
+          1.7887675500489297,
+          1.7789274716599206,
+          1.9298946008985183
+        ]
+      ]
+    },
+    "Prime:ArtifactOfNewborn": {
+      "center": [
+        0.07832558622153096,
+        -0.08201713228974705,
+        0.0002978818481608192
+      ],
+      "scale": 0.2072972015607791,
+      "bounds": [
+        [
+          -1.6321163776058678,
+          -1.9429617362394147,
+          -1.9292988372021966
+        ],
+        [
+          1.7887675500489297,
+          1.7789274716599206,
+          1.9298946008985183
+        ]
+      ]
+    },
+    "Prime:ArtifactOfNature": {
+      "center": [
+        0.07832558622153096,
+        -0.08201713228974705,
+        0.0002978818481608192
+      ],
+      "scale": 0.2072972015607791,
+      "bounds": [
+        [
+          -1.6321163776058678,
+          -1.9429617362394147,
+          -1.9292988372021966
+        ],
+        [
+          1.7887675500489297,
+          1.7789274716599206,
+          1.9298946008985183
+        ]
+      ]
+    },
+    "Prime:ArtifactOfStrength": {
+      "center": [
+        0.07832558622153096,
+        -0.08201713228974705,
+        0.0002978818481608192
+      ],
+      "scale": 0.2072972015607791,
+      "bounds": [
+        [
+          -1.6321163776058678,
+          -1.9429617362394147,
+          -1.9292988372021966
+        ],
+        [
+          1.7887675500489297,
+          1.7789274716599206,
+          1.9298946008985183
+        ]
+      ]
+    },
+    "Prime:Nothing": {
+      "center": [
+        -5.5973982111545695e-05,
+        9.39103487146431e-06,
+        -0.10634615225717425
+      ],
+      "scale": 0.537557119376969,
+      "bounds": [
+        [
+          -0.7440533827337987,
+          -0.7440975802644795,
+          -0.8131586750969291
+        ],
+        [
+          0.7439414347695756,
+          0.7441163623342224,
+          0.6004663705825806
+        ]
+      ]
+    },
+    "Prime:Zoomer": {
+      "center": [
+        5.743708508115786e-05,
+        9.685510870383052e-06,
+        -0.009652994107455015
+      ],
+      "scale": 0.7515324084287565,
+      "bounds": [
+        [
+          -0.5320265642732691,
+          -0.5322361571352078,
+          -0.3066400131210685
+        ],
+        [
+          0.5321414384434314,
+          0.5322555281569485,
+          0.28733402490615845
+        ]
+      ]
+    },
+    "Prime:Cog": {
+      "center": [
+        -4.262176875990953e-06,
+        1.7723612499853658e-07,
+        -0.004000000189989805
+      ],
+      "scale": 0.28172096611658226,
+      "bounds": [
+        [
+          -1.4194231036916531,
+          -1.4198444495726277,
+          -1.402173980139196
+        ],
+        [
+          1.4194145793379012,
+          1.4198448040448777,
+          1.3941739797592163
+        ]
+      ]
+    },
+    "Prime:RandovaniaGamecube": {
+      "center": [
+        -2.228747255306196e-05,
+        -0.0002996077966294086,
+        -0.19217475457116961
+      ],
+      "scale": 0.20331582775064883,
+      "bounds": [
+        [
+          -1.9674047801458199,
+          -1.9664568785272492,
+          -1.3798171123489738
+        ],
+        [
+          1.9673602052007138,
+          1.9658576629339903,
+          0.9954676032066345
+        ]
+      ]
+    },
+    "Prime:HealthRefill": {
+      "center": [
+        -2.9435996251603314e-08,
+        3.369780843254233e-11,
+        0.0
+      ],
+      "scale": 1.7493786738134676,
+      "bounds": [
+        [
+          -0.228652639638475,
+          -0.22736729026347222,
+          -0.22737064957618713
+        ],
+        [
+          0.2286525807664825,
+          0.22736729033086783,
+          0.22737064957618713
+        ]
+      ]
+    },
+    "Prime:MissileRefill": {
+      "center": [
+        1.3877787807814457e-17,
+        -1.3877787807814457e-17,
+        0.0
+      ],
+      "scale": 1.2857850616108588,
+      "bounds": [
+        [
+          -0.2096171866145978,
+          -0.20996119960634285,
+          -0.3110939860343933
+        ],
+        [
+          0.20961718661459783,
+          0.20996119960634282,
+          0.3110939860343933
+        ]
+      ]
+    },
+    "Prime:PowerBombRefill": {
+      "center": [
+        5.364418242947977e-09,
+        -5.364418242947977e-09,
+        -0.001000000047495897
+      ],
+      "scale": 2.0571557591965273,
+      "bounds": [
+        [
+          -0.18644321918487528,
+          -0.18644322991371176,
+          -0.19544322497676903
+        ],
+        [
+          0.18644322991371176,
+          0.18644321918487528,
+          0.19344322488177723
+        ]
+      ]
+    },
+    "Prime:ShinyMissile": {
+      "center": [
+        1.4901161193847656e-08,
+        1.3278963706397917e-08,
+        1.5555000142776407
+      ],
+      "scale": 0.4851569136276845,
+      "bounds": [
+        [
+          -0.3736318349838257,
+          -0.37363188130950675,
+          0.731024491484277
+        ],
+        [
+          0.37363186478614807,
+          0.37363190786743417,
+          2.3799755370710045
+        ]
+      ]
+    },
+    "Prime:IceTrap": {
+      "center": [
+        0.0002118485738086262,
+        -2.8822176699527802e-05,
+        0.07992849545553327
+      ],
+      "scale": 0.2758489013575856,
+      "bounds": [
+        [
+          -1.4490580572873137,
+          -1.4500980377197266,
+          -0.341095014475286
+        ],
+        [
+          1.449481754434931,
+          1.4500403933663275,
+          0.5009520053863525
+        ]
+      ]
+    },
+    "Echoes:PowerBeam INCOMPLETE": {
+      "center": [
+        -2.228747255306196e-05,
+        -0.0002996077966294086,
+        -0.19217475457116961
+      ],
+      "scale": 0.20331582775064883,
+      "bounds": [
+        [
+          -1.9674047801458199,
+          -1.9664568785272492,
+          -1.3798171123489738
+        ],
+        [
+          1.9673602052007138,
+          1.9658576629339903,
+          0.9954676032066345
+        ]
+      ]
+    },
+    "Echoes:ChargeBeam INCOMPLETE": {
+      "center": [
+        1.1175870895385742e-08,
+        0.02716611698269844,
+        -0.018912702798843384
+      ],
+      "scale": 2.536652633447017,
+      "bounds": [
+        [
+          -0.11371573805809021,
+          -0.07131469994783401,
+          -0.17660082876682281
+        ],
+        [
+          0.113715760409832,
+          0.1256469339132309,
+          0.13877542316913605
+        ]
+      ]
+    },
+    "Echoes:DarkBeam": {
+      "center": [
+        -4.544854164123535e-07,
+        1.1208314914384898e-06,
+        -0.04710786044597626
+      ],
+      "scale": 2.29945401176884,
+      "bounds": [
+        [
+          -0.15461130440235138,
+          -0.15455547595586897,
+          -0.22106219828128815
+        ],
+        [
+          0.15461039543151855,
+          0.15455771761885184,
+          0.12684647738933563
+        ]
+      ]
+    },
+    "Echoes:LightBeam": {
+      "center": [
+        0.00013449325634032339,
+        -3.016408811618021e-07,
+        0.06890161335468292
+      ],
+      "scale": 2.0966607016744474,
+      "bounds": [
+        [
+          -0.19057809741352022,
+          -0.19077985871492262,
+          -0.09200084209442139
+        ],
+        [
+          0.19084708392620087,
+          0.1907792554331603,
+          0.22980406880378723
+        ]
+      ]
+    },
+    "Echoes:AnnihilatorBeam": {
+      "center": [
+        4.738861428821295e-07,
+        -0.00021854988093100713,
+        0.0
+      ],
+      "scale": 0.6581653270131279,
+      "bounds": [
+        [
+          -0.6077495603116044,
+          -0.6077538544666745,
+          -0.4344954490661621
+        ],
+        [
+          0.6077505080838902,
+          0.6073167547048125,
+          0.4344954490661621
+        ]
+      ]
+    },
+    "Echoes:SuperMissile": {
+      "center": [
+        -1.9896277592135192e-07,
+        1.2629381565543163e-07,
+        0.33734358847141266
+      ],
+      "scale": 0.5009433454351904,
+      "bounds": [
+        [
+          -0.47943020501847966,
+          -0.47943012740533936,
+          -0.4611499011516571
+        ],
+        [
+          0.4794298070929278,
+          0.47943037999297067,
+          1.1358370780944824
+        ]
+      ]
+    },
+    "Echoes:Darkburst": {
+      "center": [
+        -0.030667785150553684,
+        0.030144184454981682,
+        0.5091767326230183
+      ],
+      "scale": 0.37155584268630437,
+      "bounds": [
+        [
+          -1.1072219771343152,
+          -1.046410007528779,
+          -0.2811693683033809
+        ],
+        [
+          1.0458864068332079,
+          1.1066983764387424,
+          1.2995228335494176
+        ]
+      ]
+    },
+    "Echoes:Sunburst": {
+      "center": [
+        0.015419760887917133,
+        2.4733843089208563e-06,
+        0.1660642772912979
+      ],
+      "scale": 0.47135164234222643,
+      "bounds": [
+        [
+          -0.8186914948746562,
+          -0.8486208559252741,
+          -0.4362587183713913
+        ],
+        [
+          0.8495310166504905,
+          0.848625802693892,
+          0.7683872729539871
+        ]
+      ]
+    },
+    "Echoes:SonicBoom": {
+      "center": [
+        6.9141387615268e-08,
+        -0.0005234945449014705,
+        0.20115603250451386
+      ],
+      "scale": 0.45438755649006046,
+      "bounds": [
+        [
+          -0.6028227107750738,
+          -0.603346333373338,
+          -0.6791497643571347
+        ],
+        [
+          0.602822849057849,
+          0.602299344283535,
+          1.0814618293661624
+        ]
+      ]
+    },
+    "Echoes:CombatVisor INCOMPLETE": {
+      "center": [
+        -2.228747255306196e-05,
+        -0.0002996077966294086,
+        -0.19217475457116961
+      ],
+      "scale": 0.20331582775064883,
+      "bounds": [
+        [
+          -1.9674047801458199,
+          -1.9664568785272492,
+          -1.3798171123489738
+        ],
+        [
+          1.9673602052007138,
+          1.9658576629339903,
+          0.9954676032066345
+        ]
+      ]
+    },
+    "Echoes:ScanVisor INCOMPLETE": {
+      "center": [
+        0.0,
+        0.0,
+        0.011346012353897095
+      ],
+      "scale": 0.4859416778291168,
+      "bounds": [
+        [
+          -0.4930386245250702,
+          -0.4689077138900757,
+          -0.8117980360984802
+        ],
+        [
+          0.4930386245250702,
+          0.4689077138900757,
+          0.8344900608062744
+        ]
+      ]
+    },
+    "Echoes:DarkVisor": {
+      "center": [
+        5.522072799024613e-10,
+        -1.9372228821090687e-09,
+        0.011346012353897095
+      ],
+      "scale": 0.4859416778291168,
+      "bounds": [
+        [
+          -0.49303874449559576,
+          -0.4930387465215409,
+          -0.8117980360984802
+        ],
+        [
+          0.4930387456000103,
+          0.49303874264709513,
+          0.8344900608062744
+        ]
+      ]
+    },
+    "Echoes:EchoVisor": {
+      "center": [
+        5.522072799024613e-10,
+        -1.9372228821090687e-09,
+        0.011346012353897095
+      ],
+      "scale": 0.4859416778291168,
+      "bounds": [
+        [
+          -0.49303874449559576,
+          -0.4930387465215409,
+          -0.8117980360984802
+        ],
+        [
+          0.4930387456000103,
+          0.49303874264709513,
+          0.8344900608062744
+        ]
+      ]
+    },
+    "Echoes:VariaSuit INCOMPLETE": {
+      "center": [
+        -9.72210340288715e-08,
+        6.926404569340683e-08,
+        -0.01480231387540698
+      ],
+      "scale": 0.8892444316489813,
+      "bounds": [
+        [
+          -0.42034061122674815,
+          -0.4204716595650393,
+          -0.4646223923191428
+        ],
+        [
+          0.4203404167846801,
+          0.4204717980931307,
+          0.43501776456832886
+        ]
+      ]
+    },
+    "Echoes:DarkSuit": {
+      "center": [
+        -9.72210340288715e-08,
+        6.926404569340683e-08,
+        -0.01480231387540698
+      ],
+      "scale": 0.8892444316489813,
+      "bounds": [
+        [
+          -0.42034061122674815,
+          -0.4204716595650393,
+          -0.4646223923191428
+        ],
+        [
+          0.4203404167846801,
+          0.4204717980931307,
+          0.43501776456832886
+        ]
+      ]
+    },
+    "Echoes:LightSuit": {
+      "center": [
+        -9.72210340288715e-08,
+        6.926404569340683e-08,
+        -0.01480231387540698
+      ],
+      "scale": 0.8892444316489813,
+      "bounds": [
+        [
+          -0.42034061122674815,
+          -0.4204716595650393,
+          -0.4646223923191428
+        ],
+        [
+          0.4203404167846801,
+          0.4204717980931307,
+          0.43501776456832886
+        ]
+      ]
+    },
+    "Echoes:MorphBall INCOMPLETE": {
+      "center": [
+        -2.228747255306196e-05,
+        -0.0002996077966294086,
+        -0.19217475457116961
+      ],
+      "scale": 0.20331582775064883,
+      "bounds": [
+        [
+          -1.9674047801458199,
+          -1.9664568785272492,
+          -1.3798171123489738
+        ],
+        [
+          1.9673602052007138,
+          1.9658576629339903,
+          0.9954676032066345
+        ]
+      ]
+    },
+    "Echoes:MorphBallBomb": {
+      "center": [
+        -4.212157211913592e-08,
+        -2.7714934671269065e-05,
+        0.0
+      ],
+      "scale": 0.9000270983609191,
+      "bounds": [
+        [
+          -0.44443110506229744,
+          -0.4443017511100933,
+          -0.3894668519496918
+        ],
+        [
+          0.4444310208191532,
+          0.44424632124075075,
+          0.3894668519496918
+        ]
+      ]
+    },
+    "Echoes:BoostBall": {
+      "center": [
+        0.0,
+        -6.821669118473039e-09,
+        0.0
+      ],
+      "scale": 0.7117653816534634,
+      "bounds": [
+        [
+          -0.5619829375106469,
+          -0.5619829375106469,
+          -0.508576512336731
+        ],
+        [
+          0.5619829375106469,
+          0.5619829238673086,
+          0.508576512336731
+        ]
+      ]
+    },
+    "Echoes:SpiderBall": {
+      "center": [
+        4.440892098500626e-16,
+        -6.451888531766592e-07,
+        0.0
+      ],
+      "scale": 0.7438271708705622,
+      "bounds": [
+        [
+          -0.5377593285975918,
+          -0.5377593285975922,
+          -0.508576512336731
+        ],
+        [
+          0.5377593285975927,
+          0.5377580382198859,
+          0.508576512336731
+        ]
+      ]
+    },
+    "Echoes:PowerBomb": {
+      "center": [
+        0.0,
+        2.9802322387695312e-08,
+        1.4901161193847656e-08
+      ],
+      "scale": 1.414508154479299,
+      "bounds": [
+        [
+          -0.2827836871147156,
+          -0.28278377652168274,
+          -0.17057092487812042
+        ],
+        [
+          0.2827836871147156,
+          0.2827838361263275,
+          0.1705709546804428
+        ]
+      ]
+    },
+    "Echoes:PowerBombExpansion": {
+      "center": [
+        2.02784271596812e-08,
+        -4.773574419081328e-08,
+        0.0
+      ],
+      "scale": 0.7415792372514199,
+      "bounds": [
+        [
+          -0.5393894069155637,
+          -0.5393888766625952,
+          -0.5325979590415955
+        ],
+        [
+          0.539389447472418,
+          0.5393887811911068,
+          0.5325979590415955
+        ]
+      ]
+    },
+    "Echoes:MissileExpansion": {
+      "center": [
+        0.009450964213806257,
+        -1.7148164860869564e-06,
+        1.2686686549568549
+      ],
+      "scale": 0.7314113923040073,
+      "bounds": [
+        [
+          -0.3291306992473527,
+          -0.3480343499825834,
+          0.7217808101559058
+        ],
+        [
+          0.34803262767496523,
+          0.34803092034961125,
+          1.815556499757804
+        ]
+      ]
+    },
+    "Echoes:MissileExpansionPrime1": {
+      "center": [
+        1.4901161193847656e-08,
+        1.3278963706397917e-08,
+        1.555500103684608
+      ],
+      "scale": 0.4851568259428489,
+      "bounds": [
+        [
+          -0.37363186478614807,
+          -0.37363188130950675,
+          0.7310244318796322
+        ],
+        [
+          0.37363189458847046,
+          0.37363190786743417,
+          2.3799757754895836
+        ]
+      ]
+    },
+    "Echoes:MissileLauncher": {
+      "center": [
+        1.4901161193847656e-08,
+        1.3278963706397917e-08,
+        1.555500103684608
+      ],
+      "scale": 0.4851568259428489,
+      "bounds": [
+        [
+          -0.37363186478614807,
+          -0.37363188130950675,
+          0.7310244318796322
+        ],
+        [
+          0.37363189458847046,
+          0.37363190786743417,
+          2.3799757754895836
+        ]
+      ]
+    },
+    "Echoes:SeekerLauncher": {
+      "center": [
+        6.750892067586278e-10,
+        -1.0492852142718334e-09,
+        0.6383324100752358
+      ],
+      "scale": 0.5696087609210613,
+      "bounds": [
+        [
+          -0.5471283380564074,
+          -0.5471283392128838,
+          -0.06390397995710373
+        ],
+        [
+          0.5471283394065858,
+          0.5471283371143134,
+          1.3405688001075753
+        ]
+      ]
+    },
+    "Echoes:GrappleBeam": {
+      "center": [
+        -0.0009440573713951073,
+        -0.001360552304821766,
+        0.0
+      ],
+      "scale": 1.499956612144751,
+      "bounds": [
+        [
+          -0.2676184376576688,
+          -0.26761843765766885,
+          -0.19450747966766357
+        ],
+        [
+          0.2657303229148786,
+          0.2648973330480253,
+          0.19450747966766357
+        ]
+      ]
+    },
+    "Echoes:SpaceJumpBoots": {
+      "center": [
+        2.871100770462931e-07,
+        -3.0705256436058814e-07,
+        0.1326603209017776
+      ],
+      "scale": 1.4918432206278947,
+      "bounds": [
+        [
+          -0.24590469040180057,
+          -0.24590555580000684,
+          -0.13546436838805676
+        ],
+        [
+          0.24590526462195467,
+          0.24590494169487812,
+          0.40078501019161195
+        ]
+      ]
+    },
+    "Echoes:GravityBoost": {
+      "center": [
+        -2.408131734021879e-07,
+        -0.05727890676861089,
+        -4.470348358154297e-08
+      ],
+      "scale": 0.6600484955825916,
+      "bounds": [
+        [
+          -0.6060163179302649,
+          -0.6060163179302651,
+          -0.4888613224029541
+        ],
+        [
+          0.6060158363039181,
+          0.49145850439304334,
+          0.48886123299598694
+        ]
+      ]
+    },
+    "Echoes:ScrewAttack": {
+      "center": [
+        -0.002267307466618379,
+        -3.0473129728758597e-06,
+        0.0
+      ],
+      "scale": 1.1536896560112315,
+      "bounds": [
+        [
+          -0.3115104485460896,
+          -0.31151379657034006,
+          -0.34671369194984436
+        ],
+        [
+          0.30697583361285286,
+          0.3115077019443943,
+          0.34671369194984436
+        ]
+      ]
+    },
+    "Echoes:EnergyTransferModule": {
+      "center": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": 0.16,
+      "bounds": [
+        [
+          -2.5,
+          -2.377641201019287,
+          -2.5
+        ],
+        [
+          2.5,
+          2.377641201019287,
+          2.5
+        ]
+      ]
+    },
+    "Echoes:BeamAmmoExpansion": {
+      "center": [
+        1.2204026316242622e-05,
+        -1.0599711386394262e-09,
+        0.4074782654643059
+      ],
+      "scale": 0.7711495221867315,
+      "bounds": [
+        [
+          -0.4540545637487829,
+          -0.4540789723396301,
+          -0.11122788488864899
+        ],
+        [
+          0.4540789718014154,
+          0.45407897021968785,
+          0.9261844158172607
+        ]
+      ]
+    },
+    "Echoes:AmberTranslator": {
+      "center": [
+        5.522072799024613e-10,
+        -1.2268043525498484e-09,
+        0.011346012353897095
+      ],
+      "scale": 0.4859416778291168,
+      "bounds": [
+        [
+          -0.49303874449559576,
+          -0.4930387465215409,
+          -0.8117980360984802
+        ],
+        [
+          0.4930387456000103,
+          0.4930387440679322,
+          0.8344900608062744
+        ]
+      ]
+    },
+    "Echoes:CobaltTranslator": {
+      "center": [
+        5.522072799024613e-10,
+        -1.2268043525498484e-09,
+        0.011346012353897095
+      ],
+      "scale": 0.4859416778291168,
+      "bounds": [
+        [
+          -0.49303874449559576,
+          -0.4930387465215409,
+          -0.8117980360984802
+        ],
+        [
+          0.4930387456000103,
+          0.4930387440679322,
+          0.8344900608062744
+        ]
+      ]
+    },
+    "Echoes:EmeraldTranslator": {
+      "center": [
+        5.522072799024613e-10,
+        -1.2268043525498484e-09,
+        0.011346012353897095
+      ],
+      "scale": 0.4859416778291168,
+      "bounds": [
+        [
+          -0.49303874449559576,
+          -0.4930387465215409,
+          -0.8117980360984802
+        ],
+        [
+          0.4930387456000103,
+          0.4930387440679322,
+          0.8344900608062744
+        ]
+      ]
+    },
+    "Echoes:VioletTranslator": {
+      "center": [
+        5.522072799024613e-10,
+        -1.2268043525498484e-09,
+        0.011346012353897095
+      ],
+      "scale": 0.4859416778291168,
+      "bounds": [
+        [
+          -0.49303874449559576,
+          -0.4930387465215409,
+          -0.8117980360984802
+        ],
+        [
+          0.4930387456000103,
+          0.4930387440679322,
+          0.8344900608062744
+        ]
+      ]
+    },
+    "Echoes:EnergyTank": {
+      "center": [
+        -4.496097294470758e-08,
+        -2.9962915415460145e-07,
+        0.007779061794281006
+      ],
+      "scale": 0.502000491335502,
+      "bounds": [
+        [
+          -0.7968120140804773,
+          -0.7968122687486567,
+          -0.3707086741924286
+        ],
+        [
+          0.7968119241585314,
+          0.7968116694903484,
+          0.3862667977809906
+        ]
+      ]
+    },
+    "Echoes:DarkTempleKey": {
+      "center": [
+        -0.0008248764788731933,
+        0.6985550670965947,
+        -0.0004497332474414639
+      ],
+      "scale": 0.26532975643859774,
+      "bounds": [
+        [
+          -1.3469790298258886,
+          -0.8088805151202074,
+          -1.5080077447159648
+        ],
+        [
+          1.3453292768681422,
+          2.2059906493133967,
+          1.5071082782210818
+        ]
+      ]
+    },
+    "Echoes:SkyTempleKey": {
+      "center": [
+        -0.0008248764788731933,
+        0.6985550670965947,
+        -0.0004497332474414639
+      ],
+      "scale": 0.26532975643859774,
+      "bounds": [
+        [
+          -1.3469790298258886,
+          -0.8088805151202074,
+          -1.5080077447159648
+        ],
+        [
+          1.3453292768681422,
+          2.2059906493133967,
+          1.5071082782210818
+        ]
+      ]
+    },
+    "Echoes:DarkBeamAmmoExpansion": {
+      "center": [
+        1.2204026316242622e-05,
+        -1.0599711386394262e-09,
+        0.4074782654643059
+      ],
+      "scale": 0.7711495221867315,
+      "bounds": [
+        [
+          -0.4540545637487829,
+          -0.4540789723396301,
+          -0.11122788488864899
+        ],
+        [
+          0.4540789718014154,
+          0.45407897021968785,
+          0.9261844158172607
+        ]
+      ]
+    },
+    "Echoes:LightBeamAmmoExpansion": {
+      "center": [
+        1.2204026316242622e-05,
+        -1.0599711386394262e-09,
+        0.4074782654643059
+      ],
+      "scale": 0.7711495221867315,
+      "bounds": [
+        [
+          -0.4540545637487829,
+          -0.4540789723396301,
+          -0.11122788488864899
+        ],
+        [
+          0.4540789718014154,
+          0.45407897021968785,
+          0.9261844158172607
+        ]
+      ]
+    },
+    "Echoes:UnlimitedBeamAmmo": {
+      "center": [
+        1.2204026316242622e-05,
+        -1.0599711386394262e-09,
+        0.4074782654643059
+      ],
+      "scale": 0.7711495221867315,
+      "bounds": [
+        [
+          -0.4540545637487829,
+          -0.4540789723396301,
+          -0.11122788488864899
+        ],
+        [
+          0.4540789718014154,
+          0.45407897021968785,
+          0.9261844158172607
+        ]
+      ]
+    },
+    "Echoes:UnlimitedMissiles": {
+      "center": [
+        0.009450964213806257,
+        -1.7148164860869564e-06,
+        1.2686686549568549
+      ],
+      "scale": 0.7314113923040073,
+      "bounds": [
+        [
+          -0.3291306992473527,
+          -0.3480343499825834,
+          0.7217808101559058
+        ],
+        [
+          0.34803262767496523,
+          0.34803092034961125,
+          1.815556499757804
+        ]
+      ]
+    },
+    "Echoes:MissileExpansionLarge": {
+      "center": [
+        0.009450964213806257,
+        -1.7148164860869564e-06,
+        1.2686686549568549
+      ],
+      "scale": 0.7314113923040073,
+      "bounds": [
+        [
+          -0.3291306992473527,
+          -0.3480343499825834,
+          0.7217808101559058
+        ],
+        [
+          0.34803262767496523,
+          0.34803092034961125,
+          1.815556499757804
+        ]
+      ]
+    },
+    "Echoes:EnergyTankSmall": {
+      "center": [
+        -4.496097294470758e-08,
+        -2.9962915415460145e-07,
+        0.007779061794281006
+      ],
+      "scale": 0.502000491335502,
+      "bounds": [
+        [
+          -0.7968120140804773,
+          -0.7968122687486567,
+          -0.3707086741924286
+        ],
+        [
+          0.7968119241585314,
+          0.7968116694903484,
+          0.3862667977809906
+        ]
+      ]
+    },
+    "Echoes:CoinChest": {
+      "center": [
+        5.252422219381714e-09,
+        -9.363933739514607e-09,
+        2.390556357917376
+      ],
+      "scale": 0.32887280625236454,
+      "bounds": [
+        [
+          -0.8626992313582029,
+          -0.8626992424302671,
+          1.1742806659312919
+        ],
+        [
+          0.8626992418630474,
+          0.8626992237023996,
+          3.60683204990346
+        ]
+      ]
+    }
+  },
+  "inventories": {
+    "prime": [
+      "0059eb58c2501c27.ANIM",
+      "010d01f987b21e4e.CSKR",
+      "0215cc69547ddc1e.CSKR",
+      "024d09b27f90f54a.SAND",
+      "02dd86686660a98d.CHAR",
+      "036a11686ea1347e.TXTR",
+      "03d429590c84b6ce.CHAR",
+      "0653e7814a8388d8.TXTR",
+      "0681f6497163d71f.SAND",
+      "06a5c6852f93a178.ANIM",
+      "0881a4b513b52c75.TXTR",
+      "0a27965c84e33cbd.CSKR",
+      "0a32675e16cea628.PART",
+      "0bab9b2ad3728de3.TXTR",
+      "0c6bbbac884cbc1f.TXTR",
+      "0c936ba5eb649578.CSKR",
+      "0d2ff491335c1697.TXTR",
+      "0e7472ddb7f570cf.CSKR",
+      "0e8abef5e01fb01a.ANIM",
+      "0f4ab465ec27f868.CINF",
+      "0fea4a06a3ebdbe4.TXTR",
+      "1043f6c3cf446c2b.TXTR",
+      "10a2b8709cb9eeaf.CMDL",
+      "10fd216c7468dc11.CSKR",
+      "1103daf291a82946.SAND",
+      "11059e30ecdfa000.CINF",
+      "11b133cb0abf9acf.TXTR",
+      "11e37bcee4527732.CMDL",
+      "122d6f7c268dfe5c.TXTR",
+      "1251d4e21dc2dece.TXTR",
+      "13c930228852f9f0.CINF",
+      "13e96a108e54e374.PART",
+      "151ecc3f8af5312e.TXTR",
+      "1568f42861154c6c.SAND",
+      "1643d98b4f68daec.ANIM",
+      "17e09499263a6ac0.CSKR",
+      "19f2900e57586f66.TXTR",
+      "1ace15bda387242d.ANIM",
+      "1ad34eff546bbc19.CMDL",
+      "1b427659b8e824ea.SAND",
+      "1d57e44d90d34250.TXTR",
+      "1d964058472e060a.TXTR",
+      "1dbf5313fb9fa769.CSKR",
+      "1e6774e249a44241.CINF",
+      "1f326d4bf4e779a8.CSKR",
+      "1f51bb86b91d158e.ANIM",
+      "1f677ab43d327234.CMDL",
+      "1f761baae8b90a51.CSKR",
+      "203a5f6d9f93a00e.SAND",
+      "21c1d0ac9010a3d3.TXTR",
+      "2284569d6794c4fb.CMDL",
+      "22b9ab9050b29cf4.CHAR",
+      "23754ce5a724de52.CINF",
+      "2457833cd98601af.CHAR",
+      "2497ce6bb8324c1c.CINF",
+      "249e8a107ab7bcf7.TXTR",
+      "24e6d73dbca55e4c.ANIM",
+      "24f178c7482553b9.PART",
+      "2554c7a564bd5823.PART",
+      "257afbd2faff62d5.CHAR",
+      "262c8162cf67c7a7.CSKR",
+      "264e78e254c255af.TXTR",
+      "266f8b254753d542.SAND",
+      "276d56dcfd0f1a36.ANIM",
+      "27a98b31041ec526.ANIM",
+      "280ad01ad9bdc6ef.TXTR",
+      "2842ef84f0b3406e.CMDL",
+      "2922367eeb99088d.ANIM",
+      "299ff6c5b23198c9.CSKR",
+      "29f120dd9ca40abf.CSKR",
+      "2b1ae38233440104.SAND",
+      "2bcc22f859d74ddf.SAND",
+      "2c134b13f15d080f.CHAR",
+      "2d1a6f36a22c4a97.ANIM",
+      "2d26980132c3eba3.TXTR",
+      "2d6fa50e2a4c6dbf.CINF",
+      "2da887869e03b842.TXTR",
+      "2eb93d5daec40846.TXTR",
+      "2eeb5416a9a78019.CMDL",
+      "2f5e307c3ecd5013.CSKR",
+      "302a32ec8bcd80c9.CINF",
+      "32a944ad2988083f.TXTR",
+      "3316e7d7dedf38ac.CMDL",
+      "331f4b0e7a4e9b6a.PART",
+      "3390686d8c974177.CMDL",
+      "34123aba8ddbeab9.TXTR",
+      "346d16ea4be27934.CSKR",
+      "349b638758ac5928.SAND",
+      "353d000e3a997a3f.CMDL",
+      "36e147cd8f1d1a64.SAND",
+      "372815b08aedda89.CSKR",
+      "376b3b203ade92cf.SAND",
+      "3873bb4d139af758.CINF",
+      "38a04c805a0b5f48.CHAR",
+      "39416819ee820f04.TXTR",
+      "3a43808974472b4b.CINF",
+      "3a67723f8a6704c6.TXTR",
+      "3b2a0e71451344b5.TXTR",
+      "3bca5ccaa6b62201.PART",
+      "3c876b1bbacd0741.CINF",
+      "3ca5a9460581cab0.CINF",
+      "3ccf682baa14760d.CINF",
+      "3ce63ed8ba48945c.ANIM",
+      "3d836489ddaed91a.CSKR",
+      "3deb97c6e3038255.CSKR",
+      "403fef81b93fbc17.TXTR",
+      "40950b07c4c14a41.CSKR",
+      "415fe72f446ee64e.CSKR",
+      "41cc0fbed46dc771.ANIM",
+      "42c867c7d2038dbf.CHAR",
+      "43b7d9d29452d34a.TXTR",
+      "43c59be4b7f16e8f.CMDL",
+      "44551f1aa80827ce.CHAR",
+      "448c9e1cc241de3e.CSKR",
+      "45338adbeab82bd5.CINF",
+      "45f909cd8f9e8f2a.ANIM",
+      "472c93ba24dce0ad.ANIM",
+      "473b6979fa529e82.SAND",
+      "47c3f4c110a8dd65.CSKR",
+      "4862780e7340b349.SAND",
+      "48d52fac2337d81c.TXTR",
+      "4aaf7be26209488b.CMDL",
+      "4b95863123dad78b.SAND",
+      "4c156395d12e6268.PART",
+      "4c4a3d9f25c11991.CMDL",
+      "4cd6cb59ab74b220.TXTR",
+      "4f57eb5d784953f0.CMDL",
+      "501cf26de39003af.CHAR",
+      "5059b7c7c0aca845.CMDL",
+      "516606b5f5b535d0.CSKR",
+      "53513f5c98f60cdc.TXTR",
+      "5438dc26425dad87.CINF",
+      "560444111ccfbbe6.SAND",
+      "564a5552ad08b113.CINF",
+      "56a2e689726b421f.ANIM",
+      "56b0c3f122c777cd.CHAR",
+      "5919be7f7dac8d89.ANIM",
+      "59537e58b242725c.ANIM",
+      "5a8f48c3639fbd3d.CMDL",
+      "5b34de9548d73434.ANIM",
+      "5b820fb1a420bf73.CMDL",
+      "5c2a437a0b679034.ANIM",
+      "5c2b8278dbdb6eea.CINF",
+      "5c6f6075573adc56.TXTR",
+      "5cdd877b8ee940b4.ANIM",
+      "5ce6535fba3043b5.CSKR",
+      "5d57bb503d3c2f7e.SAND",
+      "5dba202e7ef8d60e.TXTR",
+      "5fae023455de2fba.ANIM",
+      "5fecafe05bb47d31.CSKR",
+      "61611559c20e6596.CINF",
+      "61f786fc18b14af2.CMDL",
+      "62d9e99e36f588ba.CHAR",
+      "6313ff1eba81185c.ANIM",
+      "634aa5c92d24c552.CINF",
+      "64a80cbf4fd4da7c.CHAR",
+      "6620d558c03b06f8.TXTR",
+      "6676212d028d185b.ANIM",
+      "67527d7641c39903.SAND",
+      "681bbf3c57c9d80d.TXTR",
+      "68a7ef6d1a30b9cd.SAND",
+      "69327713c8be60a2.CHAR",
+      "695ae0167c854663.CSKR",
+      "6990c15be996bb05.CHAR",
+      "69c92ab75bfe88a8.TXTR",
+      "6b55952718d593f4.CHAR",
+      "6c023d3b0a9fdc47.ANIM",
+      "6c13609e2a8be76d.TXTR",
+      "6cad385b525cf11c.SAND",
+      "6d4d38f1df3cd9ad.CSKR",
+      "6daf836e08c2f29e.CSKR",
+      "6e529a6d663df5e5.TXTR",
+      "6fb799b35fe20ffd.CINF",
+      "6fc30391457b4b2e.CINF",
+      "702d8f669ac654c6.TXTR",
+      "7178cbbb1a3f877a.TXTR",
+      "7490b4a55310c084.TXTR",
+      "75cf3b8cd9d4f2e1.CMDL",
+      "767e9b6ee4b72649.ANIM",
+      "77a9e8d1418a5904.CSKR",
+      "7805e31b68ac6d2a.TXTR",
+      "7837841a723a68a0.TXTR",
+      "789f571501a7efd5.CINF",
+      "790cdcedc438e6d9.ANIM",
+      "7a1d0b9fe39bc5e7.TXTR",
+      "7b684248e8a12ed7.CHAR",
+      "7b7981312fb78220.SAND",
+      "7df4492fd7553939.TXTR",
+      "7dfbd36578d52044.SAND",
+      "80e146b4cb9a1cbe.TXTR",
+      "81f5c2398c2c2d8f.SAND",
+      "822f747ce8868e67.SAND",
+      "83423d31086b05cc.TXTR",
+      "837c2637b113670e.CMDL",
+      "83ab340a29a71795.CINF",
+      "84338daf0f754f28.ANIM",
+      "8455fc4111cde969.CINF",
+      "84d43b55a1f9b05c.CHAR",
+      "84f77829ee6c1faa.ANIM",
+      "8501517e184025a6.ANIM",
+      "859b5157c926ba8d.TXTR",
+      "862ae405008e64df.CMDL",
+      "87a1670f1b7ac661.CHAR",
+      "87fa23a7575082de.CMDL",
+      "895434effadc6b51.CMDL",
+      "8a47be4134fe0448.SAND",
+      "8b763f29a958251f.CMDL",
+      "8ba4c1437b1ba721.SAND",
+      "8c7f8f1754e0f386.CHAR",
+      "8cc3315b583deb30.ANIM",
+      "8d3dc440879a6a3f.CSKR",
+      "8d6939bd75408537.TXTR",
+      "8df33d010cbbc9d7.CMDL",
+      "8e5a75385a020145.CMDL",
+      "8ef7afe6c9ea035d.CMDL",
+      "8f3a0a17a3b083ba.CINF",
+      "8f53406836b001e9.CMDL",
+      "90135c1129eb52b6.SAND",
+      "914d8846669d9dd3.CSKR",
+      "91741f263f49ff90.SAND",
+      "921fe5ab10ca7726.CHAR",
+      "922703847587247f.TXTR",
+      "926c80233ff81cc4.TXTR",
+      "92baac73e9345620.SAND",
+      "9317add680bb948f.TXTR",
+      "947f0cda3f029b31.TXTR",
+      "95687668a537f55a.TXTR",
+      "970e517ce5644f9a.CMDL",
+      "9826d825f8ba73ec.TXTR",
+      "991579a1927d12c3.CSKR",
+      "991a066478e5aa15.TXTR",
+      "99b93a79a3471b87.CHAR",
+      "9a36ae3e16af55e2.ANIM",
+      "9adb25a13eb3d155.CINF",
+      "9b612f13ec0c4571.PART",
+      "9b70f1b01c17079f.ANIM",
+      "9d5fd8ea90f03288.CINF",
+      "9dc79e2ea5e6e0a6.SAND",
+      "9e08b31fb1326566.CMDL",
+      "9e135c47ca883e1e.CHAR",
+      "9e2248c3f1693582.CHAR",
+      "9eb691c56a492587.CINF",
+      "9f1be0562208ac1f.TXTR",
+      "a03d7ee05ae78453.CINF",
+      "a08b5708cfdc3e64.CHAR",
+      "a0c5eba7ec5af076.CINF",
+      "a3fbdfbea63f5b4a.TXTR",
+      "a481cdde6cd13203.CHAR",
+      "a4d1cdf85005a884.ANIM",
+      "a4d94b7afa07976a.PART",
+      "a519ded83b8caf14.ANIM",
+      "a5425d8958b7ebb6.TXTR",
+      "a546c5d4ed738c97.CINF",
+      "a578e318f5542a39.TXTR",
+      "a5b7e7b399bf2a67.CHAR",
+      "a638f8e428736183.ANIM",
+      "a6d0871fb1ca0a8e.TXTR",
+      "a6f21edab4e34b66.CMDL",
+      "a6f52618e62c3a5f.CSKR",
+      "a7689329d6d1e649.TXTR",
+      "a7e3fd14fd0534fd.CHAR",
+      "a8ca458beb99842c.PART",
+      "a96cec173f214933.CMDL",
+      "a996dc41f931cc06.CMDL",
+      "aa054d9fb13c874e.SAND",
+      "aaa507811c7e5987.CSKR",
+      "ab70126dd456dc63.ANIM",
+      "abd3743d23d6b6d5.TXTR",
+      "adb2ac63f3c809ab.CINF",
+      "ade950e1af39e1b4.SAND",
+      "ae4b0b73b65bd0de.CSKR",
+      "aeaeae872fe7f26c.TXTR",
+      "af2db8d5a5e2c049.PART",
+      "af924590708ff124.SAND",
+      "af9dfda1855680d0.CHAR",
+      "b03c3de393664c92.TXTR",
+      "b0d17082f5a908f8.PART",
+      "b184078b05479158.CHAR",
+      "b28633c1f4d7360c.SAND",
+      "b43a27061d0f9215.TXTR",
+      "b4892d62f29acce0.CMDL",
+      "b51c180ede94ee3c.SAND",
+      "b601f7147fba6376.CHAR",
+      "b77593c84185af9f.CHAR",
+      "b8972b86f241992d.CSKR",
+      "b9914df8d35d86d3.CHAR",
+      "ba1c6878d3669ba0.CHAR",
+      "ba80a14873cda972.PART",
+      "bb97c512972aec4c.TXTR",
+      "bc4a886449142e80.CHAR",
+      "bc818dc29cf4ae9e.TXTR",
+      "bc9a8a41fb34e6b4.CMDL",
+      "bcb751a123262404.CINF",
+      "bcbcb6f3cfb738c3.SAND",
+      "bcffaa9644b02477.CSKR",
+      "bd3174bcb4104d12.CSKR",
+      "be383e0a5afbbfb4.ANIM",
+      "be82634b6dc15d8b.CHAR",
+      "beda0ba62983d782.SAND",
+      "bf08ab6b8c2e47bd.SAND",
+      "bf3a889b3f0bb38a.CINF",
+      "c05d28b18018aa79.CINF",
+      "c0f8b4b7f68944b1.SAND",
+      "c138249377316419.SAND",
+      "c25aa87fce506330.TXTR",
+      "c32f493f79b0440a.TXTR",
+      "c337bfadd67ff300.TXTR",
+      "c50d5ae33458995f.CMDL",
+      "c542372e9edc7c1c.CHAR",
+      "c5771f1e4ae202bd.CSKR",
+      "c610b2c83a5907ec.SAND",
+      "c6e53352d7e2e680.SAND",
+      "c765fdc60fbd0586.SAND",
+      "ca0b7088eb6191fe.TXTR",
+      "ca722ccbacfdf3fb.CINF",
+      "cb7838e3d384ddb5.CSKR",
+      "cc75ef703165d8f0.TXTR",
+      "cd702c03dbd1536b.CHAR",
+      "ce2085f1fec0468e.CSKR",
+      "cf3bafcdc4a51d41.SAND",
+      "cfae652ad398b8ab.TXTR",
+      "d0ac782c9526be61.CMDL",
+      "d1c7cf722356f123.CSKR",
+      "d334e3292e4facda.ANIM",
+      "d3507abbaebe4371.SAND",
+      "d46830ba610f412f.CINF",
+      "d51773723a11efa3.CMDL",
+      "d5487a28879af638.CMDL",
+      "d5d707cd99d8eade.CHAR",
+      "d5fb6ca80f0d5be7.ANIM",
+      "d6dc172fc77e10ae.CINF",
+      "d6e9040ffbfb1b57.CHAR",
+      "d78e04af5bbba833.ANIM",
+      "d7abbfd6e65468a9.CINF",
+      "d7c64d68c6fa15e6.CHAR",
+      "d895b2fc7c122f5e.CHAR",
+      "d8a248a397070306.ANIM",
+      "d8bbe983dd145b9a.TXTR",
+      "d96f388248a1d753.CHAR",
+      "da4ae178daeb3606.TXTR",
+      "da7134ee31188f0f.CMDL",
+      "db239e7094e9de5d.ANIM",
+      "db57d11b1e24015d.CINF",
+      "dbe7e69fb645546f.CINF",
+      "dc7d9d5c15e2d86a.CHAR",
+      "dd05608f84b0f1b2.CINF",
+      "ddca524224d121a0.CINF",
+      "de8b7ebdd75936ad.TXTR",
+      "dea2285ef70905c0.CHAR",
+      "deed684bbe3514c6.TXTR",
+      "df6c2a802bf5aa52.TXTR",
+      "e32eed3db6ba35fb.CINF",
+      "e35938d71a7fc432.TXTR",
+      "e3f326fe90a9bd9f.CINF",
+      "e461b8a6bf1474e8.TXTR",
+      "e4e08a461cd92741.CSKR",
+      "e820833d6a4379e9.TXTR",
+      "e876fb5b4f1e41d1.CMDL",
+      "e885b2bacd8361f8.ANIM",
+      "ea5d6ed21ca5cdc0.CMDL",
+      "edbf65108e52431f.SAND",
+      "ef46321215e3766b.CHAR",
+      "ef492efccc959172.SAND",
+      "ef82faf91519969e.ANIM",
+      "ef95e0c7a1185ccb.CINF",
+      "f044bae7bf55deed.TXTR",
+      "f07a3fa17b0fd1ca.CSKR",
+      "f0fe1b37934fd7c7.TXTR",
+      "f1d0ac37b713affe.TXTR",
+      "f39057b1f46abfab.TXTR",
+      "f433a359c02b5d9b.ANIM",
+      "f45f57f18cf41e68.TXTR",
+      "f5902dc98f135333.TXTR",
+      "f5ee5e89a582c2de.CSKR",
+      "f5f7fe3670c71ea3.TXTR",
+      "f63273a27361b17f.CMDL",
+      "f7ccdad0a8dd8975.CHAR",
+      "f82509fda2d770e6.CSKR",
+      "f86cd3288767e957.CMDL",
+      "f9eb1105211aaabb.PART",
+      "fa469f01eefe241c.CINF",
+      "fbbd87903bd378ca.TXTR",
+      "fc5c2e7ca242ca9f.TXTR",
+      "fc90e48e171b1e3c.CMDL",
+      "fcb69a666683d266.CMDL",
+      "fce52b33d02c666f.CSKR",
+      "fddac491ad6e076e.CMDL",
+      "fdf2f165bee8cfcf.ANIM",
+      "ff8c151b4ff1796c.TXTR"
+    ],
+    "echoes": [
+      "00d0809b229c95bf.CMDL",
+      "015d9f7c81d13575.CINF",
+      "01ad59f1ee72b9b0.SAND",
+      "02db59d54ac6e4f3.TXTR",
+      "034c874aff5eda7c.CMDL",
+      "0361df55da9d848a.CSKR",
+      "043526cc08ca76fd.CSKR",
+      "045995c2a27a0f94.CSKR",
+      "06f2195c2a82d881.CMDL",
+      "070e4f8a71ffdaef.ANIM",
+      "079d52177e355d27.CINF",
+      "08a5914780d57098.TXTR",
+      "08e3f25a630a62c3.CINF",
+      "0977a02833fe0b5f.PART",
+      "0ab6bf00ec1e3751.CMDL",
+      "0bacaecc36c750ed.CHAR",
+      "0c345c256c52e3e4.SAND",
+      "0d537d79065cc64f.CMDL",
+      "0e0a6c43a426fd99.TXTR",
+      "0ea1b8c62d0294c0.SAND",
+      "0eeab1726a87552f.CHAR",
+      "0fe7c08a21b5c5b6.CINF",
+      "10a22ebad35c3eaa.PART",
+      "11d248fff1240853.ANIM",
+      "130256f6af34c5b1.CINF",
+      "13058d310d1dce2e.SAND",
+      "1306d968a76d68ea.TXTR",
+      "138eb0414caf4a85.CSKR",
+      "141220398cd1ec64.SAND",
+      "153ba440dff18283.CHAR",
+      "159246f96419e677.CINF",
+      "16f707c8baa65e58.CMDL",
+      "175f9d49d25154c7.TXTR",
+      "19e67a740c3503b8.SAND",
+      "1ad62029d43a7bfb.CHAR",
+      "1b97541d173346f2.TXTR",
+      "1bea3186e84c85f8.ANIM",
+      "1fb026dd31018381.SAND",
+      "2087351371db70df.CHAR",
+      "20b9e5a7f361b24e.TXTR",
+      "212174112e3582cf.TXTR",
+      "21433e77994593fb.CHAR",
+      "2173bc6151dff946.CHAR",
+      "21f7b038ac8b8d4b.PART",
+      "221157811e4ad10c.SAND",
+      "22c298c7dc721ad1.PART",
+      "22cabb9f7d81b5e8.CMDL",
+      "233c4658bb79ea83.PART",
+      "237023402f71292e.TXTR",
+      "23ce65ad0fcda938.PART",
+      "23e62c92beca1095.SAND",
+      "24ea0aaf8516ac5c.TXTR",
+      "250deaa91aa24067.SAND",
+      "2566a8fbc7cbe2fc.SAND",
+      "259704536c43b2e1.TXTR",
+      "25e17e5d3e3ba9a9.CSKR",
+      "262fadc1bec5a991.CINF",
+      "2746d24c07eb6fd8.TXTR",
+      "27a01091ee3184bd.CHAR",
+      "27a01b63b20132da.CHAR",
+      "27a43b9a88b01587.CMDL",
+      "282b1234daa94df9.TXTR",
+      "28956d9802298e74.CHAR",
+      "29f04a525b6d6711.TXTR",
+      "2ae24678fa26cab6.TXTR",
+      "2b31d8836a7d7187.CINF",
+      "2cb0c34bf8d38586.TXTR",
+      "2d7a9bd8b45c35e8.ANIM",
+      "2de7baf650c62928.ANIM",
+      "2e165de6200b047d.CINF",
+      "2f591472749b6e83.CHAR",
+      "300961c7ab88ffb5.TXTR",
+      "30195a232aeec372.CINF",
+      "30ccacfd2aebe4a3.CSKR",
+      "31a3c739e243322c.CSKR",
+      "31ef18140de0e3f7.CMDL",
+      "33f617ba26258f2f.CSKR",
+      "34c7593da8eeafcd.CHAR",
+      "34e68d1497e11e66.CSKR",
+      "355095637109dfa7.CINF",
+      "35f3c0bbdf610c24.SAND",
+      "361374dedf3a2e6f.CMDL",
+      "3624c822c34edd8c.TXTR",
+      "3649dc08dcad8227.SAND",
+      "36665af8ae28c61c.SAND",
+      "36731eb6404a3828.ANIM",
+      "36bb239fc586382a.PART",
+      "36bd8bd195b9e441.CMDL",
+      "36de7b23cbcbac4a.CSKR",
+      "36fa379ff0f8c116.CMDL",
+      "37a16e42d35b63de.CHAR",
+      "385ad3fc386bb085.CSKR",
+      "390c8c89e2c92211.ANIM",
+      "393bc0bfa4604ce9.CINF",
+      "397eb4a03c46034b.CHAR",
+      "3aa66fd9f7210534.TXTR",
+      "3b3da5ef36c2aa04.TXTR",
+      "3b47127c7876e97f.PART",
+      "3b497007fa9468d8.CHAR",
+      "3c37f1649a6f6c80.TXTR",
+      "3cc846af1d980bde.CMDL",
+      "3ce216069fbbe536.CHAR",
+      "3e90b55c042cca64.ANIM",
+      "3f5bd1e72bf8c925.ANIM",
+      "3f7b5c63edad3499.SAND",
+      "3fc1a2422c7a334d.CHAR",
+      "4022da97ce4d2d2d.TXTR",
+      "41d97c201170dbff.CSKR",
+      "429d2af649612f14.TXTR",
+      "44760ead5396c7f0.ANIM",
+      "452b6ab9cc8522b8.TXTR",
+      "4574718d1377d3e9.TXTR",
+      "466d2739557606ee.PART",
+      "46d7a6f858f747a6.PART",
+      "46e5f48c34ae6573.TXTR",
+      "4834649643908021.CINF",
+      "494588e1a73a0195.ANIM",
+      "4a9ba2c6e4e5e744.CINF",
+      "4bbcb3670f15e241.CINF",
+      "4c2eabc31a818521.CSKR",
+      "4c3d4744a21596dc.PART",
+      "4c5511e10f7e6914.PART",
+      "4c9d519eda98e24a.CHAR",
+      "4d5a46c206260234.ANIM",
+      "4d682839656b4fbe.CMDL",
+      "4d9b187a88ad340e.CINF",
+      "4dc55a5d8b80f064.PART",
+      "4e2dea42a9cbf71d.TXTR",
+      "4e4125e3d53da4f6.CMDL",
+      "4e6571ce4b73ce34.CMDL",
+      "5053b92093d1240a.ANIM",
+      "51afce44b1c91e46.ANIM",
+      "5336fed077032a7f.TXTR",
+      "536df29eaaf0388e.TXTR",
+      "53d299ae403c1daf.TXTR",
+      "544d1564f142d2f4.TXTR",
+      "555f6208799740e0.CMDL",
+      "56fa4a61ff53d6fd.CINF",
+      "5b755dcb9eec75da.CMDL",
+      "5b91d6d0d6807bfc.PART",
+      "5db2329ba117992d.CMDL",
+      "5de15a6d7b7523fe.CINF",
+      "5e005b3bb223a825.CMDL",
+      "5e10dbd904b9807a.CMDL",
+      "5e4f087519428c24.TXTR",
+      "5f8f392cd3e8a47c.CINF",
+      "617095556a1f8c5c.ANIM",
+      "619a8f5b01568ece.TXTR",
+      "65f6c4d08a59ffd2.CMDL",
+      "663f74b4f0d1cd91.SAND",
+      "667c9869415edd00.TXTR",
+      "68b2263779857b24.CHAR",
+      "68b43ae9ecf98c86.CINF",
+      "68c39d3617920de4.CINF",
+      "693033f90b29eae0.CSKR",
+      "6a39922cc0f92891.CMDL",
+      "6b096b1b5c142445.ANIM",
+      "6b6237d3021a2c54.CSKR",
+      "6b6e120575bdca10.CMDL",
+      "6be808be6241dd98.PART",
+      "6fdb5498b4b161eb.CMDL",
+      "700eb93324734cd5.CHAR",
+      "70d0c74dad1d3e06.CINF",
+      "716f17144ef102e3.TXTR",
+      "7175ed4c23754da6.ANIM",
+      "7189a5f240e111f4.PART",
+      "71e45acb4dfa6270.SAND",
+      "729fdf6ef9b0c4ca.CINF",
+      "7495dcc7d197c0e9.TXTR",
+      "76510ee3b0c68615.CHAR",
+      "76f5a0df0d55f067.TXTR",
+      "773e5f007c3f630f.ANIM",
+      "77dabe3a519d76a5.SAND",
+      "78276b793a37260b.CSKR",
+      "783a131f50001b3c.SAND",
+      "79b3246f3602187a.CHAR",
+      "7a561cb99acaf91b.TXTR",
+      "7aebd65029f20ec7.TXTR",
+      "7b176ac3912de1eb.CHAR",
+      "7b1816cc475e3f61.CSKR",
+      "7b4c074f7f3190a6.SAND",
+      "7d0737bf8155a3d6.TXTR",
+      "7d94d5f57926ac31.CMDL",
+      "7db1f1eaa9763a4c.SAND",
+      "80559af405882199.CMDL",
+      "81e3dcecf46310c7.CINF",
+      "822f6dc8be2e1b5e.CHAR",
+      "82ae01d9840cd3da.TXTR",
+      "835ec1932f97f4e6.CSKR",
+      "8384293ce38a3425.ANIM",
+      "83d5d3440fbd91ec.PART",
+      "84a62b674f473cd9.ANIM",
+      "852830ba42e17e42.CMDL",
+      "85661a3e4e0056b7.CMDL",
+      "87290821edf73e55.TXTR",
+      "886cfe03e38876ac.CMDL",
+      "88d8dd859a376d91.ANIM",
+      "891c4b40dc9ef9fb.CSKR",
+      "898b3dc5b4fd9c5c.CHAR",
+      "8a4509c487fbfd34.SAND",
+      "8a4bbf0f58f9be4d.CSKR",
+      "8ad977b2e8facfd2.CMDL",
+      "8b5b0e904a543f61.TXTR",
+      "8bd0620ff0d2e86b.TXTR",
+      "8c1e1eb9574687ac.ANIM",
+      "8d74f3b252c38de6.CMDL",
+      "8e8be59ac4e7592f.CHAR",
+      "8f3874c09c54d826.SAND",
+      "8fb5f173a1ace28f.CINF",
+      "904f24ede7727b97.CSKR",
+      "932e0233e4f9bc98.CINF",
+      "93a771c137c5efb0.CSKR",
+      "95d08b0f79d837b4.TXTR",
+      "96852509205bb93a.SAND",
+      "96ebf6d20db09af3.CSKR",
+      "97052c892e27529f.ANIM",
+      "97bbdd5cc8ab3c99.CINF",
+      "9828dee7c9882d2a.ANIM",
+      "9899b8144404c33c.TXTR",
+      "98de87d841156823.TXTR",
+      "9947414c88ae696e.CSKR",
+      "9aa8a67f95866f0d.ANIM",
+      "9b0a11206e45964e.CSKR",
+      "9b31ef9243db26d1.TXTR",
+      "9b64193c8106e85c.ANIM",
+      "9d072579723e31f8.CHAR",
+      "9e51fbfe2a971ff7.TXTR",
+      "9e870e89e0f8a240.CINF",
+      "9e9e987eac835ac5.TXTR",
+      "9ffdff4ee1cc5a53.CHAR",
+      "a0364551d26ab3f2.CMDL",
+      "a114b61253199539.TXTR",
+      "a26e1df78459f159.ANIM",
+      "a2bf4f9e30f15ce2.CINF",
+      "a39acb6081a77817.TXTR",
+      "a3f66b95de556782.CINF",
+      "a4bbed1c3a82d786.CINF",
+      "a4f0b6da75289302.CMDL",
+      "a52f2d9ca994e7aa.CINF",
+      "a644539b404b539d.SAND",
+      "a7cb65307e632879.TXTR",
+      "a8aeb96b057721f4.TXTR",
+      "aa703d0b858d0717.TXTR",
+      "ac03e0e75604e25d.CSKR",
+      "ac8ed54d857e2ab8.SAND",
+      "acbb6b96b3640b94.CHAR",
+      "add7f030023bf2b9.TXTR",
+      "ae094e9c879795cd.CHAR",
+      "ae3386464686eb90.TXTR",
+      "af73ce47f01b13be.CMDL",
+      "af764fd2519de1e1.ANIM",
+      "b0d62670ad1cc99a.PART",
+      "b11ea7e1349c9e05.TXTR",
+      "b13951b3ce8a52d2.CSKR",
+      "b173cea9f6896b83.CINF",
+      "b207990777eba882.CHAR",
+      "b245436beeefc827.CHAR",
+      "b2933889eeabc5d9.ANIM",
+      "b3ab9570bf8addd7.PART",
+      "b411685dfb1f9f12.CHAR",
+      "b4121ffe09c792ca.ANIM",
+      "b494efb1e4d809de.ANIM",
+      "b63af32f0397c5a5.CMDL",
+      "b6443292c87cb351.SAND",
+      "b836bdd87394d608.CSKR",
+      "b8c01a94f6f07d94.SAND",
+      "b9cbbaa9ab678aa0.SAND",
+      "ba9d4d111be7cd62.CINF",
+      "bac48faa84d17157.PART",
+      "bac4ad00338bb674.SAND",
+      "bb3999e8c37111d5.CHAR",
+      "bbf84426f89958a8.CSKR",
+      "bc91a45e3a6ad142.ANIM",
+      "bd500f67d6ee3a7e.CHAR",
+      "bde256f628925d52.ANIM",
+      "bdfd9ffd474c636c.CSKR",
+      "c04e76dba12bcad4.PART",
+      "c0e1cb11e18c3b7c.CINF",
+      "c15119b3c77997a1.CSKR",
+      "c1662a8e2064b704.CSKR",
+      "c2b6d92616e7cc1c.CINF",
+      "c2c2060c0de2868f.SAND",
+      "c31e5b2f66ca255c.ANIM",
+      "c3235919613c408c.ANIM",
+      "c3afdc734ead2efa.SAND",
+      "c45526a414c8189b.TXTR",
+      "c502306c5f0737de.TXTR",
+      "c55fe9285c033b7c.ANIM",
+      "c64e8c1bbe59bcc7.PART",
+      "c6523e58f0e46b41.PART",
+      "c6f6887a6e41f717.CMDL",
+      "c7bc3fff8708c036.CINF",
+      "c84c52923f02740f.CHAR",
+      "c84ff323537d089c.CMDL",
+      "c86aaecf63923c92.PART",
+      "cab44b2192b9dcc4.CHAR",
+      "cb46feec4f301aef.CSKR",
+      "cbf7060be8d2d289.PART",
+      "cebd7671eb579cd6.TXTR",
+      "cfdb876e5d63cdc0.PART",
+      "d10657fd01b910e9.SAND",
+      "d1efe03bf81125b4.CMDL",
+      "d24db8766b5c5e0e.CMDL",
+      "d2f2d2d380a75391.SAND",
+      "d642f93218525b5e.ANIM",
+      "d65dc999790e3b8b.CHAR",
+      "d6f13ec5bce7dbdf.SAND",
+      "d760f3ea26309e49.TXTR",
+      "d793aa674ba3966b.TXTR",
+      "d930b9c5f4ef8b18.SAND",
+      "d9523da620de8066.CINF",
+      "d97bde6451cbf348.SAND",
+      "d9d4067859da94f3.SAND",
+      "da24c17a255d8e27.ANIM",
+      "da468e8757334c9d.TXTR",
+      "dabdbbad19e8c57c.SAND",
+      "db873aaadcda8b41.CINF",
+      "dcc1e5194467e47a.CINF",
+      "dd0046eea435f86c.CMDL",
+      "dda7d246cc91bcc2.TXTR",
+      "dddc8f87d74cdd3b.ANIM",
+      "deb4ac40b875e4e1.SAND",
+      "df0159f96c5e6e98.CHAR",
+      "df4a3992836493f6.TXTR",
+      "e1816572648b8966.TXTR",
+      "e26f781ac18eeb99.TXTR",
+      "e3c7fb30affb496f.TXTR",
+      "e4c1e09e8cb85e82.CINF",
+      "e5d5bd80c2c7cfa4.CSKR",
+      "e5fa66ba44cd6429.CMDL",
+      "e645aea04ebe560f.ANIM",
+      "e72c7b13ecf629cc.CSKR",
+      "e8e73dca1ccfb815.CHAR",
+      "ea63873c701812d7.PART",
+      "eadce3be33fcefe4.CSKR",
+      "ebb21643e05f1a52.CHAR",
+      "ecaeaa2317f935d6.TXTR",
+      "ed222e5f9e3465da.TXTR",
+      "ed24b0f86c3857fc.SAND",
+      "ed700bdd2c426ee3.SAND",
+      "eeba4314dc44c175.CINF",
+      "ef4e7cc4a8915b3f.TXTR",
+      "efb023dc9eafad8e.CSKR",
+      "f00b2768b6930079.CSKR",
+      "f0110e5c2816e32d.ANIM",
+      "f05caaeec5d152d9.PART",
+      "f07e2ae1f55cf124.TXTR",
+      "f4a02e0095001c40.TXTR",
+      "f50e85b1da78e2d8.CSKR",
+      "f539c88ac473fccc.ANIM",
+      "f584e8d9a7c0cc80.CHAR",
+      "f5a4e6f0eba71404.CSKR",
+      "f633f008f8fae2f7.TXTR",
+      "f65e0378603d8711.SAND",
+      "f7bb484ccd5b7a9a.ANIM",
+      "f836b0b9513ab11c.CINF",
+      "f8511d7da2e3f6b3.CMDL",
+      "f9046228de785aab.PART",
+      "f998e88739ddfbed.CSKR",
+      "fb962f0f0e516b7f.CSKR",
+      "fd16fd31c36a342e.CSKR",
+      "fe40c7949653ebb1.TXTR",
+      "fe474f7dd1b7766e.CHAR"
+    ]
+  }
+}
